@@ -1,0 +1,2060 @@
+﻿1
+00:00:00,000 --> 00:00:01,000
+
+
+2
+00:00:01,999 --> 00:00:03,599
+Traducido por:  D'SunLab
+
+3
+00:00:04,600 --> 00:00:06,000
+Hackerspace Monterrey
+
+4
+00:00:07,224 --> 00:00:08,557
+The Inventor's House
+
+5
+00:00:09,848 --> 00:00:11,248
+Hackerspace de México
+
+6
+00:00:27,000 --> 00:00:28,467
+Me llamo Mitch Altman,
+
+7
+00:00:30,810 --> 00:00:33,981
+soy inventor
+
+8
+00:00:34,796 --> 00:00:37,772
+y el resto viene en ingles, lo siento.
+
+9
+00:00:39,462 --> 00:00:40,824
+Pero soy inventor, lo he
+
+10
+00:00:41,520 --> 00:00:43,386
+sido toda mi vida, e invente
+
+11
+99:59:59,999 --> 100:00:00,000
+un llavero que me hizo
+
+12
+99:59:59,999 --> 100:00:00,000
+famoso. Es un llavero que
+
+13
+99:59:59,999 --> 100:00:00,000
+apaga televisiones en sitios
+
+14
+99:59:59,999 --> 100:00:00,000
+públicos, se llama TV-B-GONE.
+
+15
+99:59:59,999 --> 100:00:00,000
+Y, tambin soy conocido
+
+16
+99:59:59,999 --> 100:00:00,000
+por empezar un hackerspace
+
+17
+99:59:59,999 --> 100:00:00,000
+al inicio del movimiento
+
+18
+99:59:59,999 --> 100:00:00,000
+en el área de San Francisco,
+
+19
+99:59:59,999 --> 100:00:00,000
+se llama Noisebridge y
+
+20
+99:59:59,999 --> 100:00:00,000
+todos son bienvenidos. Voy
+
+21
+99:59:59,999 --> 100:00:00,000
+a hablar un poco de los
+
+22
+99:59:59,999 --> 100:00:00,000
+hackerspaces el día de hoy y
+
+23
+99:59:59,999 --> 100:00:00,000
+tambin he viajado por todo
+
+24
+99:59:59,999 --> 100:00:00,000
+el mundo dando charlas y
+
+25
+99:59:59,999 --> 100:00:00,000
+talleres, por cierto esta
+
+26
+99:59:59,999 --> 100:00:00,000
+de aquí es mi verdadera
+
+27
+99:59:59,999 --> 100:00:00,000
+información de contacto, por
+
+28
+99:59:59,999 --> 100:00:00,000
+favor sintanse libres de
+
+29
+99:59:59,999 --> 100:00:00,000
+utilizarla, estar feliz de
+
+30
+99:59:59,999 --> 100:00:00,000
+ayudar en cualquier cosa que
+
+31
+99:59:59,999 --> 100:00:00,000
+pueda con proyectos que
+
+32
+99:59:59,999 --> 100:00:00,000
+tengan, administrando un
+
+33
+99:59:59,999 --> 100:00:00,000
+pequeño negocio, he aprendido
+
+34
+99:59:59,999 --> 100:00:00,000
+mucho de mis errores al
+
+35
+99:59:59,999 --> 100:00:00,000
+administrar el negocio para
+
+36
+99:59:59,999 --> 100:00:00,000
+TV-B-GONE, si ocupan ayuda
+
+37
+99:59:59,999 --> 100:00:00,000
+manufacturando, ya sea quí
+
+38
+99:59:59,999 --> 100:00:00,000
+o en China o donde sea, o
+
+39
+99:59:59,999 --> 100:00:00,000
+si quieren ayuda con su
+
+40
+99:59:59,999 --> 100:00:00,000
+depresión, tambin se acerca
+
+41
+99:59:59,999 --> 100:00:00,000
+de eso, hablar un poco
+
+42
+99:59:59,999 --> 100:00:00,000
+más de eso más tarde. Pero
+
+43
+99:59:59,999 --> 100:00:00,000
+en lo que sea que pueda
+
+44
+99:59:59,999 --> 100:00:00,000
+ayudar, estoy feliz de hacerlo.
+
+45
+99:59:59,999 --> 100:00:00,000
+Una de las fuerzas
+
+46
+99:59:59,999 --> 100:00:00,000
+motivadoras más grandes en
+
+47
+99:59:59,999 --> 100:00:00,000
+mi vida mientras hago lo que
+
+48
+99:59:59,999 --> 100:00:00,000
+hago, es ayudar a la gente
+
+49
+99:59:59,999 --> 100:00:00,000
+a formar comunidades,
+
+50
+99:59:59,999 --> 100:00:00,000
+hace toda nuestra vida mucho
+
+51
+99:59:59,999 --> 100:00:00,000
+mejor cuando vivimos en
+
+52
+99:59:59,999 --> 100:00:00,000
+comunidad. Ya saben, por
+
+53
+99:59:59,999 --> 100:00:00,000
+eso estamos aquí. Si las
+
+54
+99:59:59,999 --> 100:00:00,000
+comunidades no fueran
+
+55
+99:59:59,999 --> 100:00:00,000
+importantes, podríamos estar en
+
+56
+99:59:59,999 --> 100:00:00,000
+casa, si tuviramos internet
+
+57
+99:59:59,999 --> 100:00:00,000
+pudiramos simplemente ver
+
+58
+99:59:59,999 --> 100:00:00,000
+a las personas haiendo cosas
+
+59
+99:59:59,999 --> 100:00:00,000
+divertidas en vez de ser
+
+60
+99:59:59,999 --> 100:00:00,000
+parte ello. Pero estamos
+
+61
+99:59:59,999 --> 100:00:00,000
+aquí porque las comunidades
+
+62
+99:59:59,999 --> 100:00:00,000
+son importantes. Pero durante
+
+63
+99:59:59,999 --> 100:00:00,000
+los siguientes… muchos
+
+64
+99:59:59,999 --> 100:00:00,000
+minutos, te hablar
+
+65
+99:59:59,999 --> 100:00:00,000
+apasionadamente, quizá te piqu un
+
+66
+99:59:59,999 --> 100:00:00,000
+poco, quizá te de algunas
+
+67
+99:59:59,999 --> 100:00:00,000
+cosas que te hagan pensar y
+
+68
+99:59:59,999 --> 100:00:00,000
+principalmente será sobre
+
+69
+99:59:59,999 --> 100:00:00,000
+las comunidades, porque la
+
+70
+99:59:59,999 --> 100:00:00,000
+comunidad es muy importante.
+
+71
+99:59:59,999 --> 100:00:00,000
+Pero como estoy muy metido
+
+72
+99:59:59,999 --> 100:00:00,000
+en los hackerspaces, tambin
+
+73
+99:59:59,999 --> 100:00:00,000
+hablar acerca de los
+
+74
+99:59:59,999 --> 100:00:00,000
+hackerspaces, porque son de
+
+75
+99:59:59,999 --> 100:00:00,000
+las comunidades más cool
+
+76
+99:59:59,999 --> 100:00:00,000
+que existen. Están llenos de
+
+77
+99:59:59,999 --> 100:00:00,000
+geeks como nosotros y son
+
+78
+99:59:59,999 --> 100:00:00,000
+divertidísimos. Dejen ver
+
+79
+99:59:59,999 --> 100:00:00,000
+si este apuntador funciona…
+
+80
+99:59:59,999 --> 100:00:00,000
+¡Sí funciona!, así que,
+
+81
+99:59:59,999 --> 100:00:00,000
+que hacemos en comunidad?
+
+82
+99:59:59,999 --> 100:00:00,000
+hacemos cosas juntos. El
+
+83
+99:59:59,999 --> 100:00:00,000
+título de la plática es
+
+84
+99:59:59,999 --> 100:00:00,000
+hackerspaces, comunidad y
+
+85
+99:59:59,999 --> 100:00:00,000
+la cultura DIY, porque la
+
+86
+99:59:59,999 --> 100:00:00,000
+mayoría de las personas han
+
+87
+99:59:59,999 --> 100:00:00,000
+escuchado ese trmino, pero
+
+88
+99:59:59,999 --> 100:00:00,000
+en verdad es DIT, DO IT TOGETHER
+
+89
+99:59:59,999 --> 100:00:00,000
+o hacerlo todos juntos.
+
+90
+99:59:59,999 --> 100:00:00,000
+Podemos hacer mucho solos,
+
+91
+99:59:59,999 --> 100:00:00,000
+pero podemos hacer mucho
+
+92
+99:59:59,999 --> 100:00:00,000
+mas en comunidad haciendo cosas juntos.
+
+93
+99:59:59,999 --> 100:00:00,000
+En comunidad
+
+94
+99:59:59,999 --> 100:00:00,000
+podemos hacer más colectivamente
+
+95
+99:59:59,999 --> 100:00:00,000
+de lo que podemos hacer
+
+96
+99:59:59,999 --> 100:00:00,000
+solos. Podemos hacer muchas
+
+97
+99:59:59,999 --> 100:00:00,000
+cosas diferentes, DIY o
+
+98
+99:59:59,999 --> 100:00:00,000
+DIT, pero con DIT podemos
+
+99
+99:59:59,999 --> 100:00:00,000
+hacer mucho más, podemos
+
+100
+99:59:59,999 --> 100:00:00,000
+reciclar cosas que de otro
+
+101
+99:59:59,999 --> 100:00:00,000
+modo se hubieran tirado
+
+102
+99:59:59,999 --> 100:00:00,000
+e invlucisve pudieran haber
+
+103
+99:59:59,999 --> 100:00:00,000
+sido desechos tóxicos.
+
+104
+99:59:59,999 --> 100:00:00,000
+Podemos arreglar cosas que
+
+105
+99:59:59,999 --> 100:00:00,000
+no fueron diseñadas para ser
+
+106
+99:59:59,999 --> 100:00:00,000
+arregladas asi como muchas
+
+107
+99:59:59,999 --> 100:00:00,000
+de las cosasde hoy no lo
+
+108
+99:59:59,999 --> 100:00:00,000
+están. Pero podemos arreglarlas,
+
+109
+99:59:59,999 --> 100:00:00,000
+podemos tambin darles
+
+110
+99:59:59,999 --> 100:00:00,000
+un nuevo propósito para
+
+111
+99:59:59,999 --> 100:00:00,000
+que nuestro proyecto sea
+
+112
+99:59:59,999 --> 100:00:00,000
+más cool o inclusive si
+
+113
+99:59:59,999 --> 100:00:00,000
+esas cosas no estaban
+
+114
+99:59:59,999 --> 100:00:00,000
+originalmente progamdas para
+
+115
+99:59:59,999 --> 100:00:00,000
+hacer nuestros proyectos más
+
+116
+99:59:59,999 --> 100:00:00,000
+cool, nosotros podemos hacerlo.
+
+117
+99:59:59,999 --> 100:00:00,000
+Tambin podemos crear
+
+118
+99:59:59,999 --> 100:00:00,000
+cosas, a partir de casi nada,
+
+119
+99:59:59,999 --> 100:00:00,000
+la electrónica por ejemplo
+
+120
+99:59:59,999 --> 100:00:00,000
+está hecha solamente de arena,
+
+121
+99:59:59,999 --> 100:00:00,000
+con pequeñas partículas
+
+122
+99:59:59,999 --> 100:00:00,000
+de arena podemos crear
+
+123
+99:59:59,999 --> 100:00:00,000
+cosas asombrosas, esto
+
+124
+99:59:59,999 --> 100:00:00,000
+es magia, y si no sabes como
+
+125
+99:59:59,999 --> 100:00:00,000
+hacer esta magia puedes
+
+126
+99:59:59,999 --> 100:00:00,000
+aprender con la ayuda de
+
+127
+99:59:59,999 --> 100:00:00,000
+comunidad, todos podemos
+
+128
+99:59:59,999 --> 100:00:00,000
+enseñar y compartir unos con otros.
+
+129
+99:59:59,999 --> 100:00:00,000
+Podemos hacer todo
+
+130
+99:59:59,999 --> 100:00:00,000
+esto, con la cultura del
+
+131
+99:59:59,999 --> 100:00:00,000
+DIT, es mucho más cool que
+
+132
+99:59:59,999 --> 100:00:00,000
+el desperdicio tóxio asi que
+
+133
+99:59:59,999 --> 100:00:00,000
+¡Oh si, tambin! Ya saben,
+
+134
+99:59:59,999 --> 100:00:00,000
+comprar cosas de una
+
+135
+99:59:59,999 --> 100:00:00,000
+fábrica, ya saben tiene su
+
+136
+99:59:59,999 --> 100:00:00,000
+lugar, pero no es ni
+
+137
+99:59:59,999 --> 100:00:00,000
+cercanamente tan cool como hacer
+
+138
+99:59:59,999 --> 100:00:00,000
+cosas en comunidad y divertirse,
+
+139
+99:59:59,999 --> 100:00:00,000
+comprar una cosa está
+
+140
+99:59:59,999 --> 100:00:00,000
+bien, pero hacer cosas juntos
+
+141
+99:59:59,999 --> 100:00:00,000
+es mucho más enriquecedor.
+
+142
+99:59:59,999 --> 100:00:00,000
+el tiempo en el que eras
+
+143
+99:59:59,999 --> 100:00:00,000
+parte de una comundad.
+
+144
+99:59:59,999 --> 100:00:00,000
+Una comunidad que te dio soporte.
+
+145
+99:59:59,999 --> 100:00:00,000
+Una comunidad que te
+
+146
+99:59:59,999 --> 100:00:00,000
+motivaba a ser todo lo que
+
+147
+99:59:59,999 --> 100:00:00,000
+tu eres, a sanar, que te
+
+148
+99:59:59,999 --> 100:00:00,000
+motivaba a crecer Una comunidad
+
+149
+99:59:59,999 --> 100:00:00,000
+llena de personas que
+
+150
+99:59:59,999 --> 100:00:00,000
+se preocupabam por ti, un
+
+151
+99:59:59,999 --> 100:00:00,000
+lugar donde te sentías a
+
+152
+99:59:59,999 --> 100:00:00,000
+salvo y maravilloso. Alguien
+
+153
+99:59:59,999 --> 100:00:00,000
+de aquí tiene realmente
+
+154
+99:59:59,999 --> 100:00:00,000
+recuerdos de una comunidad así?
+
+155
+99:59:59,999 --> 100:00:00,000
+Al parecer no… 1
+
+156
+99:59:59,999 --> 100:00:00,000
+persona! 2 persona! Ustedes
+
+157
+99:59:59,999 --> 100:00:00,000
+son súper suertudos, quizá
+
+158
+99:59:59,999 --> 100:00:00,000
+algunas personas, ustedes son
+
+159
+99:59:59,999 --> 100:00:00,000
+súper afortunados porque
+
+160
+99:59:59,999 --> 100:00:00,000
+para la mayoría de nosotros
+
+161
+99:59:59,999 --> 100:00:00,000
+no hemos tenido esa
+
+162
+99:59:59,999 --> 100:00:00,000
+experiencia. Si has tenido esa
+
+163
+99:59:59,999 --> 100:00:00,000
+experiencia, tienes tanto
+
+164
+99:59:59,999 --> 100:00:00,000
+por que seguir adelante, más
+
+165
+99:59:59,999 --> 100:00:00,000
+de lo que nosotros tenemos
+
+166
+99:59:59,999 --> 100:00:00,000
+por qud son pequeñísimas
+
+167
+99:59:59,999 --> 100:00:00,000
+y rarísimas comunidades
+
+168
+99:59:59,999 --> 100:00:00,000
+en nuestras vidas de nuestro
+
+169
+99:59:59,999 --> 100:00:00,000
+mundo moderno. Aún así,
+
+170
+99:59:59,999 --> 100:00:00,000
+todos necesitamos comunidad,
+
+171
+99:59:59,999 --> 100:00:00,000
+la necesitamos. Y para
+
+172
+99:59:59,999 --> 100:00:00,000
+saber porque, vamos a dar
+
+173
+99:59:59,999 --> 100:00:00,000
+un vistazo rápido al inicio
+
+174
+99:59:59,999 --> 100:00:00,000
+de nuestra especie. A diferencia
+
+175
+99:59:59,999 --> 100:00:00,000
+de Tiranosaurios Rex,
+
+176
+99:59:59,999 --> 100:00:00,000
+o tigres, nosotros no somos
+
+177
+99:59:59,999 --> 100:00:00,000
+criaturas que son fuertes,
+
+178
+99:59:59,999 --> 100:00:00,000
+con gran semblante. Así
+
+179
+99:59:59,999 --> 100:00:00,000
+no es como sobrevivimos,
+
+180
+99:59:59,999 --> 100:00:00,000
+sobrevivimos como especie
+
+181
+99:59:59,999 --> 100:00:00,000
+porque evolucionamos para
+
+182
+99:59:59,999 --> 100:00:00,000
+tener grandes cerebros,
+
+183
+99:59:59,999 --> 100:00:00,000
+juntandomos para apoyarnos en
+
+184
+99:59:59,999 --> 100:00:00,000
+comunidad, así es como
+
+185
+99:59:59,999 --> 100:00:00,000
+sobrebibimos, apoyandomos. Y
+
+186
+99:59:59,999 --> 100:00:00,000
+porque sobrevivimos, tenemos
+
+187
+99:59:59,999 --> 100:00:00,000
+esta neceidad interna
+
+188
+99:59:59,999 --> 100:00:00,000
+por comunidad. Aún cuando
+
+189
+99:59:59,999 --> 100:00:00,000
+ya no es necesaria para
+
+190
+99:59:59,999 --> 100:00:00,000
+sobrevir, aún está dentro de
+
+191
+99:59:59,999 --> 100:00:00,000
+nosotros, está en nuestro
+
+192
+99:59:59,999 --> 100:00:00,000
+ADN, de verdad, ¡la necesitamos!
+
+193
+99:59:59,999 --> 100:00:00,000
+Somos criaturas que
+
+194
+99:59:59,999 --> 100:00:00,000
+necesitan comunidad. Podemos
+
+195
+99:59:59,999 --> 100:00:00,000
+vivir sin ella, pero
+
+196
+99:59:59,999 --> 100:00:00,000
+no podemos prosperar sin
+
+197
+99:59:59,999 --> 100:00:00,000
+ella, no podemos sentir que
+
+198
+99:59:59,999 --> 100:00:00,000
+importamos sin ella. Todos
+
+199
+99:59:59,999 --> 100:00:00,000
+queremos, aun cuando somos
+
+200
+99:59:59,999 --> 100:00:00,000
+introvetidos como yo, y
+
+201
+99:59:59,999 --> 100:00:00,000
+probablemente la mayoría de
+
+202
+99:59:59,999 --> 100:00:00,000
+los que estmaos aquí, todos
+
+203
+99:59:59,999 --> 100:00:00,000
+necesitamos sentirnso
+
+204
+99:59:59,999 --> 100:00:00,000
+parte de algo más grande que nosotros.
+
+205
+99:59:59,999 --> 100:00:00,000
+Aún así, como
+
+206
+99:59:59,999 --> 100:00:00,000
+dije, hay solamente unas
+
+207
+99:59:59,999 --> 100:00:00,000
+cuantas muy pequeñas y raras
+
+208
+99:59:59,999 --> 100:00:00,000
+comunidades en nuestra vida.
+
+209
+99:59:59,999 --> 100:00:00,000
+Pero anhelamos esto, y
+
+210
+99:59:59,999 --> 100:00:00,000
+la buscamos de la manera que podemos.
+
+211
+99:59:59,999 --> 100:00:00,000
+Dependiendo de
+
+212
+99:59:59,999 --> 100:00:00,000
+quien seamos, quizá seamos
+
+213
+99:59:59,999 --> 100:00:00,000
+capaces de ncontrar comunidades,
+
+214
+99:59:59,999 --> 100:00:00,000
+en nuestra familia, pero
+
+215
+99:59:59,999 --> 100:00:00,000
+para muchos de nosotros,
+
+216
+99:59:59,999 --> 100:00:00,000
+nuestras familias no son muy
+
+217
+99:59:59,999 --> 100:00:00,000
+solidarias, algo tirste
+
+218
+99:59:59,999 --> 100:00:00,000
+pero cierto, y en nuestro
+
+219
+99:59:59,999 --> 100:00:00,000
+mundo moderno la gente
+
+220
+99:59:59,999 --> 100:00:00,000
+es muy transitoria, viaja
+
+221
+99:59:59,999 --> 100:00:00,000
+mucho, se muda mucho. Así
+
+222
+99:59:59,999 --> 100:00:00,000
+que probablemte ya no estemos
+
+223
+99:59:59,999 --> 100:00:00,000
+todos en un solo lugar.
+
+224
+99:59:59,999 --> 100:00:00,000
+Muchos de nosotros tratan
+
+225
+99:59:59,999 --> 100:00:00,000
+de encontrarlo en un lugar
+
+226
+99:59:59,999 --> 100:00:00,000
+de adoración, y eso ha de
+
+227
+99:59:59,999 --> 100:00:00,000
+funcionar para algunas
+
+228
+99:59:59,999 --> 100:00:00,000
+personas pero para muchos de
+
+229
+99:59:59,999 --> 100:00:00,000
+nosotros, lugares disponibles
+
+230
+99:59:59,999 --> 100:00:00,000
+no coinciden con quienes
+
+231
+99:59:59,999 --> 100:00:00,000
+somos nosotros en el
+
+232
+99:59:59,999 --> 100:00:00,000
+mundo moderno Alunos de
+
+233
+99:59:59,999 --> 100:00:00,000
+nosotros que vamos a educación
+
+234
+99:59:59,999 --> 100:00:00,000
+superior, quizá encontremos
+
+235
+99:59:59,999 --> 100:00:00,000
+comunidades buenas ahí,
+
+236
+99:59:59,999 --> 100:00:00,000
+algunos intentan obtener
+
+237
+99:59:59,999 --> 100:00:00,000
+comunidad donde estu disponible
+
+238
+99:59:59,999 --> 100:00:00,000
+en el trabajo… probablemente ahí no.
+
+239
+99:59:59,999 --> 100:00:00,000
+Usualmente
+
+240
+99:59:59,999 --> 100:00:00,000
+tratamos de sentir comunidad,
+
+241
+99:59:59,999 --> 100:00:00,000
+sentirnos parte de algo
+
+242
+99:59:59,999 --> 100:00:00,000
+más grande que nootros,
+
+243
+99:59:59,999 --> 100:00:00,000
+viendo todos los mismos shows
+
+244
+99:59:59,999 --> 100:00:00,000
+de televisión al mismo tiempo,
+
+245
+99:59:59,999 --> 100:00:00,000
+eso tampoco ha funcionado
+
+246
+99:59:59,999 --> 100:00:00,000
+tan bien. Más y más estamos
+
+247
+99:59:59,999 --> 100:00:00,000
+tratando de fomrar
+
+248
+99:59:59,999 --> 100:00:00,000
+comunidades en internet,
+
+249
+99:59:59,999 --> 100:00:00,000
+internetNo es grandioso que
+
+250
+99:59:59,999 --> 100:00:00,000
+el internet nos haya unido?
+
+251
+99:59:59,999 --> 100:00:00,000
+El internet es una gran
+
+252
+99:59:59,999 --> 100:00:00,000
+herramienta, pero no es un
+
+253
+99:59:59,999 --> 100:00:00,000
+gran lugar para verdaderas
+
+254
+99:59:59,999 --> 100:00:00,000
+comunidades. Y en una
+
+255
+99:59:59,999 --> 100:00:00,000
+extencsión todos los ejemplso
+
+256
+99:59:59,999 --> 100:00:00,000
+que mencione, nos dan algo
+
+257
+99:59:59,999 --> 100:00:00,000
+positivo, como internet,
+
+258
+99:59:59,999 --> 100:00:00,000
+escuelas, fábricas, famila,
+
+259
+99:59:59,999 --> 100:00:00,000
+etc Y ara algunos, estos
+
+260
+99:59:59,999 --> 100:00:00,000
+son lugares geniales para comunidades.
+
+261
+99:59:59,999 --> 100:00:00,000
+Pero la mayoría
+
+262
+99:59:59,999 --> 100:00:00,000
+de nosotros estamos
+
+263
+99:59:59,999 --> 100:00:00,000
+buscando, necesitando más,
+
+264
+99:59:59,999 --> 100:00:00,000
+necesitamos mucho más.
+
+265
+99:59:59,999 --> 100:00:00,000
+Tambiin al inicio de nuestra
+
+266
+99:59:59,999 --> 100:00:00,000
+especie, una de las maneras
+
+267
+99:59:59,999 --> 100:00:00,000
+en laque nos apoyábamos en
+
+268
+99:59:59,999 --> 100:00:00,000
+comunidad era creando y compartiendo
+
+269
+99:59:59,999 --> 100:00:00,000
+y enseñado herramientas
+
+270
+99:59:59,999 --> 100:00:00,000
+de verdad cool. Atraves
+
+271
+99:59:59,999 --> 100:00:00,000
+de los años hemos creado
+
+272
+99:59:59,999 --> 100:00:00,000
+muchísmas herramientas muy
+
+273
+99:59:59,999 --> 100:00:00,000
+cool, permitiendonos sobrevivr
+
+274
+99:59:59,999 --> 100:00:00,000
+en un ambinte en algunos casos hostil.
+
+275
+99:59:59,999 --> 100:00:00,000
+Ya saben,
+
+276
+99:59:59,999 --> 100:00:00,000
+hemos creado herramientas que
+
+277
+99:59:59,999 --> 100:00:00,000
+ayuden a mejorarnuestras
+
+278
+99:59:59,999 --> 100:00:00,000
+vidas, pero porque nos hemos
+
+279
+99:59:59,999 --> 100:00:00,000
+ayudado a sobrevivir,
+
+280
+99:59:59,999 --> 100:00:00,000
+sobrevivimos. Y porque
+
+281
+99:59:59,999 --> 100:00:00,000
+sobrevivimos la necesdad de crear
+
+282
+99:59:59,999 --> 100:00:00,000
+se queda con nosotros aún
+
+283
+99:59:59,999 --> 100:00:00,000
+cuando ya no necesitamos
+
+284
+99:59:59,999 --> 100:00:00,000
+estas herramientas, consevamos
+
+285
+99:59:59,999 --> 100:00:00,000
+esa necesdad interna.
+
+286
+99:59:59,999 --> 100:00:00,000
+Es otra de las cosas que
+
+287
+99:59:59,999 --> 100:00:00,000
+están en nuestro AND,
+
+288
+99:59:59,999 --> 100:00:00,000
+necesitamos crear en nuestras vidas.
+
+289
+99:59:59,999 --> 100:00:00,000
+Y afortunadamente,
+
+290
+99:59:59,999 --> 100:00:00,000
+hoy, más que nunca, tenemos
+
+291
+99:59:59,999 --> 100:00:00,000
+disponibles muchísimas
+
+292
+99:59:59,999 --> 100:00:00,000
+cosas, para cada una de
+
+293
+99:59:59,999 --> 100:00:00,000
+nuestras curiosidades únicas
+
+294
+99:59:59,999 --> 100:00:00,000
+y nuestros talentos. Dejenme
+
+295
+99:59:59,999 --> 100:00:00,000
+tomar un pequeño camino
+
+296
+99:59:59,999 --> 100:00:00,000
+alterno aquí, y ponerme
+
+297
+99:59:59,999 --> 100:00:00,000
+personal por un momento. Aún
+
+298
+99:59:59,999 --> 100:00:00,000
+cuado el día de hoy vivo
+
+299
+99:59:59,999 --> 100:00:00,000
+una vida que en verdad amo
+
+300
+99:59:59,999 --> 100:00:00,000
+vivir, cuando era un pequeño
+
+301
+99:59:59,999 --> 100:00:00,000
+geek, no era cool ser un
+
+302
+99:59:59,999 --> 100:00:00,000
+geek. Era brutalmente bulleado,
+
+303
+99:59:59,999 --> 100:00:00,000
+diariamente, apuntado*
+
+304
+99:59:59,999 --> 100:00:00,000
+por ser un geek introvertido,
+
+305
+99:59:59,999 --> 100:00:00,000
+gordo, gay, malo en
+
+306
+99:59:59,999 --> 100:00:00,000
+deportes, todas estas cosas
+
+307
+99:59:59,999 --> 100:00:00,000
+que los bullies pensaban
+
+308
+99:59:59,999 --> 100:00:00,000
+que eran terribles evidntemente.
+
+309
+99:59:59,999 --> 100:00:00,000
+Me mantuve lejos de
+
+310
+99:59:59,999 --> 100:00:00,000
+otras personas por miedo a
+
+311
+99:59:59,999 --> 100:00:00,000
+ser atormentado y golpeado,
+
+312
+99:59:59,999 --> 100:00:00,000
+l oque pasaba a diario,
+
+313
+99:59:59,999 --> 100:00:00,000
+tan a menudo mientras que
+
+314
+99:59:59,999 --> 100:00:00,000
+los maestros miraban.
+
+315
+99:59:59,999 --> 100:00:00,000
+mirabanSus maestros son tan
+
+316
+99:59:59,999 --> 100:00:00,000
+malos como lso de Estados Unidos?
+
+317
+99:59:59,999 --> 100:00:00,000
+Si, disculpen. Los
+
+318
+99:59:59,999 --> 100:00:00,000
+padres y los maestros
+
+319
+99:59:59,999 --> 100:00:00,000
+realmente no fueron de mucha
+
+320
+99:59:59,999 --> 100:00:00,000
+ayuda, ellso no tenían ni
+
+321
+99:59:59,999 --> 100:00:00,000
+idea, y para mi la vida era
+
+322
+99:59:59,999 --> 100:00:00,000
+totalmente un infierno
+
+323
+99:59:59,999 --> 100:00:00,000
+depresivo, de verdad. Así
+
+324
+99:59:59,999 --> 100:00:00,000
+que cuando regresaba a casa
+
+325
+99:59:59,999 --> 100:00:00,000
+me retiraba al mundo mágico
+
+326
+99:59:59,999 --> 100:00:00,000
+de la televisión. Mi
+
+327
+99:59:59,999 --> 100:00:00,000
+tecnología favorita, me sentía
+
+328
+99:59:59,999 --> 100:00:00,000
+parte de algio mientras
+
+329
+99:59:59,999 --> 100:00:00,000
+veía la televisión, pero el
+
+330
+99:59:59,999 --> 100:00:00,000
+show siempre terminaba,
+
+331
+99:59:59,999 --> 100:00:00,000
+dejandome no solamente donde
+
+332
+99:59:59,999 --> 100:00:00,000
+me encontraba antes de que
+
+333
+99:59:59,999 --> 100:00:00,000
+empezara, sino que peor,
+
+334
+99:59:59,999 --> 100:00:00,000
+debido a que no use ese tiempo
+
+335
+99:59:59,999 --> 100:00:00,000
+para hacer algo valioso
+
+336
+99:59:59,999 --> 100:00:00,000
+en mi vida, era mayormente
+
+337
+99:59:59,999 --> 100:00:00,000
+un escape, un intento
+
+338
+99:59:59,999 --> 100:00:00,000
+de evitarme y por supuesto… no funciona.
+
+339
+99:59:59,999 --> 100:00:00,000
+No puedes
+
+340
+99:59:59,999 --> 100:00:00,000
+evitarte a ti mismo, puedes
+
+341
+99:59:59,999 --> 100:00:00,000
+apagarlo temporalmente, asi
+
+342
+99:59:59,999 --> 100:00:00,000
+como estos dispositivos,
+
+343
+99:59:59,999 --> 100:00:00,000
+pero no funciona, me ponia
+
+344
+99:59:59,999 --> 100:00:00,000
+más deprimido y mas temeroso,
+
+345
+99:59:59,999 --> 100:00:00,000
+solo para convertirme
+
+346
+99:59:59,999 --> 100:00:00,000
+más en un blanco para los
+
+347
+99:59:59,999 --> 100:00:00,000
+bullies en la escuela, solo
+
+348
+99:59:59,999 --> 100:00:00,000
+para encerrarme otra vez en
+
+349
+99:59:59,999 --> 100:00:00,000
+el mundo de la televisión
+
+350
+99:59:59,999 --> 100:00:00,000
+cuando llegaa a casa… así
+
+351
+99:59:59,999 --> 100:00:00,000
+es, soy un adicto a la
+
+352
+99:59:59,999 --> 100:00:00,000
+televisión y no fue la única
+
+353
+99:59:59,999 --> 100:00:00,000
+manera de la que trate de
+
+354
+99:59:59,999 --> 100:00:00,000
+evitarme a mi mismo.. Como
+
+355
+99:59:59,999 --> 100:00:00,000
+era un geek introvertido,
+
+356
+99:59:59,999 --> 100:00:00,000
+tambirn trate de escaparme
+
+357
+99:59:59,999 --> 100:00:00,000
+de mi miserable vida,
+
+358
+99:59:59,999 --> 100:00:00,000
+enfocandome en proyectos geeky,,
+
+359
+99:59:59,999 --> 100:00:00,000
+estos eran realmente cool
+
+360
+99:59:59,999 --> 100:00:00,000
+y aprendí muchísmo haciendolos,
+
+361
+99:59:59,999 --> 100:00:00,000
+pero no aprendi como
+
+362
+99:59:59,999 --> 100:00:00,000
+manejar a otros niños, era
+
+363
+99:59:59,999 --> 100:00:00,000
+totalmente “SOLO” , tampoco
+
+364
+99:59:59,999 --> 100:00:00,000
+había comunidad, otros niños
+
+365
+99:59:59,999 --> 100:00:00,000
+en mi escuela, no encontrando
+
+366
+99:59:59,999 --> 100:00:00,000
+proyectos geeky cool enlso
+
+367
+99:59:59,999 --> 100:00:00,000
+cuales emocionarse,
+
+368
+99:59:59,999 --> 100:00:00,000
+o ninguna otra cosa que
+
+369
+99:59:59,999 --> 100:00:00,000
+valiera la pena, aúna así
+
+370
+99:59:59,999 --> 100:00:00,000
+todas esas personas neceistado
+
+371
+99:59:59,999 --> 100:00:00,000
+comunidad, encontraron
+
+372
+99:59:59,999 --> 100:00:00,000
+un tipo de comunidad
+
+373
+99:59:59,999 --> 100:00:00,000
+juntandose con otros bullies,
+
+374
+99:59:59,999 --> 100:00:00,000
+eso era una opción para
+
+375
+99:59:59,999 --> 100:00:00,000
+algunos de ellos. Realmente
+
+376
+99:59:59,999 --> 100:00:00,000
+necesitamos comunidad, así
+
+377
+99:59:59,999 --> 100:00:00,000
+que lo encontramos donde
+
+378
+99:59:59,999 --> 100:00:00,000
+podamos, y tomamos decisiones,
+
+379
+99:59:59,999 --> 100:00:00,000
+aún cuando no son
+
+380
+99:59:59,999 --> 100:00:00,000
+necsariamente para mejorar,
+
+381
+99:59:59,999 --> 100:00:00,000
+y aún cuando n oestamos tan
+
+382
+99:59:59,999 --> 100:00:00,000
+conscientes de esas decisiones,
+
+383
+99:59:59,999 --> 100:00:00,000
+no es siemrpe para
+
+384
+99:59:59,999 --> 100:00:00,000
+mejorar pero lo hacemos lo que podemos.
+
+385
+99:59:59,999 --> 100:00:00,000
+MINUTO 13.25
+
+386
+99:59:59,999 --> 100:00:00,000
+De adultos es bien importante
+
+387
+99:59:59,999 --> 100:00:00,000
+estar conscientes de
+
+388
+99:59:59,999 --> 100:00:00,000
+eso debido a que podemso
+
+389
+99:59:59,999 --> 100:00:00,000
+ser facilmente manipulados
+
+390
+99:59:59,999 --> 100:00:00,000
+a travos de nuestros deseos.
+
+391
+99:59:59,999 --> 100:00:00,000
+Especialmente nuestros
+
+392
+99:59:59,999 --> 100:00:00,000
+deseos más profundos, como
+
+393
+99:59:59,999 --> 100:00:00,000
+la neceisdad de comunidad
+
+394
+99:59:59,999 --> 100:00:00,000
+puede manifestarse de maneras
+
+395
+99:59:59,999 --> 100:00:00,000
+inocuas, como artidos de
+
+396
+99:59:59,999 --> 100:00:00,000
+fútbol importantes o pueden
+
+397
+99:59:59,999 --> 100:00:00,000
+imaginarse lo que se
+
+398
+99:59:59,999 --> 100:00:00,000
+hubiera sentido ser parte
+
+399
+99:59:59,999 --> 100:00:00,000
+de las millones de personas
+
+400
+99:59:59,999 --> 100:00:00,000
+levantando sus pequeños brazos
+
+401
+99:59:59,999 --> 100:00:00,000
+hondeando pequeños libros
+
+402
+99:59:59,999 --> 100:00:00,000
+rojos en una plaza hace
+
+403
+99:59:59,999 --> 100:00:00,000
+tiempo, o inclusive mucho
+
+404
+99:59:59,999 --> 100:00:00,000
+tiempo atrás levantando
+
+405
+99:59:59,999 --> 100:00:00,000
+los brazos y hondeandolos
+
+406
+99:59:59,999 --> 100:00:00,000
+mientras cantabamos al
+
+407
+99:59:59,999 --> 100:00:00,000
+unísono junto a millones de
+
+408
+99:59:59,999 --> 100:00:00,000
+personas en Nuremburgo, en la
+
+409
+99:59:59,999 --> 100:00:00,000
+Alemania de los 30’s . ASi
+
+410
+99:59:59,999 --> 100:00:00,000
+que, como sea. El punto es,
+
+411
+99:59:59,999 --> 100:00:00,000
+que las comunidades son
+
+412
+99:59:59,999 --> 100:00:00,000
+poderosas y si las necesitamos,
+
+413
+99:59:59,999 --> 100:00:00,000
+saí que usemos esto,
+
+414
+99:59:59,999 --> 100:00:00,000
+usemos esta necesidad
+
+415
+99:59:59,999 --> 100:00:00,000
+interna para hacer algo más
+
+416
+99:59:59,999 --> 100:00:00,000
+psitivo, yo propongo eventos
+
+417
+99:59:59,999 --> 100:00:00,000
+como este, eventos como
+
+418
+99:59:59,999 --> 100:00:00,000
+estos en los que estamos
+
+419
+99:59:59,999 --> 100:00:00,000
+ahora, Jalisco… este lugar es
+
+420
+99:59:59,999 --> 100:00:00,000
+asombroso, asombrosoNo es así?...
+
+421
+99:59:59,999 --> 100:00:00,000
+Jalisco Campus Party,
+
+422
+99:59:59,999 --> 100:00:00,000
+no tenía idea de que esperar
+
+423
+99:59:59,999 --> 100:00:00,000
+de este evento, pero
+
+424
+99:59:59,999 --> 100:00:00,000
+ha sido asombroso, ya saben,
+
+425
+99:59:59,999 --> 100:00:00,000
+aquí nos hemos juntado,
+
+426
+99:59:59,999 --> 100:00:00,000
+aprendemos, compartimos,
+
+427
+99:59:59,999 --> 100:00:00,000
+nos conocemos y tambi n
+
+428
+99:59:59,999 --> 100:00:00,000
+jugamos…¡Es fantástico! Como
+
+429
+99:59:59,999 --> 100:00:00,000
+resultado, ¡mágia pasa!
+
+430
+99:59:59,999 --> 100:00:00,000
+Que han aprendido aquí?
+
+431
+99:59:59,999 --> 100:00:00,000
+Probablemente muchísimas cosas
+
+432
+99:59:59,999 --> 100:00:00,000
+diferentes , muchas de las
+
+433
+99:59:59,999 --> 100:00:00,000
+cuales ni siquiera esperadas,
+
+434
+99:59:59,999 --> 100:00:00,000
+esperadasQue tal si compartieran aquí?
+
+435
+99:59:59,999 --> 100:00:00,000
+aquíQue
+
+436
+99:59:59,999 --> 100:00:00,000
+oportunidades han encontrado?
+
+437
+99:59:59,999 --> 100:00:00,000
+encontradoQue direcciones
+
+438
+99:59:59,999 --> 100:00:00,000
+estan considerando ahora son
+
+439
+99:59:59,999 --> 100:00:00,000
+totalmente nuvas en sus
+
+440
+99:59:59,999 --> 100:00:00,000
+vidas que los llevaran a
+
+441
+99:59:59,999 --> 100:00:00,000
+quien sabe donde, solo por
+
+442
+99:59:59,999 --> 100:00:00,000
+que vinieron aqu a esta
+
+443
+99:59:59,999 --> 100:00:00,000
+comunidad, quizá conocieron
+
+444
+99:59:59,999 --> 100:00:00,000
+a alguien que conocerán por
+
+445
+99:59:59,999 --> 100:00:00,000
+muchísimo tiempo? Estos
+
+446
+99:59:59,999 --> 100:00:00,000
+son solo algunos ejemplos
+
+447
+99:59:59,999 --> 100:00:00,000
+de las osas que pasan cando
+
+448
+99:59:59,999 --> 100:00:00,000
+la gente se junta en comunidad
+
+449
+99:59:59,999 --> 100:00:00,000
+, ya saben , hagamos lo
+
+450
+99:59:59,999 --> 100:00:00,000
+máximo de esta magia mientras
+
+451
+99:59:59,999 --> 100:00:00,000
+la tenemos, solamente
+
+452
+99:59:59,999 --> 100:00:00,000
+tenemos otro día o dos, este
+
+453
+99:59:59,999 --> 100:00:00,000
+evento va a terminar, pero
+
+454
+99:59:59,999 --> 100:00:00,000
+la magia no tiene porque
+
+455
+99:59:59,999 --> 100:00:00,000
+terminar, pero por que este
+
+456
+99:59:59,999 --> 100:00:00,000
+evento va a terminar, tambiin
+
+457
+99:59:59,999 --> 100:00:00,000
+propongo otra manera,
+
+458
+99:59:59,999 --> 100:00:00,000
+otra manera maravillosa de
+
+459
+99:59:59,999 --> 100:00:00,000
+comunidad… ¡Hackerspaces!
+
+460
+99:59:59,999 --> 100:00:00,000
+¡Los Hackerspaces son íncreibles!
+
+461
+99:59:59,999 --> 100:00:00,000
+No tienen por que
+
+462
+99:59:59,999 --> 100:00:00,000
+terminar, la magia no tiene
+
+463
+99:59:59,999 --> 100:00:00,000
+por que terminar, estas
+
+464
+99:59:59,999 --> 100:00:00,000
+ocmunidades siguen porque
+
+465
+99:59:59,999 --> 100:00:00,000
+la gente las inicia y las
+
+466
+99:59:59,999 --> 100:00:00,000
+mantiene vivas… vivasCuántas
+
+467
+99:59:59,999 --> 100:00:00,000
+personas de auqí han ido
+
+468
+99:59:59,999 --> 100:00:00,000
+a algún hackerspace? ¡WOW!
+
+469
+99:59:59,999 --> 100:00:00,000
+Algunos, pero aún hay
+
+470
+99:59:59,999 --> 100:00:00,000
+muchísimos que no han ido
+
+471
+99:59:59,999 --> 100:00:00,000
+MINUTO 16:18 Pero para las
+
+472
+99:59:59,999 --> 100:00:00,000
+personas que han ido a alguno…
+
+473
+99:59:59,999 --> 100:00:00,000
+saben que son asombrosos,
+
+474
+99:59:59,999 --> 100:00:00,000
+asombrososverdad? Puedes
+
+475
+99:59:59,999 --> 100:00:00,000
+hacer muchísimas cosas
+
+476
+99:59:59,999 --> 100:00:00,000
+asombrosas ahí . Hoy en día
+
+477
+99:59:59,999 --> 100:00:00,000
+hay más de 2,000 hackerspaces
+
+478
+99:59:59,999 --> 100:00:00,000
+en el planeta y están
+
+479
+99:59:59,999 --> 100:00:00,000
+creciendo rapidamente y son
+
+480
+99:59:59,999 --> 100:00:00,000
+bienvenidos en cada uno de
+
+481
+99:59:59,999 --> 100:00:00,000
+ellos Todos ellos son lugares
+
+482
+99:59:59,999 --> 100:00:00,000
+abiertos donde son bienvenidos
+
+483
+99:59:59,999 --> 100:00:00,000
+por favor visiten
+
+484
+99:59:59,999 --> 100:00:00,000
+uno o visiten muchos.
+
+485
+99:59:59,999 --> 100:00:00,000
+Ustedes definitivamente son
+
+486
+99:59:59,999 --> 100:00:00,000
+bienvenidos Donde sea que
+
+487
+99:59:59,999 --> 100:00:00,000
+vivas, donde quiera que vayas
+
+488
+99:59:59,999 --> 100:00:00,000
+, sumate a la magia, beneficiate
+
+489
+99:59:59,999 --> 100:00:00,000
+de la magia, manten
+
+490
+99:59:59,999 --> 100:00:00,000
+la magia viva. Hackerspace,
+
+491
+99:59:59,999 --> 100:00:00,000
+o tambinn se les conoce
+
+492
+99:59:59,999 --> 100:00:00,000
+como mackerspaces, fab labs,
+
+493
+99:59:59,999 --> 100:00:00,000
+muchos nombres pero la
+
+494
+99:59:59,999 --> 100:00:00,000
+verdad es que todos signiican
+
+495
+99:59:59,999 --> 100:00:00,000
+la misma cosa. Todos
+
+496
+99:59:59,999 --> 100:00:00,000
+ellos son lugares donde gente
+
+497
+99:59:59,999 --> 100:00:00,000
+de todos los niveles de
+
+498
+99:59:59,999 --> 100:00:00,000
+conocimiento desde novatos
+
+499
+99:59:59,999 --> 100:00:00,000
+a expertos y todo lo que
+
+500
+99:59:59,999 --> 100:00:00,000
+está en medio se unen en un
+
+501
+99:59:59,999 --> 100:00:00,000
+lugar físico como aquí pero
+
+502
+99:59:59,999 --> 100:00:00,000
+van ahí a aprender y a
+
+503
+99:59:59,999 --> 100:00:00,000
+aprender y compartir lo que
+
+504
+99:59:59,999 --> 100:00:00,000
+sea que ellos consideren cool.
+
+505
+99:59:59,999 --> 100:00:00,000
+Y lo hacen en una manera
+
+506
+99:59:59,999 --> 100:00:00,000
+colaborativa, en una
+
+507
+99:59:59,999 --> 100:00:00,000
+comunidad colaborativa donde
+
+508
+99:59:59,999 --> 100:00:00,000
+todos son motivados a explorar
+
+509
+99:59:59,999 --> 100:00:00,000
+y a hacerlo que ellos
+
+510
+99:59:59,999 --> 100:00:00,000
+aman iciar la plática,
+
+511
+99:59:59,999 --> 100:00:00,000
+hacindonos pensar a todos
+
+512
+99:59:59,999 --> 100:00:00,000
+acerca de las comunidades.
+
+513
+99:59:59,999 --> 100:00:00,000
+Vamos a pensar en la
+
+514
+99:59:59,999 --> 100:00:00,000
+comunidad en cada una de sus
+
+515
+99:59:59,999 --> 100:00:01,732
+vidas, quieo preguntarte e
+
