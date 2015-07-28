@@ -1,2052 +1,2055 @@
 ﻿1
-00:00:01,999 --> 00:00:03,599
+00:00:00,099 --> 00:00:02,099
 Traducido por:  D'SunLab
 
 2
-00:00:04,600 --> 00:00:06,000
-Hackerspace Monterrey
+00:00:03,630 --> 00:00:05,706
+http://www.dsunlabs.com/
 
 3
-00:00:07,224 --> 00:00:08,557
-The Inventor's House
+00:00:05,800 --> 00:00:07,800
+Hackerspace Monterrey
 
 4
-00:00:09,848 --> 00:00:11,248
-Hackerspace de México
+00:00:07,824 --> 00:00:09,923
+http://hsmty.org/
 
 5
+00:00:09,924 --> 00:00:11,957
+The Inventor's House
+
+6
+00:00:11,981 --> 00:00:14,047
+theinventorhouse.org
+
+7
+00:00:14,048 --> 00:00:16,048
+Hackerspace de México
+
+8
 00:00:27,000 --> 00:00:28,467
 Me llamo Mitch Altman,
 
-6
+9
 00:00:30,810 --> 00:00:33,981
 soy inventor
 
-7
+10
 00:00:34,796 --> 00:00:37,772
 y el resto viene en ingles, lo siento.
 
-8
+11
 00:00:39,462 --> 00:00:40,824
 Pero soy inventor, lo he
 
-9
+12
 00:00:41,520 --> 00:00:42,721
 sido toda mi vida, e invente
 
-10
+13
 00:00:43,804 --> 00:00:45,005
 un llavero que me hizo famoso
 
-11
+14
 00:00:46,788 --> 00:00:48,289
  Es un llavero que apaga televisiones
 
-12
+15
 00:00:49,846 --> 00:00:51,113
 en sitios públicos,
 
-13
+16
 00:00:52,224 --> 00:00:53,225
 se llama TV-B-GONE.
 
-14
+17
 00:01:01,163 --> 00:01:02,164
 Y, tambien soy conocido
 
-15
+18
 00:01:02,653 --> 00:01:04,328
 por empezar iniciar el primer hackerspace
 
-16
+19
 00:01:05,393 --> 00:01:06,796
 en el área de San Francisco,
 
-17
+20
 00:01:07,027 --> 00:01:08,157
 se llama Noisebridge y
 
-18
+21
 00:01:08,990 --> 00:01:09,991
 todos son bienvenidos
 
-19
+22
 00:01:11,018 --> 00:01:12,223
  Voy a hablar un poco de los
 
-20
+23
 00:01:12,231 --> 00:01:13,332
 hackerspaces el día de hoy
 
-21
-00:01:13,342 --> 00:01:13,343
+24
+00:01:13,821 --> 00:01:15,043
 y tambien he viajado por todo
 
-22
-99:59:59,999 --> 100:00:00,000
-el mundo dando charlas y
-
-23
-99:59:59,999 --> 100:00:00,000
-talleres, por cierto esta
-
-24
-99:59:59,999 --> 100:00:00,000
-de aquí es mi verdadera
-
 25
-99:59:59,999 --> 100:00:00,000
-información de contacto, por
+00:01:15,821 --> 00:01:17,222
+el mundo dando charlas y talleres,
 
 26
-99:59:59,999 --> 100:00:00,000
-favor sintanse libres de
+00:01:19,053 --> 00:01:20,348
+por cierto aquí esta
 
 27
-99:59:59,999 --> 100:00:00,000
-utilizarla, estar feliz de
+00:01:20,348 --> 00:01:22,027
+es mi verdaderai información de contacto
 
 28
-99:59:59,999 --> 100:00:00,000
-ayudar en cualquier cosa que
+00:01:22,444 --> 00:01:24,045
+por favor sintanse libres de utilizarla,
 
 29
-99:59:59,999 --> 100:00:00,000
-pueda con proyectos que
+00:01:26,602 --> 00:01:27,732
+estar feliz de
 
 30
-99:59:59,999 --> 100:00:00,000
-tengan, administrando un
+00:01:28,309 --> 00:01:29,510
+ayudar en cualquier cosa que
 
 31
-99:59:59,999 --> 100:00:00,000
-pequeño negocio, he aprendido
+00:01:29,656 --> 00:01:30,957
+pueda con proyectos que tengan,
 
 32
-99:59:59,999 --> 100:00:00,000
-mucho de mis errores al
+00:01:31,806 --> 00:01:33,207
+administrando un pequeño negocio,
 
 33
-99:59:59,999 --> 100:00:00,000
-administrar el negocio para
+00:01:33,784 --> 00:01:35,185
+he aprendido mucho de mis errores
 
 34
-99:59:59,999 --> 100:00:00,000
-TV-B-GONE, si ocupan ayuda
+00:01:36,321 --> 00:01:37,422
+ al administrar el negocio
 
 35
-99:59:59,999 --> 100:00:00,000
-manufacturando, ya sea quí
+00:01:37,326 --> 00:01:38,327
+ para TV-B-GONE,
 
 36
-99:59:59,999 --> 100:00:00,000
-o en China o donde sea, o
+00:01:39,094 --> 00:01:40,195
+si ocupan ayuda manufacturando,
 
 37
-99:59:59,999 --> 100:00:00,000
-si quieren ayuda con su
+00:01:40,286 --> 00:01:40,987
+ya sea aquí
 
 38
-99:59:59,999 --> 100:00:00,000
-depresión, tambin se acerca
+00:01:41,084 --> 00:01:42,085
+o en China o donde sea,
 
 39
-99:59:59,999 --> 100:00:00,000
-de eso, hablar un poco
+00:01:43,393 --> 00:01:44,894
+ o si quieren ayuda con su depresión,
 
 40
-99:59:59,999 --> 100:00:00,000
-más de eso más tarde. Pero
+00:01:45,127 --> 00:01:44,778
+ tambien se acerca de eso,
 
 41
-99:59:59,999 --> 100:00:00,000
-en lo que sea que pueda
+00:01:47,592 --> 00:01:49,093
+hablar un poco más de eso más tarde.
 
 42
-99:59:59,999 --> 100:00:00,000
+00:01:50,265 --> 00:01:52,766
+ Pero en lo que sea que pueda 
 ayudar, estoy feliz de hacerlo.
 
 43
-99:59:59,999 --> 100:00:00,000
+00:01:55,626 --> 00:01:56,627
 Una de las fuerzas
 
 44
-99:59:59,999 --> 100:00:00,000
+00:01:57,330 --> 00:01:58,692
 motivadoras más grandes en
 
 45
-99:59:59,999 --> 100:00:00,000
+00:01:58,613 --> 00:02:00,014
 mi vida mientras hago lo que
+hago,
 
 46
-99:59:59,999 --> 100:00:00,000
-hago, es ayudar a la gente
+00:02:00,900 --> 00:02:02,001
+es ayudar a la gente
 
 47
-99:59:59,999 --> 100:00:00,000
+00:02:02,270 --> 00:02:03,271
 a formar comunidades,
 
 48
-99:59:59,999 --> 100:00:00,000
+00:02:04,632 --> 00:02:05,833
 hace toda nuestra vida mucho
 
 49
-99:59:59,999 --> 100:00:00,000
+00:02:07,591 --> 00:02:09,092
 mejor cuando vivimos en
+comunidad.
 
 50
-99:59:59,999 --> 100:00:00,000
-comunidad. Ya saben, por
+00:02:10,273 --> 00:02:11,574
+ Ya saben, por
+eso estamos aquí.
 
 51
-99:59:59,999 --> 100:00:00,000
-eso estamos aquí. Si las
+00:02:12,065 --> 00:02:13,741
+ Si las comunidades no fueran
+importantes,
 
 52
-99:59:59,999 --> 100:00:00,000
-comunidades no fueran
+00:02:14,128 --> 00:02:15,193
+podríamos estar en
+casa,
 
 53
-99:59:59,999 --> 100:00:00,000
-importantes, podríamos estar en
+00:02:15,723 --> 00:02:16,764
+si tuviramos internet
 
 54
-99:59:59,999 --> 100:00:00,000
-casa, si tuviramos internet
-
-55
-99:59:59,999 --> 100:00:00,000
+00:02:16,893 --> 00:02:17,975
 pudiramos simplemente ver
 
-56
-99:59:59,999 --> 100:00:00,000
+55
+00:02:18,828 --> 00:02:19,962
 a las personas haiendo cosas
 
-57
-99:59:59,999 --> 100:00:00,000
+56
+00:02:19,989 --> 00:02:21,390
 divertidas en vez de ser
+parte ello.
+
+57
+00:02:21,947 --> 00:02:22,948
+Pero estamos aquí
 
 58
-99:59:59,999 --> 100:00:00,000
-parte ello. Pero estamos
+00:02:23,385 --> 00:02:24,966
+porque las comunidades son importantes.
 
 59
-99:59:59,999 --> 100:00:00,000
-aquí porque las comunidades
+00:02:24,872 --> 00:02:25,873
+Pero durante
 
 60
-99:59:59,999 --> 100:00:00,000
-son importantes. Pero durante
+00:02:26,219 --> 00:02:27,370
+los siguientes… muchos
+minutos,
 
 61
-99:59:59,999 --> 100:00:00,000
-los siguientes… muchos
+00:02:27,410 --> 00:02:28,511
+te hablar apasionadamente,
 
 62
-99:59:59,999 --> 100:00:00,000
-minutos, te hablar
+00:02:29,789 --> 00:02:30,854
+ quizá te pique un
+poco,
 
 63
-99:59:59,999 --> 100:00:00,000
-apasionadamente, quizá te piqu un
+00:02:31,929 --> 00:02:33,013
+quizá te de algunas
 
 64
-99:59:59,999 --> 100:00:00,000
-poco, quizá te de algunas
-
-65
-99:59:59,999 --> 100:00:00,000
+00:02:33,546 --> 00:02:34,645
 cosas que te hagan pensar y
 
-66
-99:59:59,999 --> 100:00:00,000
+65
+00:02:37,461 --> 00:02:39,125
 principalmente será sobre
+las comunidades,
+
+66
+00:02:39,490 --> 00:02:40,891
+ porque la comunidad es muy importante.
 
 67
-99:59:59,999 --> 100:00:00,000
-las comunidades, porque la
+00:02:40,932 --> 00:02:42,033
+Pero como estoy muy metido
 
 68
-99:59:59,999 --> 100:00:00,000
-comunidad es muy importante.
+00:02:41,945 --> 00:02:42,946
+en los hackerspaces,
 
 69
-99:59:59,999 --> 100:00:00,000
-Pero como estoy muy metido
+99:59:59,999 --> 100:00:01,900
+ tambien hablar acerca de los
+hackerspaces,
 
 70
 99:59:59,999 --> 100:00:00,000
-en los hackerspaces, tambin
+ porque son de
 
 71
 99:59:59,999 --> 100:00:00,000
-hablar acerca de los
+las comunidades más cool
 
 72
 99:59:59,999 --> 100:00:00,000
-hackerspaces, porque son de
+que existen. Están llenos de
 
 73
 99:59:59,999 --> 100:00:00,000
-las comunidades más cool
+geeks como nosotros y son
 
 74
 99:59:59,999 --> 100:00:00,000
-que existen. Están llenos de
+divertidísimos. Dejen ver
 
 75
 99:59:59,999 --> 100:00:00,000
-geeks como nosotros y son
+si este apuntador funciona…
 
 76
 99:59:59,999 --> 100:00:00,000
-divertidísimos. Dejen ver
+¡Sí funciona!, así que,
 
 77
 99:59:59,999 --> 100:00:00,000
-si este apuntador funciona…
+que hacemos en comunidad?
 
 78
 99:59:59,999 --> 100:00:00,000
-¡Sí funciona!, así que,
+hacemos cosas juntos. El
 
 79
 99:59:59,999 --> 100:00:00,000
-que hacemos en comunidad?
+título de la plática es
 
 80
 99:59:59,999 --> 100:00:00,000
-hacemos cosas juntos. El
+hackerspaces, comunidad y
 
 81
 99:59:59,999 --> 100:00:00,000
-título de la plática es
+la cultura DIY, porque la
 
 82
 99:59:59,999 --> 100:00:00,000
-hackerspaces, comunidad y
+mayoría de las personas han
 
 83
 99:59:59,999 --> 100:00:00,000
-la cultura DIY, porque la
+escuchado ese trmino, pero
 
 84
 99:59:59,999 --> 100:00:00,000
-mayoría de las personas han
+en verdad es DIT, DO IT TOGETHER
 
 85
 99:59:59,999 --> 100:00:00,000
-escuchado ese trmino, pero
+o hacerlo todos juntos.
 
 86
 99:59:59,999 --> 100:00:00,000
-en verdad es DIT, DO IT TOGETHER
+Podemos hacer mucho solos,
 
 87
 99:59:59,999 --> 100:00:00,000
-o hacerlo todos juntos.
+pero podemos hacer mucho
 
 88
 99:59:59,999 --> 100:00:00,000
-Podemos hacer mucho solos,
+mas en comunidad haciendo cosas juntos.
 
 89
 99:59:59,999 --> 100:00:00,000
-pero podemos hacer mucho
+En comunidad
 
 90
 99:59:59,999 --> 100:00:00,000
-mas en comunidad haciendo cosas juntos.
+podemos hacer más colectivamente
 
 91
 99:59:59,999 --> 100:00:00,000
-En comunidad
+de lo que podemos hacer
 
 92
 99:59:59,999 --> 100:00:00,000
-podemos hacer más colectivamente
+solos. Podemos hacer muchas
 
 93
 99:59:59,999 --> 100:00:00,000
-de lo que podemos hacer
+cosas diferentes, DIY o
 
 94
 99:59:59,999 --> 100:00:00,000
-solos. Podemos hacer muchas
+DIT, pero con DIT podemos
 
 95
 99:59:59,999 --> 100:00:00,000
-cosas diferentes, DIY o
+hacer mucho más, podemos
 
 96
 99:59:59,999 --> 100:00:00,000
-DIT, pero con DIT podemos
+reciclar cosas que de otro
 
 97
 99:59:59,999 --> 100:00:00,000
-hacer mucho más, podemos
+modo se hubieran tirado
 
 98
 99:59:59,999 --> 100:00:00,000
-reciclar cosas que de otro
+e invlucisve pudieran haber
 
 99
 99:59:59,999 --> 100:00:00,000
-modo se hubieran tirado
+sido desechos tóxicos.
 
 100
 99:59:59,999 --> 100:00:00,000
-e invlucisve pudieran haber
+Podemos arreglar cosas que
 
 101
 99:59:59,999 --> 100:00:00,000
-sido desechos tóxicos.
+no fueron diseñadas para ser
 
 102
 99:59:59,999 --> 100:00:00,000
-Podemos arreglar cosas que
+arregladas asi como muchas
 
 103
 99:59:59,999 --> 100:00:00,000
-no fueron diseñadas para ser
+de las cosasde hoy no lo
 
 104
 99:59:59,999 --> 100:00:00,000
-arregladas asi como muchas
+están. Pero podemos arreglarlas,
 
 105
 99:59:59,999 --> 100:00:00,000
-de las cosasde hoy no lo
+podemos tambin darles
 
 106
 99:59:59,999 --> 100:00:00,000
-están. Pero podemos arreglarlas,
+un nuevo propósito para
 
 107
 99:59:59,999 --> 100:00:00,000
-podemos tambin darles
+que nuestro proyecto sea
 
 108
 99:59:59,999 --> 100:00:00,000
-un nuevo propósito para
+más cool o inclusive si
 
 109
 99:59:59,999 --> 100:00:00,000
-que nuestro proyecto sea
+esas cosas no estaban
 
 110
 99:59:59,999 --> 100:00:00,000
-más cool o inclusive si
+originalmente progamdas para
 
 111
 99:59:59,999 --> 100:00:00,000
-esas cosas no estaban
+hacer nuestros proyectos más
 
 112
 99:59:59,999 --> 100:00:00,000
-originalmente progamdas para
+cool, nosotros podemos hacerlo.
 
 113
 99:59:59,999 --> 100:00:00,000
-hacer nuestros proyectos más
+Tambin podemos crear
 
 114
 99:59:59,999 --> 100:00:00,000
-cool, nosotros podemos hacerlo.
+cosas, a partir de casi nada,
 
 115
 99:59:59,999 --> 100:00:00,000
-Tambin podemos crear
+la electrónica por ejemplo
 
 116
 99:59:59,999 --> 100:00:00,000
-cosas, a partir de casi nada,
+está hecha solamente de arena,
 
 117
 99:59:59,999 --> 100:00:00,000
-la electrónica por ejemplo
+con pequeñas partículas
 
 118
 99:59:59,999 --> 100:00:00,000
-está hecha solamente de arena,
+de arena podemos crear
 
 119
 99:59:59,999 --> 100:00:00,000
-con pequeñas partículas
+cosas asombrosas, esto
 
 120
 99:59:59,999 --> 100:00:00,000
-de arena podemos crear
+es magia, y si no sabes como
 
 121
 99:59:59,999 --> 100:00:00,000
-cosas asombrosas, esto
+hacer esta magia puedes
 
 122
 99:59:59,999 --> 100:00:00,000
-es magia, y si no sabes como
+aprender con la ayuda de
 
 123
 99:59:59,999 --> 100:00:00,000
-hacer esta magia puedes
+comunidad, todos podemos
 
 124
 99:59:59,999 --> 100:00:00,000
-aprender con la ayuda de
+enseñar y compartir unos con otros.
 
 125
 99:59:59,999 --> 100:00:00,000
-comunidad, todos podemos
+Podemos hacer todo
 
 126
 99:59:59,999 --> 100:00:00,000
-enseñar y compartir unos con otros.
+esto, con la cultura del
 
 127
 99:59:59,999 --> 100:00:00,000
-Podemos hacer todo
+DIT, es mucho más cool que
 
 128
 99:59:59,999 --> 100:00:00,000
-esto, con la cultura del
+el desperdicio tóxio asi que
 
 129
 99:59:59,999 --> 100:00:00,000
-DIT, es mucho más cool que
+¡Oh si, tambin! Ya saben,
 
 130
 99:59:59,999 --> 100:00:00,000
-el desperdicio tóxio asi que
+comprar cosas de una
 
 131
 99:59:59,999 --> 100:00:00,000
-¡Oh si, tambin! Ya saben,
+fábrica, ya saben tiene su
 
 132
 99:59:59,999 --> 100:00:00,000
-comprar cosas de una
+lugar, pero no es ni
 
 133
 99:59:59,999 --> 100:00:00,000
-fábrica, ya saben tiene su
+cercanamente tan cool como hacer
 
 134
 99:59:59,999 --> 100:00:00,000
-lugar, pero no es ni
+cosas en comunidad y divertirse,
 
 135
 99:59:59,999 --> 100:00:00,000
-cercanamente tan cool como hacer
+comprar una cosa está
 
 136
 99:59:59,999 --> 100:00:00,000
-cosas en comunidad y divertirse,
+bien, pero hacer cosas juntos
 
 137
 99:59:59,999 --> 100:00:00,000
-comprar una cosa está
+es mucho más enriquecedor.
 
 138
 99:59:59,999 --> 100:00:00,000
-bien, pero hacer cosas juntos
+el tiempo en el que eras
 
 139
 99:59:59,999 --> 100:00:00,000
-es mucho más enriquecedor.
+parte de una comundad.
 
 140
 99:59:59,999 --> 100:00:00,000
-el tiempo en el que eras
+Una comunidad que te dio soporte.
 
 141
 99:59:59,999 --> 100:00:00,000
-parte de una comundad.
+Una comunidad que te
 
 142
 99:59:59,999 --> 100:00:00,000
-Una comunidad que te dio soporte.
+motivaba a ser todo lo que
 
 143
 99:59:59,999 --> 100:00:00,000
-Una comunidad que te
+tu eres, a sanar, que te
 
 144
 99:59:59,999 --> 100:00:00,000
-motivaba a ser todo lo que
+motivaba a crecer Una comunidad
 
 145
 99:59:59,999 --> 100:00:00,000
-tu eres, a sanar, que te
+llena de personas que
 
 146
 99:59:59,999 --> 100:00:00,000
-motivaba a crecer Una comunidad
+se preocupabam por ti, un
 
 147
 99:59:59,999 --> 100:00:00,000
-llena de personas que
+lugar donde te sentías a
 
 148
 99:59:59,999 --> 100:00:00,000
-se preocupabam por ti, un
+salvo y maravilloso. Alguien
 
 149
 99:59:59,999 --> 100:00:00,000
-lugar donde te sentías a
+de aquí tiene realmente
 
 150
 99:59:59,999 --> 100:00:00,000
-salvo y maravilloso. Alguien
+recuerdos de una comunidad así?
 
 151
 99:59:59,999 --> 100:00:00,000
-de aquí tiene realmente
+Al parecer no… 1
 
 152
 99:59:59,999 --> 100:00:00,000
-recuerdos de una comunidad así?
+persona! 2 persona! Ustedes
 
 153
 99:59:59,999 --> 100:00:00,000
-Al parecer no… 1
+son súper suertudos, quizá
 
 154
 99:59:59,999 --> 100:00:00,000
-persona! 2 persona! Ustedes
+algunas personas, ustedes son
 
 155
 99:59:59,999 --> 100:00:00,000
-son súper suertudos, quizá
+súper afortunados porque
 
 156
 99:59:59,999 --> 100:00:00,000
-algunas personas, ustedes son
+para la mayoría de nosotros
 
 157
 99:59:59,999 --> 100:00:00,000
-súper afortunados porque
+no hemos tenido esa
 
 158
 99:59:59,999 --> 100:00:00,000
-para la mayoría de nosotros
+experiencia. Si has tenido esa
 
 159
 99:59:59,999 --> 100:00:00,000
-no hemos tenido esa
+experiencia, tienes tanto
 
 160
 99:59:59,999 --> 100:00:00,000
-experiencia. Si has tenido esa
+por que seguir adelante, más
 
 161
 99:59:59,999 --> 100:00:00,000
-experiencia, tienes tanto
+de lo que nosotros tenemos
 
 162
 99:59:59,999 --> 100:00:00,000
-por que seguir adelante, más
+por qud son pequeñísimas
 
 163
 99:59:59,999 --> 100:00:00,000
-de lo que nosotros tenemos
+y rarísimas comunidades
 
 164
 99:59:59,999 --> 100:00:00,000
-por qud son pequeñísimas
+en nuestras vidas de nuestro
 
 165
 99:59:59,999 --> 100:00:00,000
-y rarísimas comunidades
+mundo moderno. Aún así,
 
 166
 99:59:59,999 --> 100:00:00,000
-en nuestras vidas de nuestro
+todos necesitamos comunidad,
 
 167
 99:59:59,999 --> 100:00:00,000
-mundo moderno. Aún así,
+la necesitamos. Y para
 
 168
 99:59:59,999 --> 100:00:00,000
-todos necesitamos comunidad,
+saber porque, vamos a dar
 
 169
 99:59:59,999 --> 100:00:00,000
-la necesitamos. Y para
+un vistazo rápido al inicio
 
 170
 99:59:59,999 --> 100:00:00,000
-saber porque, vamos a dar
+de nuestra especie. A diferencia
 
 171
 99:59:59,999 --> 100:00:00,000
-un vistazo rápido al inicio
+de Tiranosaurios Rex,
 
 172
 99:59:59,999 --> 100:00:00,000
-de nuestra especie. A diferencia
+o tigres, nosotros no somos
 
 173
 99:59:59,999 --> 100:00:00,000
-de Tiranosaurios Rex,
+criaturas que son fuertes,
 
 174
 99:59:59,999 --> 100:00:00,000
-o tigres, nosotros no somos
+con gran semblante. Así
 
 175
 99:59:59,999 --> 100:00:00,000
-criaturas que son fuertes,
+no es como sobrevivimos,
 
 176
 99:59:59,999 --> 100:00:00,000
-con gran semblante. Así
+sobrevivimos como especie
 
 177
 99:59:59,999 --> 100:00:00,000
-no es como sobrevivimos,
+porque evolucionamos para
 
 178
 99:59:59,999 --> 100:00:00,000
-sobrevivimos como especie
+tener grandes cerebros,
 
 179
 99:59:59,999 --> 100:00:00,000
-porque evolucionamos para
+juntandomos para apoyarnos en
 
 180
 99:59:59,999 --> 100:00:00,000
-tener grandes cerebros,
+comunidad, así es como
 
 181
 99:59:59,999 --> 100:00:00,000
-juntandomos para apoyarnos en
+sobrebibimos, apoyandomos. Y
 
 182
 99:59:59,999 --> 100:00:00,000
-comunidad, así es como
+porque sobrevivimos, tenemos
 
 183
 99:59:59,999 --> 100:00:00,000
-sobrebibimos, apoyandomos. Y
+esta neceidad interna
 
 184
 99:59:59,999 --> 100:00:00,000
-porque sobrevivimos, tenemos
+por comunidad. Aún cuando
 
 185
 99:59:59,999 --> 100:00:00,000
-esta neceidad interna
+ya no es necesaria para
 
 186
 99:59:59,999 --> 100:00:00,000
-por comunidad. Aún cuando
+sobrevir, aún está dentro de
 
 187
 99:59:59,999 --> 100:00:00,000
-ya no es necesaria para
+nosotros, está en nuestro
 
 188
 99:59:59,999 --> 100:00:00,000
-sobrevir, aún está dentro de
+ADN, de verdad, ¡la necesitamos!
 
 189
 99:59:59,999 --> 100:00:00,000
-nosotros, está en nuestro
+Somos criaturas que
 
 190
 99:59:59,999 --> 100:00:00,000
-ADN, de verdad, ¡la necesitamos!
+necesitan comunidad. Podemos
 
 191
 99:59:59,999 --> 100:00:00,000
-Somos criaturas que
+vivir sin ella, pero
 
 192
 99:59:59,999 --> 100:00:00,000
-necesitan comunidad. Podemos
+no podemos prosperar sin
 
 193
 99:59:59,999 --> 100:00:00,000
-vivir sin ella, pero
+ella, no podemos sentir que
 
 194
 99:59:59,999 --> 100:00:00,000
-no podemos prosperar sin
+importamos sin ella. Todos
 
 195
 99:59:59,999 --> 100:00:00,000
-ella, no podemos sentir que
+queremos, aun cuando somos
 
 196
 99:59:59,999 --> 100:00:00,000
-importamos sin ella. Todos
+introvetidos como yo, y
 
 197
 99:59:59,999 --> 100:00:00,000
-queremos, aun cuando somos
+probablemente la mayoría de
 
 198
 99:59:59,999 --> 100:00:00,000
-introvetidos como yo, y
+los que estmaos aquí, todos
 
 199
 99:59:59,999 --> 100:00:00,000
-probablemente la mayoría de
+necesitamos sentirnso
 
 200
 99:59:59,999 --> 100:00:00,000
-los que estmaos aquí, todos
+parte de algo más grande que nosotros.
 
 201
 99:59:59,999 --> 100:00:00,000
-necesitamos sentirnso
+Aún así, como
 
 202
 99:59:59,999 --> 100:00:00,000
-parte de algo más grande que nosotros.
+dije, hay solamente unas
 
 203
 99:59:59,999 --> 100:00:00,000
-Aún así, como
+cuantas muy pequeñas y raras
 
 204
 99:59:59,999 --> 100:00:00,000
-dije, hay solamente unas
+comunidades en nuestra vida.
 
 205
 99:59:59,999 --> 100:00:00,000
-cuantas muy pequeñas y raras
+Pero anhelamos esto, y
 
 206
 99:59:59,999 --> 100:00:00,000
-comunidades en nuestra vida.
+la buscamos de la manera que podemos.
 
 207
 99:59:59,999 --> 100:00:00,000
-Pero anhelamos esto, y
+Dependiendo de
 
 208
 99:59:59,999 --> 100:00:00,000
-la buscamos de la manera que podemos.
+quien seamos, quizá seamos
 
 209
 99:59:59,999 --> 100:00:00,000
-Dependiendo de
+capaces de ncontrar comunidades,
 
 210
 99:59:59,999 --> 100:00:00,000
-quien seamos, quizá seamos
+en nuestra familia, pero
 
 211
 99:59:59,999 --> 100:00:00,000
-capaces de ncontrar comunidades,
+para muchos de nosotros,
 
 212
 99:59:59,999 --> 100:00:00,000
-en nuestra familia, pero
+nuestras familias no son muy
 
 213
 99:59:59,999 --> 100:00:00,000
-para muchos de nosotros,
+solidarias, algo tirste
 
 214
 99:59:59,999 --> 100:00:00,000
-nuestras familias no son muy
+pero cierto, y en nuestro
 
 215
 99:59:59,999 --> 100:00:00,000
-solidarias, algo tirste
+mundo moderno la gente
 
 216
 99:59:59,999 --> 100:00:00,000
-pero cierto, y en nuestro
+es muy transitoria, viaja
 
 217
 99:59:59,999 --> 100:00:00,000
-mundo moderno la gente
+mucho, se muda mucho. Así
 
 218
 99:59:59,999 --> 100:00:00,000
-es muy transitoria, viaja
+que probablemte ya no estemos
 
 219
 99:59:59,999 --> 100:00:00,000
-mucho, se muda mucho. Así
+todos en un solo lugar.
 
 220
 99:59:59,999 --> 100:00:00,000
-que probablemte ya no estemos
+Muchos de nosotros tratan
 
 221
 99:59:59,999 --> 100:00:00,000
-todos en un solo lugar.
+de encontrarlo en un lugar
 
 222
 99:59:59,999 --> 100:00:00,000
-Muchos de nosotros tratan
+de adoración, y eso ha de
 
 223
 99:59:59,999 --> 100:00:00,000
-de encontrarlo en un lugar
+funcionar para algunas
 
 224
 99:59:59,999 --> 100:00:00,000
-de adoración, y eso ha de
+personas pero para muchos de
 
 225
 99:59:59,999 --> 100:00:00,000
-funcionar para algunas
+nosotros, lugares disponibles
 
 226
 99:59:59,999 --> 100:00:00,000
-personas pero para muchos de
+no coinciden con quienes
 
 227
 99:59:59,999 --> 100:00:00,000
-nosotros, lugares disponibles
+somos nosotros en el
 
 228
 99:59:59,999 --> 100:00:00,000
-no coinciden con quienes
+mundo moderno Alunos de
 
 229
 99:59:59,999 --> 100:00:00,000
-somos nosotros en el
+nosotros que vamos a educación
 
 230
 99:59:59,999 --> 100:00:00,000
-mundo moderno Alunos de
+superior, quizá encontremos
 
 231
 99:59:59,999 --> 100:00:00,000
-nosotros que vamos a educación
+comunidades buenas ahí,
 
 232
 99:59:59,999 --> 100:00:00,000
-superior, quizá encontremos
+algunos intentan obtener
 
 233
 99:59:59,999 --> 100:00:00,000
-comunidades buenas ahí,
+comunidad donde estu disponible
 
 234
 99:59:59,999 --> 100:00:00,000
-algunos intentan obtener
+en el trabajo… probablemente ahí no.
 
 235
 99:59:59,999 --> 100:00:00,000
-comunidad donde estu disponible
+Usualmente
 
 236
 99:59:59,999 --> 100:00:00,000
-en el trabajo… probablemente ahí no.
+tratamos de sentir comunidad,
 
 237
 99:59:59,999 --> 100:00:00,000
-Usualmente
+sentirnos parte de algo
 
 238
 99:59:59,999 --> 100:00:00,000
-tratamos de sentir comunidad,
+más grande que nootros,
 
 239
 99:59:59,999 --> 100:00:00,000
-sentirnos parte de algo
+viendo todos los mismos shows
 
 240
 99:59:59,999 --> 100:00:00,000
-más grande que nootros,
+de televisión al mismo tiempo,
 
 241
 99:59:59,999 --> 100:00:00,000
-viendo todos los mismos shows
+eso tampoco ha funcionado
 
 242
 99:59:59,999 --> 100:00:00,000
-de televisión al mismo tiempo,
+tan bien. Más y más estamos
 
 243
 99:59:59,999 --> 100:00:00,000
-eso tampoco ha funcionado
+tratando de fomrar
 
 244
 99:59:59,999 --> 100:00:00,000
-tan bien. Más y más estamos
+comunidades en internet,
 
 245
 99:59:59,999 --> 100:00:00,000
-tratando de fomrar
+internetNo es grandioso que
 
 246
 99:59:59,999 --> 100:00:00,000
-comunidades en internet,
+el internet nos haya unido?
 
 247
 99:59:59,999 --> 100:00:00,000
-internetNo es grandioso que
+El internet es una gran
 
 248
 99:59:59,999 --> 100:00:00,000
-el internet nos haya unido?
+herramienta, pero no es un
 
 249
 99:59:59,999 --> 100:00:00,000
-El internet es una gran
+gran lugar para verdaderas
 
 250
 99:59:59,999 --> 100:00:00,000
-herramienta, pero no es un
+comunidades. Y en una
 
 251
 99:59:59,999 --> 100:00:00,000
-gran lugar para verdaderas
+extencsión todos los ejemplso
 
 252
 99:59:59,999 --> 100:00:00,000
-comunidades. Y en una
+que mencione, nos dan algo
 
 253
 99:59:59,999 --> 100:00:00,000
-extencsión todos los ejemplso
+positivo, como internet,
 
 254
 99:59:59,999 --> 100:00:00,000
-que mencione, nos dan algo
+escuelas, fábricas, famila,
 
 255
 99:59:59,999 --> 100:00:00,000
-positivo, como internet,
+etc Y ara algunos, estos
 
 256
 99:59:59,999 --> 100:00:00,000
-escuelas, fábricas, famila,
+son lugares geniales para comunidades.
 
 257
 99:59:59,999 --> 100:00:00,000
-etc Y ara algunos, estos
+Pero la mayoría
 
 258
 99:59:59,999 --> 100:00:00,000
-son lugares geniales para comunidades.
+de nosotros estamos
 
 259
 99:59:59,999 --> 100:00:00,000
-Pero la mayoría
+buscando, necesitando más,
 
 260
 99:59:59,999 --> 100:00:00,000
-de nosotros estamos
+necesitamos mucho más.
 
 261
 99:59:59,999 --> 100:00:00,000
-buscando, necesitando más,
+Tambiin al inicio de nuestra
 
 262
 99:59:59,999 --> 100:00:00,000
-necesitamos mucho más.
+especie, una de las maneras
 
 263
 99:59:59,999 --> 100:00:00,000
-Tambiin al inicio de nuestra
+en laque nos apoyábamos en
 
 264
 99:59:59,999 --> 100:00:00,000
-especie, una de las maneras
+comunidad era creando y compartiendo
 
 265
 99:59:59,999 --> 100:00:00,000
-en laque nos apoyábamos en
+y enseñado herramientas
 
 266
 99:59:59,999 --> 100:00:00,000
-comunidad era creando y compartiendo
+de verdad cool. Atraves
 
 267
 99:59:59,999 --> 100:00:00,000
-y enseñado herramientas
+de los años hemos creado
 
 268
 99:59:59,999 --> 100:00:00,000
-de verdad cool. Atraves
+muchísmas herramientas muy
 
 269
 99:59:59,999 --> 100:00:00,000
-de los años hemos creado
+cool, permitiendonos sobrevivr
 
 270
 99:59:59,999 --> 100:00:00,000
-muchísmas herramientas muy
+en un ambinte en algunos casos hostil.
 
 271
 99:59:59,999 --> 100:00:00,000
-cool, permitiendonos sobrevivr
+Ya saben,
 
 272
 99:59:59,999 --> 100:00:00,000
-en un ambinte en algunos casos hostil.
+hemos creado herramientas que
 
 273
 99:59:59,999 --> 100:00:00,000
-Ya saben,
+ayuden a mejorarnuestras
 
 274
 99:59:59,999 --> 100:00:00,000
-hemos creado herramientas que
+vidas, pero porque nos hemos
 
 275
 99:59:59,999 --> 100:00:00,000
-ayuden a mejorarnuestras
+ayudado a sobrevivir,
 
 276
 99:59:59,999 --> 100:00:00,000
-vidas, pero porque nos hemos
+sobrevivimos. Y porque
 
 277
 99:59:59,999 --> 100:00:00,000
-ayudado a sobrevivir,
+sobrevivimos la necesdad de crear
 
 278
 99:59:59,999 --> 100:00:00,000
-sobrevivimos. Y porque
+se queda con nosotros aún
 
 279
 99:59:59,999 --> 100:00:00,000
-sobrevivimos la necesdad de crear
+cuando ya no necesitamos
 
 280
 99:59:59,999 --> 100:00:00,000
-se queda con nosotros aún
+estas herramientas, consevamos
 
 281
 99:59:59,999 --> 100:00:00,000
-cuando ya no necesitamos
+esa necesdad interna.
 
 282
 99:59:59,999 --> 100:00:00,000
-estas herramientas, consevamos
+Es otra de las cosas que
 
 283
 99:59:59,999 --> 100:00:00,000
-esa necesdad interna.
+están en nuestro AND,
 
 284
 99:59:59,999 --> 100:00:00,000
-Es otra de las cosas que
+necesitamos crear en nuestras vidas.
 
 285
 99:59:59,999 --> 100:00:00,000
-están en nuestro AND,
+Y afortunadamente,
 
 286
 99:59:59,999 --> 100:00:00,000
-necesitamos crear en nuestras vidas.
+hoy, más que nunca, tenemos
 
 287
 99:59:59,999 --> 100:00:00,000
-Y afortunadamente,
+disponibles muchísimas
 
 288
 99:59:59,999 --> 100:00:00,000
-hoy, más que nunca, tenemos
+cosas, para cada una de
 
 289
 99:59:59,999 --> 100:00:00,000
-disponibles muchísimas
+nuestras curiosidades únicas
 
 290
 99:59:59,999 --> 100:00:00,000
-cosas, para cada una de
+y nuestros talentos. Dejenme
 
 291
 99:59:59,999 --> 100:00:00,000
-nuestras curiosidades únicas
+tomar un pequeño camino
 
 292
 99:59:59,999 --> 100:00:00,000
-y nuestros talentos. Dejenme
+alterno aquí, y ponerme
 
 293
 99:59:59,999 --> 100:00:00,000
-tomar un pequeño camino
+personal por un momento. Aún
 
 294
 99:59:59,999 --> 100:00:00,000
-alterno aquí, y ponerme
+cuado el día de hoy vivo
 
 295
 99:59:59,999 --> 100:00:00,000
-personal por un momento. Aún
+una vida que en verdad amo
 
 296
 99:59:59,999 --> 100:00:00,000
-cuado el día de hoy vivo
+vivir, cuando era un pequeño
 
 297
 99:59:59,999 --> 100:00:00,000
-una vida que en verdad amo
+geek, no era cool ser un
 
 298
 99:59:59,999 --> 100:00:00,000
-vivir, cuando era un pequeño
+geek. Era brutalmente bulleado,
 
 299
 99:59:59,999 --> 100:00:00,000
-geek, no era cool ser un
+diariamente, apuntado*
 
 300
 99:59:59,999 --> 100:00:00,000
-geek. Era brutalmente bulleado,
+por ser un geek introvertido,
 
 301
 99:59:59,999 --> 100:00:00,000
-diariamente, apuntado*
+gordo, gay, malo en
 
 302
 99:59:59,999 --> 100:00:00,000
-por ser un geek introvertido,
+deportes, todas estas cosas
 
 303
 99:59:59,999 --> 100:00:00,000
-gordo, gay, malo en
+que los bullies pensaban
 
 304
 99:59:59,999 --> 100:00:00,000
-deportes, todas estas cosas
+que eran terribles evidntemente.
 
 305
 99:59:59,999 --> 100:00:00,000
-que los bullies pensaban
+Me mantuve lejos de
 
 306
 99:59:59,999 --> 100:00:00,000
-que eran terribles evidntemente.
+otras personas por miedo a
 
 307
 99:59:59,999 --> 100:00:00,000
-Me mantuve lejos de
+ser atormentado y golpeado,
 
 308
 99:59:59,999 --> 100:00:00,000
-otras personas por miedo a
+l oque pasaba a diario,
 
 309
 99:59:59,999 --> 100:00:00,000
-ser atormentado y golpeado,
+tan a menudo mientras que
 
 310
 99:59:59,999 --> 100:00:00,000
-l oque pasaba a diario,
+los maestros miraban.
 
 311
 99:59:59,999 --> 100:00:00,000
-tan a menudo mientras que
+mirabanSus maestros son tan
 
 312
 99:59:59,999 --> 100:00:00,000
-los maestros miraban.
+malos como lso de Estados Unidos?
 
 313
 99:59:59,999 --> 100:00:00,000
-mirabanSus maestros son tan
+Si, disculpen. Los
 
 314
 99:59:59,999 --> 100:00:00,000
-malos como lso de Estados Unidos?
+padres y los maestros
 
 315
 99:59:59,999 --> 100:00:00,000
-Si, disculpen. Los
+realmente no fueron de mucha
 
 316
 99:59:59,999 --> 100:00:00,000
-padres y los maestros
+ayuda, ellso no tenían ni
 
 317
 99:59:59,999 --> 100:00:00,000
-realmente no fueron de mucha
+idea, y para mi la vida era
 
 318
 99:59:59,999 --> 100:00:00,000
-ayuda, ellso no tenían ni
+totalmente un infierno
 
 319
 99:59:59,999 --> 100:00:00,000
-idea, y para mi la vida era
+depresivo, de verdad. Así
 
 320
 99:59:59,999 --> 100:00:00,000
-totalmente un infierno
+que cuando regresaba a casa
 
 321
 99:59:59,999 --> 100:00:00,000
-depresivo, de verdad. Así
+me retiraba al mundo mágico
 
 322
 99:59:59,999 --> 100:00:00,000
-que cuando regresaba a casa
+de la televisión. Mi
 
 323
 99:59:59,999 --> 100:00:00,000
-me retiraba al mundo mágico
+tecnología favorita, me sentía
 
 324
 99:59:59,999 --> 100:00:00,000
-de la televisión. Mi
+parte de algio mientras
 
 325
 99:59:59,999 --> 100:00:00,000
-tecnología favorita, me sentía
+veía la televisión, pero el
 
 326
 99:59:59,999 --> 100:00:00,000
-parte de algio mientras
+show siempre terminaba,
 
 327
 99:59:59,999 --> 100:00:00,000
-veía la televisión, pero el
+dejandome no solamente donde
 
 328
 99:59:59,999 --> 100:00:00,000
-show siempre terminaba,
+me encontraba antes de que
 
 329
 99:59:59,999 --> 100:00:00,000
-dejandome no solamente donde
+empezara, sino que peor,
 
 330
 99:59:59,999 --> 100:00:00,000
-me encontraba antes de que
+debido a que no use ese tiempo
 
 331
 99:59:59,999 --> 100:00:00,000
-empezara, sino que peor,
+para hacer algo valioso
 
 332
 99:59:59,999 --> 100:00:00,000
-debido a que no use ese tiempo
+en mi vida, era mayormente
 
 333
 99:59:59,999 --> 100:00:00,000
-para hacer algo valioso
+un escape, un intento
 
 334
 99:59:59,999 --> 100:00:00,000
-en mi vida, era mayormente
+de evitarme y por supuesto… no funciona.
 
 335
 99:59:59,999 --> 100:00:00,000
-un escape, un intento
+No puedes
 
 336
 99:59:59,999 --> 100:00:00,000
-de evitarme y por supuesto… no funciona.
+evitarte a ti mismo, puedes
 
 337
 99:59:59,999 --> 100:00:00,000
-No puedes
+apagarlo temporalmente, asi
 
 338
 99:59:59,999 --> 100:00:00,000
-evitarte a ti mismo, puedes
+como estos dispositivos,
 
 339
 99:59:59,999 --> 100:00:00,000
-apagarlo temporalmente, asi
+pero no funciona, me ponia
 
 340
 99:59:59,999 --> 100:00:00,000
-como estos dispositivos,
+más deprimido y mas temeroso,
 
 341
 99:59:59,999 --> 100:00:00,000
-pero no funciona, me ponia
+solo para convertirme
 
 342
 99:59:59,999 --> 100:00:00,000
-más deprimido y mas temeroso,
+más en un blanco para los
 
 343
 99:59:59,999 --> 100:00:00,000
-solo para convertirme
+bullies en la escuela, solo
 
 344
 99:59:59,999 --> 100:00:00,000
-más en un blanco para los
+para encerrarme otra vez en
 
 345
 99:59:59,999 --> 100:00:00,000
-bullies en la escuela, solo
+el mundo de la televisión
 
 346
 99:59:59,999 --> 100:00:00,000
-para encerrarme otra vez en
+cuando llegaa a casa… así
 
 347
 99:59:59,999 --> 100:00:00,000
-el mundo de la televisión
+es, soy un adicto a la
 
 348
 99:59:59,999 --> 100:00:00,000
-cuando llegaa a casa… así
+televisión y no fue la única
 
 349
 99:59:59,999 --> 100:00:00,000
-es, soy un adicto a la
+manera de la que trate de
 
 350
 99:59:59,999 --> 100:00:00,000
-televisión y no fue la única
+evitarme a mi mismo.. Como
 
 351
 99:59:59,999 --> 100:00:00,000
-manera de la que trate de
+era un geek introvertido,
 
 352
 99:59:59,999 --> 100:00:00,000
-evitarme a mi mismo.. Como
+tambirn trate de escaparme
 
 353
 99:59:59,999 --> 100:00:00,000
-era un geek introvertido,
+de mi miserable vida,
 
 354
 99:59:59,999 --> 100:00:00,000
-tambirn trate de escaparme
+enfocandome en proyectos geeky,,
 
 355
 99:59:59,999 --> 100:00:00,000
-de mi miserable vida,
+estos eran realmente cool
 
 356
 99:59:59,999 --> 100:00:00,000
-enfocandome en proyectos geeky,,
+y aprendí muchísmo haciendolos,
 
 357
 99:59:59,999 --> 100:00:00,000
-estos eran realmente cool
+pero no aprendi como
 
 358
 99:59:59,999 --> 100:00:00,000
-y aprendí muchísmo haciendolos,
+manejar a otros niños, era
 
 359
 99:59:59,999 --> 100:00:00,000
-pero no aprendi como
+totalmente “SOLO” , tampoco
 
 360
 99:59:59,999 --> 100:00:00,000
-manejar a otros niños, era
+había comunidad, otros niños
 
 361
 99:59:59,999 --> 100:00:00,000
-totalmente “SOLO” , tampoco
+en mi escuela, no encontrando
 
 362
 99:59:59,999 --> 100:00:00,000
-había comunidad, otros niños
+proyectos geeky cool enlso
 
 363
 99:59:59,999 --> 100:00:00,000
-en mi escuela, no encontrando
+cuales emocionarse,
 
 364
 99:59:59,999 --> 100:00:00,000
-proyectos geeky cool enlso
+o ninguna otra cosa que
 
 365
 99:59:59,999 --> 100:00:00,000
-cuales emocionarse,
+valiera la pena, aúna así
 
 366
 99:59:59,999 --> 100:00:00,000
-o ninguna otra cosa que
+todas esas personas neceistado
 
 367
 99:59:59,999 --> 100:00:00,000
-valiera la pena, aúna así
+comunidad, encontraron
 
 368
 99:59:59,999 --> 100:00:00,000
-todas esas personas neceistado
+un tipo de comunidad
 
 369
 99:59:59,999 --> 100:00:00,000
-comunidad, encontraron
+juntandose con otros bullies,
 
 370
 99:59:59,999 --> 100:00:00,000
-un tipo de comunidad
+eso era una opción para
 
 371
 99:59:59,999 --> 100:00:00,000
-juntandose con otros bullies,
+algunos de ellos. Realmente
 
 372
 99:59:59,999 --> 100:00:00,000
-eso era una opción para
+necesitamos comunidad, así
 
 373
 99:59:59,999 --> 100:00:00,000
-algunos de ellos. Realmente
+que lo encontramos donde
 
 374
 99:59:59,999 --> 100:00:00,000
-necesitamos comunidad, así
+podamos, y tomamos decisiones,
 
 375
 99:59:59,999 --> 100:00:00,000
-que lo encontramos donde
+aún cuando no son
 
 376
 99:59:59,999 --> 100:00:00,000
-podamos, y tomamos decisiones,
+necsariamente para mejorar,
 
 377
 99:59:59,999 --> 100:00:00,000
-aún cuando no son
+y aún cuando n oestamos tan
 
 378
 99:59:59,999 --> 100:00:00,000
-necsariamente para mejorar,
+conscientes de esas decisiones,
 
 379
 99:59:59,999 --> 100:00:00,000
-y aún cuando n oestamos tan
+no es siemrpe para
 
 380
 99:59:59,999 --> 100:00:00,000
-conscientes de esas decisiones,
+mejorar pero lo hacemos lo que podemos.
 
 381
 99:59:59,999 --> 100:00:00,000
-no es siemrpe para
+MINUTO 13.25
 
 382
 99:59:59,999 --> 100:00:00,000
-mejorar pero lo hacemos lo que podemos.
+De adultos es bien importante
 
 383
 99:59:59,999 --> 100:00:00,000
-MINUTO 13.25
+estar conscientes de
 
 384
 99:59:59,999 --> 100:00:00,000
-De adultos es bien importante
+eso debido a que podemso
 
 385
 99:59:59,999 --> 100:00:00,000
-estar conscientes de
+ser facilmente manipulados
 
 386
 99:59:59,999 --> 100:00:00,000
-eso debido a que podemso
+a travos de nuestros deseos.
 
 387
 99:59:59,999 --> 100:00:00,000
-ser facilmente manipulados
+Especialmente nuestros
 
 388
 99:59:59,999 --> 100:00:00,000
-a travos de nuestros deseos.
+deseos más profundos, como
 
 389
 99:59:59,999 --> 100:00:00,000
-Especialmente nuestros
+la neceisdad de comunidad
 
 390
 99:59:59,999 --> 100:00:00,000
-deseos más profundos, como
+puede manifestarse de maneras
 
 391
 99:59:59,999 --> 100:00:00,000
-la neceisdad de comunidad
+inocuas, como artidos de
 
 392
 99:59:59,999 --> 100:00:00,000
-puede manifestarse de maneras
+fútbol importantes o pueden
 
 393
 99:59:59,999 --> 100:00:00,000
-inocuas, como artidos de
+imaginarse lo que se
 
 394
 99:59:59,999 --> 100:00:00,000
-fútbol importantes o pueden
+hubiera sentido ser parte
 
 395
 99:59:59,999 --> 100:00:00,000
-imaginarse lo que se
+de las millones de personas
 
 396
 99:59:59,999 --> 100:00:00,000
-hubiera sentido ser parte
+levantando sus pequeños brazos
 
 397
 99:59:59,999 --> 100:00:00,000
-de las millones de personas
+hondeando pequeños libros
 
 398
 99:59:59,999 --> 100:00:00,000
-levantando sus pequeños brazos
+rojos en una plaza hace
 
 399
 99:59:59,999 --> 100:00:00,000
-hondeando pequeños libros
+tiempo, o inclusive mucho
 
 400
 99:59:59,999 --> 100:00:00,000
-rojos en una plaza hace
+tiempo atrás levantando
 
 401
 99:59:59,999 --> 100:00:00,000
-tiempo, o inclusive mucho
+los brazos y hondeandolos
 
 402
 99:59:59,999 --> 100:00:00,000
-tiempo atrás levantando
+mientras cantabamos al
 
 403
 99:59:59,999 --> 100:00:00,000
-los brazos y hondeandolos
+unísono junto a millones de
 
 404
 99:59:59,999 --> 100:00:00,000
-mientras cantabamos al
+personas en Nuremburgo, en la
 
 405
 99:59:59,999 --> 100:00:00,000
-unísono junto a millones de
+Alemania de los 30’s . ASi
 
 406
 99:59:59,999 --> 100:00:00,000
-personas en Nuremburgo, en la
+que, como sea. El punto es,
 
 407
 99:59:59,999 --> 100:00:00,000
-Alemania de los 30’s . ASi
+que las comunidades son
 
 408
 99:59:59,999 --> 100:00:00,000
-que, como sea. El punto es,
+poderosas y si las necesitamos,
 
 409
 99:59:59,999 --> 100:00:00,000
-que las comunidades son
+saí que usemos esto,
 
 410
 99:59:59,999 --> 100:00:00,000
-poderosas y si las necesitamos,
+usemos esta necesidad
 
 411
 99:59:59,999 --> 100:00:00,000
-saí que usemos esto,
+interna para hacer algo más
 
 412
 99:59:59,999 --> 100:00:00,000
-usemos esta necesidad
+psitivo, yo propongo eventos
 
 413
 99:59:59,999 --> 100:00:00,000
-interna para hacer algo más
+como este, eventos como
 
 414
 99:59:59,999 --> 100:00:00,000
-psitivo, yo propongo eventos
+estos en los que estamos
 
 415
 99:59:59,999 --> 100:00:00,000
-como este, eventos como
+ahora, Jalisco… este lugar es
 
 416
 99:59:59,999 --> 100:00:00,000
-estos en los que estamos
+asombroso, asombrosoNo es así?...
 
 417
 99:59:59,999 --> 100:00:00,000
-ahora, Jalisco… este lugar es
+Jalisco Campus Party,
 
 418
 99:59:59,999 --> 100:00:00,000
-asombroso, asombrosoNo es así?...
+no tenía idea de que esperar
 
 419
 99:59:59,999 --> 100:00:00,000
-Jalisco Campus Party,
+de este evento, pero
 
 420
 99:59:59,999 --> 100:00:00,000
-no tenía idea de que esperar
+ha sido asombroso, ya saben,
 
 421
 99:59:59,999 --> 100:00:00,000
-de este evento, pero
+aquí nos hemos juntado,
 
 422
 99:59:59,999 --> 100:00:00,000
-ha sido asombroso, ya saben,
+aprendemos, compartimos,
 
 423
 99:59:59,999 --> 100:00:00,000
-aquí nos hemos juntado,
+nos conocemos y tambi n
 
 424
 99:59:59,999 --> 100:00:00,000
-aprendemos, compartimos,
+jugamos…¡Es fantástico! Como
 
 425
 99:59:59,999 --> 100:00:00,000
-nos conocemos y tambi n
+resultado, ¡mágia pasa!
 
 426
 99:59:59,999 --> 100:00:00,000
-jugamos…¡Es fantástico! Como
+Que han aprendido aquí?
 
 427
 99:59:59,999 --> 100:00:00,000
-resultado, ¡mágia pasa!
+Probablemente muchísimas cosas
 
 428
 99:59:59,999 --> 100:00:00,000
-Que han aprendido aquí?
+diferentes , muchas de las
 
 429
 99:59:59,999 --> 100:00:00,000
-Probablemente muchísimas cosas
+cuales ni siquiera esperadas,
 
 430
 99:59:59,999 --> 100:00:00,000
-diferentes , muchas de las
+esperadasQue tal si compartieran aquí?
 
 431
 99:59:59,999 --> 100:00:00,000
-cuales ni siquiera esperadas,
+aquíQue
 
 432
 99:59:59,999 --> 100:00:00,000
-esperadasQue tal si compartieran aquí?
+oportunidades han encontrado?
 
 433
 99:59:59,999 --> 100:00:00,000
-aquíQue
+encontradoQue direcciones
 
 434
 99:59:59,999 --> 100:00:00,000
-oportunidades han encontrado?
+estan considerando ahora son
 
 435
 99:59:59,999 --> 100:00:00,000
-encontradoQue direcciones
+totalmente nuvas en sus
 
 436
 99:59:59,999 --> 100:00:00,000
-estan considerando ahora son
+vidas que los llevaran a
 
 437
 99:59:59,999 --> 100:00:00,000
-totalmente nuvas en sus
+quien sabe donde, solo por
 
 438
 99:59:59,999 --> 100:00:00,000
-vidas que los llevaran a
+que vinieron aqu a esta
 
 439
 99:59:59,999 --> 100:00:00,000
-quien sabe donde, solo por
+comunidad, quizá conocieron
 
 440
 99:59:59,999 --> 100:00:00,000
-que vinieron aqu a esta
+a alguien que conocerán por
 
 441
 99:59:59,999 --> 100:00:00,000
-comunidad, quizá conocieron
+muchísimo tiempo? Estos
 
 442
 99:59:59,999 --> 100:00:00,000
-a alguien que conocerán por
+son solo algunos ejemplos
 
 443
 99:59:59,999 --> 100:00:00,000
-muchísimo tiempo? Estos
+de las osas que pasan cando
 
 444
 99:59:59,999 --> 100:00:00,000
-son solo algunos ejemplos
+la gente se junta en comunidad
 
 445
 99:59:59,999 --> 100:00:00,000
-de las osas que pasan cando
+, ya saben , hagamos lo
 
 446
 99:59:59,999 --> 100:00:00,000
-la gente se junta en comunidad
+máximo de esta magia mientras
 
 447
 99:59:59,999 --> 100:00:00,000
-, ya saben , hagamos lo
+la tenemos, solamente
 
 448
 99:59:59,999 --> 100:00:00,000
-máximo de esta magia mientras
+tenemos otro día o dos, este
 
 449
 99:59:59,999 --> 100:00:00,000
-la tenemos, solamente
+evento va a terminar, pero
 
 450
 99:59:59,999 --> 100:00:00,000
-tenemos otro día o dos, este
+la magia no tiene porque
 
 451
 99:59:59,999 --> 100:00:00,000
-evento va a terminar, pero
+terminar, pero por que este
 
 452
 99:59:59,999 --> 100:00:00,000
-la magia no tiene porque
+evento va a terminar, tambiin
 
 453
 99:59:59,999 --> 100:00:00,000
-terminar, pero por que este
+propongo otra manera,
 
 454
 99:59:59,999 --> 100:00:00,000
-evento va a terminar, tambiin
+otra manera maravillosa de
 
 455
 99:59:59,999 --> 100:00:00,000
-propongo otra manera,
+comunidad… ¡Hackerspaces!
 
 456
 99:59:59,999 --> 100:00:00,000
-otra manera maravillosa de
+¡Los Hackerspaces son íncreibles!
 
 457
 99:59:59,999 --> 100:00:00,000
-comunidad… ¡Hackerspaces!
+No tienen por que
 
 458
 99:59:59,999 --> 100:00:00,000
-¡Los Hackerspaces son íncreibles!
+terminar, la magia no tiene
 
 459
 99:59:59,999 --> 100:00:00,000
-No tienen por que
+por que terminar, estas
 
 460
 99:59:59,999 --> 100:00:00,000
-terminar, la magia no tiene
+ocmunidades siguen porque
 
 461
 99:59:59,999 --> 100:00:00,000
-por que terminar, estas
+la gente las inicia y las
 
 462
 99:59:59,999 --> 100:00:00,000
-ocmunidades siguen porque
+mantiene vivas… vivasCuántas
 
 463
 99:59:59,999 --> 100:00:00,000
-la gente las inicia y las
+personas de auqí han ido
 
 464
 99:59:59,999 --> 100:00:00,000
-mantiene vivas… vivasCuántas
+a algún hackerspace? ¡WOW!
 
 465
 99:59:59,999 --> 100:00:00,000
-personas de auqí han ido
+Algunos, pero aún hay
 
 466
 99:59:59,999 --> 100:00:00,000
-a algún hackerspace? ¡WOW!
+muchísimos que no han ido
 
 467
 99:59:59,999 --> 100:00:00,000
-Algunos, pero aún hay
+MINUTO 16:18 Pero para las
 
 468
 99:59:59,999 --> 100:00:00,000
-muchísimos que no han ido
+personas que han ido a alguno…
 
 469
 99:59:59,999 --> 100:00:00,000
-MINUTO 16:18 Pero para las
+saben que son asombrosos,
 
 470
 99:59:59,999 --> 100:00:00,000
-personas que han ido a alguno…
+asombrososverdad? Puedes
 
 471
 99:59:59,999 --> 100:00:00,000
-saben que son asombrosos,
+hacer muchísimas cosas
 
 472
 99:59:59,999 --> 100:00:00,000
-asombrososverdad? Puedes
+asombrosas ahí . Hoy en día
 
 473
 99:59:59,999 --> 100:00:00,000
-hacer muchísimas cosas
+hay más de 2,000 hackerspaces
 
 474
 99:59:59,999 --> 100:00:00,000
-asombrosas ahí . Hoy en día
+en el planeta y están
 
 475
 99:59:59,999 --> 100:00:00,000
-hay más de 2,000 hackerspaces
+creciendo rapidamente y son
 
 476
 99:59:59,999 --> 100:00:00,000
-en el planeta y están
+bienvenidos en cada uno de
 
 477
 99:59:59,999 --> 100:00:00,000
-creciendo rapidamente y son
+ellos Todos ellos son lugares
 
 478
 99:59:59,999 --> 100:00:00,000
-bienvenidos en cada uno de
+abiertos donde son bienvenidos
 
 479
 99:59:59,999 --> 100:00:00,000
-ellos Todos ellos son lugares
+por favor visiten
 
 480
 99:59:59,999 --> 100:00:00,000
-abiertos donde son bienvenidos
+uno o visiten muchos.
 
 481
 99:59:59,999 --> 100:00:00,000
-por favor visiten
+Ustedes definitivamente son
 
 482
 99:59:59,999 --> 100:00:00,000
-uno o visiten muchos.
+bienvenidos Donde sea que
 
 483
 99:59:59,999 --> 100:00:00,000
-Ustedes definitivamente son
+vivas, donde quiera que vayas
 
 484
 99:59:59,999 --> 100:00:00,000
-bienvenidos Donde sea que
+, sumate a la magia, beneficiate
 
 485
 99:59:59,999 --> 100:00:00,000
-vivas, donde quiera que vayas
+de la magia, manten
 
 486
 99:59:59,999 --> 100:00:00,000
-, sumate a la magia, beneficiate
+la magia viva. Hackerspace,
 
 487
 99:59:59,999 --> 100:00:00,000
-de la magia, manten
+o tambinn se les conoce
 
 488
 99:59:59,999 --> 100:00:00,000
-la magia viva. Hackerspace,
+como mackerspaces, fab labs,
 
 489
 99:59:59,999 --> 100:00:00,000
-o tambinn se les conoce
+muchos nombres pero la
 
 490
 99:59:59,999 --> 100:00:00,000
-como mackerspaces, fab labs,
+verdad es que todos signiican
 
 491
 99:59:59,999 --> 100:00:00,000
-muchos nombres pero la
+la misma cosa. Todos
 
 492
 99:59:59,999 --> 100:00:00,000
-verdad es que todos signiican
+ellos son lugares donde gente
 
 493
 99:59:59,999 --> 100:00:00,000
-la misma cosa. Todos
+de todos los niveles de
 
 494
 99:59:59,999 --> 100:00:00,000
-ellos son lugares donde gente
+conocimiento desde novatos
 
 495
 99:59:59,999 --> 100:00:00,000
-de todos los niveles de
+a expertos y todo lo que
 
 496
 99:59:59,999 --> 100:00:00,000
-conocimiento desde novatos
+está en medio se unen en un
 
 497
 99:59:59,999 --> 100:00:00,000
-a expertos y todo lo que
+lugar físico como aquí pero
 
 498
 99:59:59,999 --> 100:00:00,000
-está en medio se unen en un
+van ahí a aprender y a
 
 499
 99:59:59,999 --> 100:00:00,000
-lugar físico como aquí pero
+aprender y compartir lo que
 
 500
 99:59:59,999 --> 100:00:00,000
-van ahí a aprender y a
+sea que ellos consideren cool.
 
 501
 99:59:59,999 --> 100:00:00,000
-aprender y compartir lo que
+Y lo hacen en una manera
 
 502
 99:59:59,999 --> 100:00:00,000
-sea que ellos consideren cool.
+colaborativa, en una
 
 503
 99:59:59,999 --> 100:00:00,000
-Y lo hacen en una manera
+comunidad colaborativa donde
 
 504
 99:59:59,999 --> 100:00:00,000
-colaborativa, en una
+todos son motivados a explorar
 
 505
 99:59:59,999 --> 100:00:00,000
-comunidad colaborativa donde
+y a hacerlo que ellos
 
 506
 99:59:59,999 --> 100:00:00,000
-todos son motivados a explorar
+aman iciar la plática,
 
 507
 99:59:59,999 --> 100:00:00,000
-y a hacerlo que ellos
+hacindonos pensar a todos
 
 508
 99:59:59,999 --> 100:00:00,000
-aman iciar la plática,
+acerca de las comunidades.
 
 509
 99:59:59,999 --> 100:00:00,000
-hacindonos pensar a todos
+Vamos a pensar en la
 
 510
 99:59:59,999 --> 100:00:00,000
-acerca de las comunidades.
-
-511
-99:59:59,999 --> 100:00:00,000
-Vamos a pensar en la
-
-512
-99:59:59,999 --> 100:00:00,000
 comunidad en cada una de sus
 
-513
+511
 99:59:59,999 --> 100:00:01,732
 vidas, quieo preguntarte e
 
