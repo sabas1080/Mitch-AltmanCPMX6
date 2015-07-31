@@ -20,7 +20,7 @@ The Inventor's House
 
 6
 00:00:11,981 --> 00:00:14,047
-theinventorhouse.org
+http://inventorshouse.mx/
 
 7
 00:00:14,048 --> 00:00:16,048
@@ -41,7 +41,6 @@ y el resto viene en ingles, lo siento.
 11
 00:00:39,462 --> 00:00:40,824
 Pero soy inventor, lo he
-<<<<<<< HEAD
 
 12
 00:00:41,520 --> 00:00:43,386
@@ -2065,7 +2064,6 @@ comunidad en cada una de sus
 
 517
 03:59:59,999 --> 04:00:01,732
-=======
 
 518
 00:00:41,520 --> 00:00:42,721
@@ -2093,7 +2091,7 @@ Y, tambien soy conocido
 
 524
 00:01:02,653 --> 00:01:04,328
-por empezar iniciar el primer hackerspace
+por iniciar el primer hackerspace
 
 525
 00:01:05,393 --> 00:01:06,796
@@ -2105,7 +2103,7 @@ se llama Noisebridge y
 
 527
 00:01:08,990 --> 00:01:09,991
-todos son bienvenidos
+todos son bienvenidos.
 
 528
 00:01:11,018 --> 00:01:12,223
@@ -2125,7 +2123,7 @@ el mundo dando charlas y talleres,
 
 532
 00:01:19,053 --> 00:01:20,348
-por cierto aquí esta
+por cierto esta
 
 533
 00:01:20,348 --> 00:01:22,027
@@ -2181,11 +2179,12 @@ o si quieren ayuda con su depresión,
 
 546
 00:01:45,127 --> 00:01:44,778
-tambien se acerca de eso,
+también se acerca de eso,
+
 
 547
 00:01:47,592 --> 00:01:49,093
-hablar un poco más de eso más tarde.
+hablaré un poco más tarde de eso.
 
 548
 00:01:50,265 --> 00:01:52,766
@@ -2219,7 +2218,7 @@ hace toda nuestra vida mucho
 
 555
 00:02:07,591 --> 00:02:09,092
-mejor cuando vivimos en
+mejor cuándo vivimos en
 comunidad.
 
 556
@@ -2229,7 +2228,7 @@ eso estamos aquí.
 
 557
 00:02:12,065 --> 00:02:13,741
-Si las comunidades no fueran
+Sí las comunidades no fueran
 importantes,
 
 558
@@ -2239,27 +2238,32 @@ casa,
 
 559
 00:02:15,723 --> 00:02:16,764
-si tuviramos internet
+si tuvieramos internet
 
 560
 00:02:16,893 --> 00:02:17,975
-pudiramos simplemente ver
+podríamos simplemente ver
 
 561
 00:02:18,828 --> 00:02:19,962
-a las personas haiendo cosas
+a las personas haciendo cosas
 
 562
 00:02:19,989 --> 00:02:21,390
 divertidas en vez de ser
-parte ello.
+parte de ello.
 
 563
 00:02:21,947 --> 00:02:22,948
 Pero estamos aquí
 
+<<<<<<< HEAD
 564
 00:02:23,385 --> 00:02:24,966
+=======
+58
+00:02:23,385 --> 00:02:24,866
+>>>>>>> 2b0a542ab0153bbb1183bc384375aefcf147a571
 porque las comunidades son importantes.
 
 565
@@ -2273,7 +2277,7 @@ minutos,
 
 567
 00:02:27,410 --> 00:02:28,511
-te hablar apasionadamente,
+te hablaré apasionadamente,
 
 568
 00:02:29,789 --> 00:02:30,854
@@ -2297,14 +2301,20 @@ las comunidades,
 00:02:39,490 --> 00:02:40,891
 porque la comunidad es muy importante.
 
+<<<<<<< HEAD
 573
 00:02:40,932 --> 00:02:42,033
+=======
+67
+00:02:40,932 --> 00:02:41,933
+>>>>>>> 2b0a542ab0153bbb1183bc384375aefcf147a571
 Pero como estoy muy metido
 
 574
 00:02:41,945 --> 00:02:42,946
 en los hackerspaces,
 
+<<<<<<< HEAD
 575
 03:59:59,999 --> 04:00:01,900
 tambien hablar acerca de los
@@ -4078,6 +4088,1083 @@ comunidad en cada una de sus
 03:59:59,999 --> 04:00:01,732
 >>>>>>> 2c40df5629d85b19eb03eb9bcd0e742275fbc780
 vidas, quieo preguntarte e
+=======
+69
+00:02:43,158 --> 00:02:45,059
+tambien hablaré acerca de los
+hackerspaces,
+
+70
+00:02:44,948 --> 00:02:46,549
+ porque son de
+las comunidades más cool
+
+71
+00:02:47,802 --> 00:02:48,903
+que existen.
+
+72
+00:02:50,183 --> 00:02:51,684
+ Están llenos de geeks como nosotros
+
+73
+00:02:53,178 --> 00:02:54,579
+y son divertidísimos.
+
+74
+00:02:54,757 --> 00:02:56,258
+Dejen ver si este apuntador funciona…
+
+75
+00:02:56,546 --> 00:02:57,747
+¡Sí funciona!, así que,
+
+76
+00:03:00,440 --> 00:03:01,541
+que hacemos en comunidad?
+
+77
+00:03:03,552 --> 00:03:04,553
+hacemos cosas juntos.
+
+78
+00:03:05,286 --> 00:03:06,287
+ El título de la plática
+
+79
+00:03:06,846 --> 00:03:08,047
+es hackerspaces, comunidad y
+
+80
+00:03:08,097 --> 00:03:09,144
+la cultura DIY,
+
+81
+00:03:09,342 --> 00:03:11,396
+porque la mayoría de las personas han
+escuchado ese termino,
+
+82
+00:03:11,428 --> 00:03:14,462
+pero en verdad es DIT, DO IT TOGETHER
+
+83
+00:03:16,215 --> 00:03:17,416
+o hacerlo todos juntos.
+
+84
+00:03:18,399 --> 00:03:19,300
+Podemos hacer mucho solos,
+
+85
+00:03:19,349 --> 00:03:20,550
+pero podemos hacer mucho mas
+
+86
+00:03:20,785 --> 00:03:22,238
+en comunidad haciendo cosas juntos.
+
+87
+00:03:24,852 --> 00:03:25,653
+En comunidad
+
+88
+00:03:25,710 --> 00:03:27,011
+podemos hacer más colectivamente
+
+89
+00:03:29,963 --> 00:03:31,164
+de lo que podemos hacer solos.
+
+90
+00:03:31,496 --> 00:03:33,134
+Podemos hacer
+ muchas cosas diferentes,
+
+91
+00:03:33,823 --> 00:03:35,124
+DIY o DIT,
+
+92
+00:03:35,209 --> 00:03:36,910
+ pero con DIT podemos
+hacer mucho más,
+
+93
+00:03:38,607 --> 00:03:40,443
+podemos reciclar cosas
+
+94
+00:03:40,526 --> 00:03:41,927
+que de otro
+modo se hubieran tirado
+
+95
+00:03:43,057 --> 00:03:45,158
+e inclusive pudieran haber
+sido desechos tóxicos.
+
+96
+00:03:45,832 --> 00:03:46,833
+Podemos arreglar cosas
+
+97
+00:03:47,694 --> 00:03:49,395
+que no fueron diseñadas para ser
+arregladas
+
+98
+00:03:49,859 --> 00:03:51,860
+asi como muchas de las cosas
+de hoy no lo están
+
+99
+00:03:52,856 --> 00:03:53,957
+ Pero podemos arreglarlas,
+
+100
+00:03:54,230 --> 00:03:55,231
+podemos tambien darles
+
+101
+00:03:55,463 --> 00:03:56,464
+un nuevo propósito
+
+102
+00:03:56,695 --> 00:03:58,496
+para que nuestro proyecto sea
+más cool
+
+103
+00:03:59,864 --> 00:04:01,365
+o inclusive si esas cosas no estaban
+
+104
+00:04:01,799 --> 00:04:03,000
+originalmente progamdas para
+
+105
+00:04:03,289 --> 00:04:04,690
+hacer nuestros proyectos
+más cool,
+
+106
+00:04:04,806 --> 00:04:05,813
+nosotros podemos hacerlo.
+
+107
+00:04:07,025 --> 00:04:08,126
+Tambin podemos crear cosas,
+
+108
+00:04:08,197 --> 00:04:09,198
+a partir de casi nada,
+
+109
+00:04:10,262 --> 00:04:11,363
+la electrónica por ejemplo
+
+110
+00:04:11,602 --> 00:04:12,803
+está hecha solamente de arena,
+
+111
+00:04:13,444 --> 00:04:15,141
+con pequeñas partículas
+de arena
+
+112
+00:04:15,474 --> 00:04:16,732
+podemos crear
+cosas asombrosas,
+
+113
+00:04:17,858 --> 00:04:18,858
+esto es magia,
+
+114
+00:04:19,167 --> 00:04:20,567
+y si no sabes como hacer esta magia
+
+115
+00:04:21,937 --> 00:04:23,255
+puedes aprender
+
+116
+00:04:23,705 --> 00:04:24,806
+con la ayuda de comunidad,
+
+117
+00:04:25,475 --> 00:04:27,476
+todos podemos enseñar
+y compartir unos con otros.
+
+118
+00:04:28,156 --> 00:04:29,157
+Podemos hacer todo esto,
+
+119
+00:04:30,969 --> 00:04:31,970
+con la cultura del DIT,
+
+120
+00:04:32,807 --> 00:04:34,908
+es mucho más cool que
+el desperdicio tóxico
+
+121
+00:04:36,934 --> 00:04:37,935
+asi que
+
+122
+00:04:38,481 --> 00:04:39,581
+¡Oh si, tambien! Ya saben,
+
+123
+00:04:40,018 --> 00:04:41,922
+comprar cosas de una
+fábrica,
+
+124
+00:04:43,630 --> 00:04:44,631
+ya saben tiene su
+lugar,
+
+125
+00:04:45,235 --> 00:04:46,236
+pero
+
+126
+00:04:47,446 --> 00:04:48,747
+no es ni cercanamente tan cool
+
+127
+00:04:49,100 --> 00:04:50,901
+como hacer cosas en comunidad
+y divertirse,
+
+128
+00:04:51,749 --> 00:04:52,850
+comprar una cosa está bien,
+
+129
+00:04:53,897 --> 00:04:54,898
+pero hacer cosas juntos
+
+130
+00:04:54,948 --> 00:04:55,988
+es mucho más enriquecedor.
+
+131
+00:05:00,220 --> 00:05:01,812
+Quiero iniciar la plática
+
+132
+00:05:03,027 --> 00:05:05,718
+haciéndonos pensar a todos
+acerca de las comunidades
+
+133
+00:05:08,441 --> 00:05:10,641
+Vamos a pensar en la comunidad
+en cada una de sus vidas
+
+134
+00:05:12,696 --> 00:05:13,696
+quiero preguntarte
+
+135
+00:05:14,783 --> 00:05:18,683
+¿que recuerdes el tiempo en el
+que eras parte de una comundad?
+
+136
+00:05:22,570 --> 00:05:25,233
+Una comunidad que te dio soporte.
+
+137
+00:05:26,454 --> 00:05:28,657
+Una comunidad que te motivaba
+a ser todo lo que tu eres
+
+138
+00:05:29,733 --> 00:05:31,581
+a sanar, que te motivaba a crecer
+
+139
+00:05:33,820 --> 00:05:36,205
+Una comunidad llena de personas
+que se preocupaban por ti,
+
+140
+00:05:37,002 --> 00:05:39,175
+un lugar donde te sentías a salvo
+y maravilloso.
+
+141
+00:05:42,313 --> 00:05:44,873
+Alguien de aquí tiene realmente
+recuerdos de una comunidad así?
+
+142
+00:05:48,246 --> 00:05:49,315
+Al parecer no…
+
+143
+00:05:49,822 --> 00:05:50,873
+1 personas!
+
+144
+00:05:51,172 --> 00:05:52,172
+2 personas!
+
+145
+00:05:52,251 --> 00:05:54,351
+Ustedes son súper suertudos,
+quizá algunas personas,
+
+146
+00:05:54,435 --> 00:05:57,039
+ustedes son súper afortunados
+porque para la mayoría de nosotros
+
+147
+00:05:58,408 --> 00:05:59,732
+no hemos tenido esa experiencia
+
+148
+00:06:00,658 --> 00:06:03,775
+Si has tenido esa experiencia,
+tienes tanto por que seguir adelante,
+
+149
+00:06:04,150 --> 00:06:05,383
+más de lo que nosotros tenemos
+
+150
+00:06:06,079 --> 00:06:08,128
+por qué son pequeñísimas
+y rarísimas comunidades
+
+151
+00:06:08,529 --> 00:06:10,396
+ en nuestras vidas de nuestro mundo moderno
+
+152
+00:06:11,165 --> 00:06:14,750
+Aún así, todos necesitamos comunidad
+
+153
+00:06:15,066 --> 00:06:16,079
+ la necesitamos
+
+154
+00:06:17,507 --> 00:06:18,563
+Y para saber porque,
+
+155
+00:06:18,906 --> 00:06:22,178
+vamos a dar un vistazo rápido
+al inicio de nuestra especie.
+
+156
+00:06:23,153 --> 00:06:24,986
+A diferencia de Tiranosaurios Rex,
+o tigres,
+
+157
+00:06:26,323 --> 00:06:31,190
+nosotros no somos criaturas
+que son fuertes, con gran semblante
+
+158
+00:06:32,296 --> 00:06:33,536
+Así no es como sobrevivimos,
+
+159
+00:06:35,780 --> 00:06:38,847
+sobrevivimos como especie
+porque evolucionamos
+
+160
+00:06:39,034 --> 00:06:40,901
+para tener grandes cerebros,
+
+161
+00:06:41,222 --> 00:06:44,289
+juntandomos para apoyarnos en comunidad,
+
+162
+00:06:46,799 --> 00:06:49,399
+ así es como sobrevivimos, apoyandomos.
+
+163
+00:06:49,795 --> 00:06:50,795
+Y porque sobrevivimos,
+
+164
+00:06:51,460 --> 00:06:54,593
+tenemos esta
+
+165
+00:06:54,854 --> 00:06:58,212
+ necesidad
+interna por comunidad.
+
+166
+00:06:58,923 --> 00:07:01,656
+Aún cuando ya no es
+necesaria para sobrevir,
+
+167
+00:07:01,688 --> 00:07:04,455
+aún está dentro de nosotros,
+está en nuestro ADN,
+
+168
+00:07:05,461 --> 00:07:06,694
+de verdad, ¡la necesitamos
+
+169
+00:07:07,495 --> 00:07:10,162
+Somos criaturas que necesitan comunidad.
+
+170
+00:07:12,034 --> 00:07:13,567
+Podemos vivir sin ella,
+
+171
+00:07:15,103 --> 00:07:18,003
+ pero no podemos prosperar sin ella,
+
+172
+00:07:18,049 --> 00:07:21,349
+no podemos sentir que importamos sin ella.
+
+173
+00:07:23,250 --> 00:07:26,250
+Todos queremos,
+aun cuando somos introvetidos como yo,
+
+174
+00:07:26,896 --> 00:07:28,963
+y probablemente la mayoría
+de los que estamos aquí,
+
+175
+00:07:29,009 --> 00:07:33,542
+todos necesitamos  sentirnso parte
+de algo más grande que nosotros.
+
+176
+00:07:34,562 --> 00:07:35,599
+Aún así,
+
+177
+00:07:35,616 --> 00:07:37,616
+como dije, hay solamente
+unas cuantas muy pequeñas
+
+178
+00:07:37,745 --> 00:07:40,745
+y raras comunidades en nuestra vida.
+
+179
+00:07:42,291 --> 00:07:43,624
+Pero anhelamos esto,
+
+180
+00:07:44,120 --> 00:07:46,720
+y la buscamos de la manera que podemos.
+
+181
+00:07:47,791 --> 00:07:49,658
+Dependiendo de quien seamos,
+
+182
+00:07:50,068 --> 00:07:52,768
+quizá seamos capaces de encontrar
+comunidades, en nuestra familia,
+
+183
+00:07:53,097 --> 00:07:56,497
+pero para muchos de nosotros,
+nuestras familias no son muy solidarias,
+
+184
+00:07:58,040 --> 00:07:59,207
+algo triste pero cierto,
+
+185
+00:07:59,633 --> 00:08:03,166
+y en nuestro mundo moderno la gente
+es muy transitoria, viaja mucho, se muda mucho
+
+186
+00:08:03,537 --> 00:08:06,006
+Así que probablemte ya no
+estemos todos en un solo lugar.
+
+187
+00:08:08,176 --> 00:08:10,914
+Muchos de nosotros tratan de encontrarlo
+en un lugar de adoración,
+
+188
+00:08:10,938 --> 00:08:14,091
+y eso ha de funcionar para algunas
+personas pero para muchos de nosotros,
+
+189
+00:08:14,392 --> 00:08:19,159
+lugares disponibles no coinciden con quienes
+somos nosotros en el mundo moderno
+
+190
+00:08:20,436 --> 00:08:22,529
+Algunos de nosotros que
+vamos a educación superior,
+
+191
+00:08:22,696 --> 00:08:25,429
+quizá encontremos comunidades buenas ahí,
+
+192
+00:08:26,266 --> 00:08:29,535
+algunos intentan obtener comunidad
+donde esté disponible en el trabajo…
+
+193
+00:08:31,993 --> 00:08:33,393
+probablemente ahí no.
+
+194
+00:08:37,169 --> 00:08:39,436
+Usualmente tratamos de sentir comunidad,
+
+195
+00:08:39,502 --> 00:08:41,502
+sentirnos parte de algo
+más grande que nootros,
+
+196
+00:08:42,076 --> 00:08:46,209
+viendo todos los mismos shows de
+televisión al mismo tiempo,
+
+197
+00:08:47,065 --> 00:08:49,399
+eso tampoco ha funcionado tan bien.
+
+198
+00:08:51,720 --> 00:08:52,720
+Más y más
+
+199
+00:08:54,957 --> 00:08:58,357
+estamos tratando de formar
+comunidades en internet,
+
+200
+00:08:58,832 --> 00:09:02,099
+¿No es  grandioso que
+el internet nos haya unido?
+
+201
+00:09:03,878 --> 00:09:05,411
+El internet es una gran herramienta,
+
+202
+00:09:05,456 --> 00:09:08,923
+pero no es un gran lugar
+para verdaderas comunidades
+
+203
+00:09:10,761 --> 00:09:12,027
+Y en una extencsión
+
+204
+00:09:12,517 --> 00:09:16,317
+todos los ejemplos que mencione,
+nos dan algo positivo,
+
+205
+00:09:17,100 --> 00:09:19,900
+como internet, escuelas, TV's,
+fábricas, famila, etc
+
+206
+00:09:20,057 --> 00:09:23,657
+Y ahora algunos, estos son lugares
+geniales para comunidades.
+
+207
+00:09:24,020 --> 00:09:26,853
+ Pero la mayoría de nosotros estamos
+buscando, necesitando más,
+
+208
+00:09:27,756 --> 00:09:29,223
+necesitamos mucho más.
+
+209
+00:09:31,399 --> 00:09:33,032
+También al inicio de nuestra especie,
+
+210
+00:09:33,056 --> 00:09:36,289
+una de las maneras en la que nos
+apoyábamos en comunidad era creando
+
+211
+00:09:37,151 --> 00:09:40,818
+y compartiendo y enseñado
+herramientas de verdad cool.
+
+212
+00:09:41,067 --> 00:09:44,700
+A traves de los años hemos
+creado muchísmas herramientas muy cool,
+
+213
+00:09:44,938 --> 00:09:49,138
+permitiéndonos sobrevivr en un
+ambiente en algunos casos hostil.
+
+214
+00:09:49,737 --> 00:09:53,270
+Ya saben, hemos creado herramientas
+que ayuden a mejorar nuestras vidas,
+
+215
+00:09:53,781 --> 00:09:55,781
+pero porque nos hemos ayudado a sobrevivir,
+
+216
+00:09:56,088 --> 00:09:57,088
+sobrevivimos.
+
+217
+00:09:57,629 --> 00:09:58,629
+Y porque sobrevivimos
+
+218
+00:09:59,070 --> 00:10:02,003
+ la necesidad de crear
+se queda con nosotros
+
+219
+00:10:02,455 --> 00:10:05,900
+aún cuando ya no necesitamos estas herramientas,
+conservamos esa necesidad interna
+
+220
+00:10:08,370 --> 00:10:10,333
+Es otra de las cosas que están en nuestro ADN,
+
+221
+00:10:12,018 --> 00:10:14,484
+ necesitamos crear en nuestras vidas.
+
+222
+00:10:15,375 --> 00:10:16,575
+Y afortunadamente,
+
+223
+00:10:16,609 --> 00:10:17,609
+hoy,
+
+224
+00:10:18,437 --> 00:10:19,437
+más que nunca,
+
+225
+00:10:19,901 --> 00:10:21,534
+tenemos disponibles muchísimas cosas,
+
+226
+00:10:21,620 --> 00:10:26,020
+para cada una de nuestras
+curiosidades únicas y nuestros talentos.
+
+227
+00:10:28,939 --> 00:10:31,306
+Dejenme tomar un pequeño
+camino alterno aquí,
+
+228
+00:10:33,218 --> 00:10:34,830
+y ponerme personal por un momento.
+
+229
+00:10:35,650 --> 00:10:38,483
+Aún cuado el día de hoy
+vivo una vida que en verdad amo vivir,
+
+230
+00:10:39,513 --> 00:10:43,046
+ cuando era un pequeño geek,
+no era cool ser un geek.
+
+231
+00:10:44,825 --> 00:10:47,358
+Era brutalmente bulleado, diariamente,
+
+232
+00:10:47,684 --> 00:10:50,418
+ apuntado*  por ser un geek introvertido,
+
+233
+00:10:50,455 --> 00:10:52,389
+gordo, gay, malo en deportes,
+
+234
+00:10:54,687 --> 00:10:57,820
+todas estas cosas que los bullies pensaban
+que eran terribles evidentemente.
+
+235
+00:10:58,001 --> 00:11:02,101
+Me mantuve lejos de otras personas
+por miedo a ser atormentado y golpeado,
+
+236
+00:11:02,710 --> 00:11:04,243
+lo que pasaba a diario,
+
+237
+00:11:04,416 --> 00:11:07,616
+tan a menudo mientras 
+que los maestros  miraban.
+
+238
+00:11:07,878 --> 00:11:11,545
+¿Sus maestros son tan malos 
+como los de Estados Unidos?
+
+239
+00:11:12,664 --> 00:11:14,474
+Si, disculpen.
+
+240
+00:11:15,067 --> 00:11:19,134
+Los padres y los maestros 
+realmente no fueron de mucha ayuda,
+
+241
+00:11:19,439 --> 00:11:21,106
+ ellos no tenían ni idea,
+
+242
+00:11:21,245 --> 00:11:24,912
+y para mi la vida era totalmente 
+un infierno depresivo,
+
+243
+00:11:26,251 --> 00:11:27,958
+de verdad.
+
+244
+00:11:28,643 --> 00:11:33,910
+Así que cuando regresaba a casa me 
+retiraba al mundo mágico de la televisión.
+
+245
+00:11:34,774 --> 00:11:36,307
+Mi tecnología favorita,
+
+246
+00:11:37,223 --> 00:11:39,356
+me sentía parte de algio 
+mientras veía la televisión,
+
+247
+00:11:39,845 --> 00:11:41,145
+pero el show siempre terminaba,
+
+248
+00:11:41,863 --> 00:11:44,463
+dejandome no solamente donde 
+me encontraba antes de que empezara,
+
+249
+00:11:44,765 --> 00:11:45,765
+sino que peor,
+
+250
+00:11:46,200 --> 00:11:50,600
+debido a que no use ese tiempo 
+para hacer algo valioso en mi vida,
+
+251
+00:11:52,073 --> 00:11:53,740
+era mayormente un escape,
+
+252
+00:11:55,257 --> 00:11:59,390
+un intento de evitarme y por supuesto…
+
+253
+00:11:59,574 --> 00:12:00,574
+no funciona.
+
+254
+00:12:01,098 --> 00:12:03,098
+No puedes evitarte a ti mismo,
+
+255
+00:12:03,003 --> 00:12:05,003
+puedes apagarlo temporalmente,
+
+256
+00:12:04,526 --> 00:12:06,392
+asi como estos dispositivos,
+
+257
+00:12:07,129 --> 00:12:08,262
+pero no funciona,
+
+258
+00:12:09,115 --> 00:12:10,582
+me ponia más deprimido
+
+259
+00:12:11,884 --> 00:12:12,884
+y mas temeroso,
+
+260
+00:12:13,581 --> 00:12:16,248
+solo para convertirme más en un 
+blanco para los bullies en la escuela,
+
+261
+00:12:16,248 --> 00:12:19,481
+solo para encerrarme otra vez en el 
+mundo de la televisión cuando llegar a casa…
+
+262
+00:12:20,161 --> 00:12:22,628
+así es, soy un adicto a la televisión
+
+263
+00:12:23,334 --> 00:12:27,667
+y no fue la única manera de la 
+que trate de evitarme a mi mismo..
+
+264
+00:12:29,053 --> 00:12:31,053
+Como era un geek introvertido,
+
+265
+00:12:31,663 --> 00:12:33,663
+también trate de escaparme 
+de mi miserable vida,
+
+266
+00:12:34,212 --> 00:12:36,279
+enfocandome en proyectos geeky,
+
+267
+00:12:37,247 --> 00:12:38,914
+estos eran realmente cool
+
+268
+00:12:39,131 --> 00:12:40,531
+y aprendí muchísmo haciendolos
+
+269
+00:12:41,443 --> 00:12:45,510
+pero no aprendi como manejar a otros niños,
+
+270
+00:12:46,737 --> 00:12:48,270
+era totalmente “SOLO” ,
+
+271
+00:12:49,219 --> 00:12:50,819
+tampoco había comunidad,
+
+272
+00:12:53,915 --> 00:12:55,649
+otros niños en mi escuela,
+
+273
+00:12:56,407 --> 00:12:58,740
+no encontrando proyectos geeky cool
+
+274
+00:12:58,798 --> 00:12:59,931
+en los cuales emocionarse,
+
+275
+00:12:59,934 --> 00:13:02,667
+o ninguna otra cosa que valiera la pena,
+
+276
+00:13:03,209 --> 00:13:06,476
+aún así todas esas personas 
+necesitaban comunidad,
+
+277
+00:13:07,112 --> 00:13:11,245
+encontraron un tipo de comunidad 
+juntandose con otros bullies,
+
+278
+00:13:11,787 --> 00:13:13,720
+eso era una opción para algunos de ellos.
+
+279
+00:13:14,462 --> 00:13:15,962
+Realmente necesitamos comunidad,
+
+280
+00:13:17,036 --> 00:13:19,503
+así que lo encontramos donde podamos,
+
+281
+00:13:20,201 --> 00:13:21,601
+y tomamos decisiones,
+
+282
+00:13:22,610 --> 00:13:24,510
+aún cuando no son 
+necesariamente para mejorar,
+
+283
+00:13:24,596 --> 00:13:28,529
+y aún cuando no estamos 
+tan conscientes de esas decisiones,
+
+284
+00:13:29,123 --> 00:13:32,990
+no es siempre para mejorar 
+pero lo hacemos lo que podemos.
+
+285
+00:13:33,603 --> 00:13:35,936
+De adultos es bien importante 
+estar conscientes de eso
+
+286
+00:13:36,118 --> 00:13:39,518
+debido a que podemos ser facilmente 
+manipulados  a través de nuestros deseos.
+
+287
+00:13:42,656 --> 00:13:44,656
+Especialmente nuestros 
+deseos más profundos,
+
+288
+00:13:45,148 --> 00:13:46,448
+como la neceisdad de comunidad
+
+289
+00:13:47,148 --> 00:13:48,948
+puede manifestarse de maneras inocuas,
+
+290
+00:13:50,776 --> 00:13:52,476
+como partidos de fútbol  importantes
+
+291
+00:13:54,386 --> 00:13:57,186
+o pueden imaginarse lo que 
+se hubiera sentido ser parte de las
+
+292
+00:13:57,440 --> 00:13:58,600
+millones de personas
+
+293
+00:13:59,501 --> 00:14:01,234
+ levantando sus pequeños brazos hondeando
+
+294
+00:14:01,420 --> 00:14:04,492
+pequeños libros rojos en una 
+plaza hace tiempo,
+
+295
+00:14:04,493 --> 00:14:07,393
+o inclusive mucho tiempo atrás 
+levantando los brazos y hondeandolos
+
+296
+00:14:07,417 --> 00:14:10,281
+mientras cantabamos al unísono 
+junto a millones de personas
+
+297
+00:14:10,282 --> 00:14:13,149
+en Nuremburgo, en la Alemania de los 30’s .
+
+298
+00:14:14,446 --> 00:14:15,446
+Asi que, como sea. El punto es,
+
+299
+00:14:16,685 --> 00:14:18,885
+que las comunidades son poderosas
+
+300
+00:14:18,711 --> 00:14:20,111
+y si las necesitamos,
+
+301
+00:14:20,816 --> 00:14:22,149
+saí que usemos esto,
+
+302
+00:14:22,652 --> 00:14:26,518
+usemos esta necesidad interna para hacer algo más psitivo,
+
+303
+00:14:26,842 --> 00:14:27,842
+yo propongo
+
+304
+00:14:29,097 --> 00:14:30,297
+eventos como este,
+
+305
+00:14:32,554 --> 00:14:35,487
+eventos como estos en los que estamos ahora,
+
+306
+00:14:34,648 --> 00:14:35,648
+Jalisco…
+
+307
+00:14:39,142 --> 00:14:41,742
+este lugar es asombroso, ¿No es así?...
+
+308
+00:14:42,181 --> 00:14:46,581
+Jalisco Campus Party, no tenía idea 
+de que esperar de este evento,
+
+309
+00:14:46,636 --> 00:14:48,236
+ pero ha sido asombroso,
+
+310
+00:14:49,179 --> 00:14:51,379
+ya saben, aquí nos hemos juntado,
+
+311
+00:14:52,580 --> 00:14:56,447
+aprendemos, compartimos, 
+nos conocemos y también  jugamos…
+
+312
+00:14:56,848 --> 00:14:57,848
+¡Es fantástico!
+
+313
+00:14:58,313 --> 00:15:00,180
+Como resultado, ¡mágia pasa!
 
 1018
 00:42:36,699 --> 00:42:37,999
