@@ -365,7 +365,7 @@ podemos hacer más
 
 89
 00:03:27,613 --> 00:03:30,664
-colectivamente de lo 
+colectivamente de lo
 que podemos hacer solos.
 
 90
@@ -1310,7 +1310,7 @@ así que usemos esto,
 
 302
 00:14:22,652 --> 00:14:26,518
-usemos esta necesidad 
+usemos esta necesidad
 interna para hacer algo más psitivo,
 
 303
@@ -1323,7 +1323,7 @@ eventos como este,
 
 305
 00:14:32,554 --> 00:14:34,587
-eventos como estos 
+eventos como estos
 en los que estamos ahora,
 
 306
@@ -1361,463 +1361,930 @@ nos conocemos y también  jugamos…
 Como resultado, ¡mágia pasa!
 
 314
+00:15:01,212 --> 00:15:02,745
+Que han aprendido aquí?
+
+315
+00:15:03,498 --> 00:15:05,365
+Probablemente muchísimas cosas diferentes ,
+
+316
+00:15:05,813 --> 00:15:07,946
+muchas de las cuales ni siquiera esperadas,
+
+317
+00:15:08,527 --> 00:15:10,141
+¿Que tal si compartieran aquí?
+
+318
+00:15:10,294 --> 00:15:11,961
+¿Que oportunidades han encontrado?
+
+319
+00:15:12,101 --> 00:15:14,701
+¿Que direcciones estan considerando
+ahora son totalmente nuevas
+
+320
+00:15:14,725 --> 00:15:16,725
+ en sus vidas que los llevaran
+a quien sabe donde,
+
+321
+00:15:16,749 --> 00:15:19,349
+solo por que vinieron aqui
+a esta comunidad,
+
+322
+00:15:19,869 --> 00:15:24,136
+quizá conocieron a alguien que
+conocerán por muchísimo tiempo?
+
+323
+00:15:25,744 --> 00:15:30,530
+Estos son solo algunos ejemplos de las
+cosas que pasan cuando la gente se junta
+
+324
+00:15:31,198 --> 00:15:32,354
+en comunidad ,
+
+325
+00:15:33,587 --> 00:15:36,187
+ya saben , hagamos lo máximo
+de esta magia mientras la tenemos,
+
+326
+00:15:36,416 --> 00:15:37,816
+solamente tenemos otro día o dos,
+
+327
+00:15:38,121 --> 00:15:39,855
+este evento va a terminar,
+
+328
+00:15:40,678 --> 00:15:43,345
+ pero la magia no tiene porque terminar,
+
+329
+00:15:43,446 --> 00:15:45,646
+pero por que este evento va a terminar,
+
+330
+00:15:45,732 --> 00:15:47,732
+ también propongo otra manera,
+
+331
+00:15:48,113 --> 00:15:50,646
+otra manera maravillosa  de comunidad…
+
+332
+00:15:52,429 --> 00:15:53,429
+¡Hackerspaces!
+
+333
+00:16:01,629 --> 00:16:03,129
+¡Los Hackerspaces son íncreibles!
+
+334
+00:16:03,461 --> 00:16:04,628
+No tienen por que terminar,
+
+335
+00:16:04,769 --> 00:16:06,202
+la magia no tiene por que terminar,
+
+336
+00:16:06,248 --> 00:16:10,181
+estas comunidades siguen porque
+la gente las inicia y las mantiene vivas…
+
+337
+00:16:10,782 --> 00:16:14,382
+¿Cuántas personas de aquí
+han ido a algún hackerspace?
+
+338
+00:16:15,269 --> 00:16:18,936
+¡WOW! Algunos, pero aún hay
+muchísimos que no han ido
+
+339
+00:16:19,653 --> 00:16:21,486
+Pero para las personas
+que han ido a alguno…
+
+340
+00:16:21,496 --> 00:16:22,896
+saben que son asombrosos, ¿verdad?
+
+341
+00:16:23,753 --> 00:16:25,786
+Puedes hacer muchísimas
+cosas asombrosas  ahí.
+
+342
+00:16:25,882 --> 00:16:30,415
+Hoy en día hay más de 2,000 hackerspaces
+en el planeta y están creciendo rapidamente
+
+343
+00:16:30,984 --> 00:16:33,517
+y son bienvenidos en cada uno de ellos
+
+344
+00:16:34,560 --> 00:16:38,260
+Todos ellos son lugares abiertos
+donde son bienvenidos  por favor visiten uno
+
+345
+00:16:39,046 --> 00:16:40,179
+o visiten muchos.
+
+346
+00:16:40,874 --> 00:16:42,574
+Ustedes definitivamente son bienvenidos
+
+347
+00:16:42,702 --> 00:16:44,502
+Donde sea que vivas,
+donde quiera que vayas ,
+
+348
+00:16:44,528 --> 00:16:45,795
+sumate a la magia,
+
+349
+00:16:46,252 --> 00:16:47,552
+beneficiate de la magia,
+
+350
+00:16:47,671 --> 00:16:49,071
+manten la magia viva.
+
+351
+00:16:51,296 --> 00:16:52,296
+Hackerspace,
+
+352
+00:16:52,560 --> 00:16:53,960
+o también se les conoce como
+
+353
+00:16:54,853 --> 00:16:56,553
+mackerspaces, fab labs,
+
+354
+00:16:56,577 --> 00:16:58,376
+muchos nombres
+
+355
+00:16:58,377 --> 00:17:00,544
+pero la verdad es que todos
+signiican la misma cosa.
+
+356
+00:17:00,573 --> 00:17:01,806
+Todos ellos son lugares
+
+357
+00:17:01,826 --> 00:17:02,826
+donde gente
+
+358
+00:17:03,008 --> 00:17:05,408
+de todos los niveles de conocimiento
+
+359
+00:17:05,519 --> 00:17:07,852
+desde novatos a expertos
+y todo lo que está en medio
+
+360
+00:17:08,685 --> 00:17:10,320
+se unen en un lugar físico
+
+361
+00:17:11,294 --> 00:17:12,294
+como aquí
+
+362
+00:17:13,046 --> 00:17:14,579
+pero van ahí a aprender
+
+363
+00:17:14,669 --> 00:17:18,036
+y a enseñar y compartir lo
+que sea que ellos consideren cool.
+
+364
+00:17:18,092 --> 00:17:19,692
+Y lo hacen en una manera colaborativa,
+
+365
+00:17:20,417 --> 00:17:21,716
+en una comunidad colaborativa
+
+366
+00:17:22,858 --> 00:17:25,325
+donde todos son motivados  a explorar
+
+367
+00:17:25,786 --> 00:17:27,986
+y a hacerlo que ellos aman hacer,
+
+368
+00:17:28,933 --> 00:17:30,300
+realmente son sitios super cool
+
+369
+00:17:30,976 --> 00:17:32,509
+y sumamente divertidos.
+
+370
+00:17:33,361 --> 00:17:34,628
+Y todos son únicos,
+
+371
+00:17:34,983 --> 00:17:38,250
+porque la gente la gente que 
+los inició son todos diferentes,
+
+372
+00:17:38,802 --> 00:17:41,735
+ los hacen para que les haga 
+bien a ellos y a su comunidad,
+
+373
+00:17:42,111 --> 00:17:45,311
+todos ellos tienen sus 
+propias clases, talleres,
+
+374
+00:17:46,053 --> 00:17:50,253
+sus propias presentaciones 
+y herramientas para hacer cosas cool
+
+375
+00:17:51,788 --> 00:17:54,055
+y dependiendo del tipo de espacio,
+
+376
+00:17:54,129 --> 00:17:55,196
+las herraminetas
+
+377
+00:17:55,948 --> 00:17:57,748
+son únicas para ese espacio
+
+378
+00:17:57,986 --> 00:17:59,986
+hay por supuesto de 
+tecnología y computadoras,
+
+379
+00:18:00,198 --> 00:18:03,098
+los que la gente  normalmente piensa, 
+de fabricación de máquinas,
+
+380
+00:18:04,008 --> 00:18:07,875
+pero también hay muchísimos 
+espacios de arte y artesanias.
+
+381
+00:18:09,943 --> 00:18:11,143
+También hay música
+
+382
+00:18:14,255 --> 00:18:15,255
+y comida,
+
+383
+00:18:16,909 --> 00:18:20,376
+y biología y ciencia y cualquier cosa que 
+la gente piense de ahí piense que es cool
+
+384
+00:18:20,756 --> 00:18:24,856
+y cualquier cosa que ellos 
+crean que quieran aprender y hacer,
+
+385
+00:18:25,372 --> 00:18:28,239
+enseñando y compartiendo todas estas cosas
+
+386
+00:18:33,792 --> 00:18:34,859
+Las herramientas
+
+387
+00:18:35,932 --> 00:18:38,132
+y las cosas que la gente hace ahí
+
+388
+00:18:38,436 --> 00:18:40,988
+esas solo son excusas
+
+389
+00:18:41,508 --> 00:18:44,336
+para que la gente se junte 
+para ser parte de una comunidad,
+
+390
+00:18:45,337 --> 00:18:49,004
+es la comunidad y no las 
+herramientas la fuerza motriz.
+
+391
+00:18:51,619 --> 00:18:52,619
+Personalmente,
+
+392
+00:18:53,225 --> 00:18:54,492
+amo la electrónica,
+
+393
+00:18:56,536 --> 00:18:57,536
+amo enseñar
+
+394
+00:18:59,555 --> 00:19:02,322
+amo enseñar a otras personas 
+como hacer cosas cool con electrónica,
+
+395
+00:19:02,337 --> 00:19:03,804
+amo enseñar soldadura,
+
+396
+00:19:05,134 --> 00:19:07,201
+así que hago todas estas cosas.
+
+397
+00:19:09,241 --> 00:19:11,408
+Y enseñó gente de todas las edades
+
+398
+00:19:11,588 --> 00:19:13,221
+y todos los niveles de experiencia,
+
+399
+00:19:13,640 --> 00:19:15,773
+todo lo que se ocupa es interés,
+
+400
+00:19:16,612 --> 00:19:18,045
+cualquiera puede aprender,
+
+401
+00:19:18,049 --> 00:19:21,249
+barato es divertido, 
+hace que la gente se junte.
+
+402
+00:19:21,645 --> 00:19:25,978
+La gente ama reunirse para 
+aprender a hacer algo útil y divertido
+
+403
+00:19:26,589 --> 00:19:28,022
+pero realmente es
+
+404
+00:19:28,156 --> 00:19:32,123
+una excusa para estar en comunidad juntos
+
+405
+00:19:32,281 --> 00:19:33,948
+y amo proveer esa excusa.
+
+406
+00:19:34,535 --> 00:19:36,735
+Y esa excusa es solo una excusa …
+
+407
+00:19:37,229 --> 00:19:40,629
+¡pero es totalmente correcto  
+que sea una excusa, es una gran excusa!
+
+408
+00:19:41,069 --> 00:19:43,402
+no solo no esta lastimando a nadie,
+
+409
+00:19:43,440 --> 00:19:46,673
+sino que está ayudando a 
+tantos en muchisimas maneras cool.
+
+410
+00:19:46,970 --> 00:19:48,437
+Es una habilidad util,
+
+411
+00:19:48,956 --> 00:19:50,289
+construye confianza,
+
+412
+00:19:50,560 --> 00:19:52,927
+da un sentido de realización 
+el hacer cosas cool
+
+413
+00:19:53,241 --> 00:19:54,842
+que luego puedas mostrar a otros.
+
+414
+00:19:56,143 --> 00:19:59,943
+Y aún si uno no usa esta 
+habilidad en especifico despues,
+
+415
+00:20:00,461 --> 00:20:01,461
+la confianza
+
+416
+00:20:02,151 --> 00:20:06,818
+y el sentido de realización permanecen 
+por el resto de nuestras vidas.
+
+417
+00:20:07,575 --> 00:20:10,675
+Lo mismo es igual para todas 
+las otras muchísmas habilidades
+
+418
+00:20:10,884 --> 00:20:14,484
+y temas y actividades que 
+ocurren en los hackerspaces,
+
+419
+00:20:14,671 --> 00:20:15,671
+así como aquí,
+
+420
+00:20:15,993 --> 00:20:18,793
+y todas son buenas excusas para reunirnos.
+
+421
 00:42:36,699 --> 00:42:37,999
 -Esta funcionando?
 - Funciona.
 
-315
+422
 00:42:38,899 --> 00:42:43,999
 Hola, mi nombre es Octavio.
 Esta conmigo mi amigo David.
 
-316
+423
 00:42:44,249 --> 00:42:48,749
 El es muy bueno programando y
 haciendo todas estas cosas.
 
-317
+424
 00:42:48,999 --> 00:42:51,199
-Pero, creo que el necesita relajarse un poco.
+Pero, creo que el necesita 
+relajarse un poco.
 
-318
+425
 00:42:52,049 --> 00:42:57,549
 Asi que encuentro divertido,
 estas cosas de los hackerspaces.
 
-319
+426
 00:42:58,399 --> 00:43:05,099
 Y realmente creo que el necesita un
 consejo de tu parte para decirle que es lo grandioso
 
-320
+427
 00:43:05,349 --> 00:43:11,849
 de todo esto que estas haciendo, y por que
 estas demasiado feliz
 
-321
+428
 00:43:12,099 --> 00:43:14,599
 despues de todo el trabajo
 que haz hecho.
 
-322
+429
 00:43:14,849 --> 00:43:15,349
 podrias hacer eso por mi, por favor.
 
-323
+430
 00:43:16,449 --> 00:43:20,949
 Bueno, mencione estuve muy deprimido
 de pequeño
 
-324
+431
 00:43:21,099 --> 00:43:23,399
 realmente la primera mitad de mi vida
 no fue nada mas que depresion
 
-325
+432
 00:43:23,649 --> 00:43:30,149
 y es una larga historia, pero las
 decisiones que tome
 
-326
+433
 00:43:30,399 --> 00:43:32,899
 me mantuvieron deprimido
 
-327
+434
 00:43:33,149 --> 00:43:38,649
 Y una ves que me di cuenta que las decisiones
 que tomaba tenian un gran efecto en mi vida.
 
-328
+435
 00:43:39,099 --> 00:43:42,199
 Empece a poner atencion a mis decisiones.
 
-329
+436
 00:43:42,449 --> 00:43:46,149
 y aprender de las consecuencias,
 por que no era bueno en tomar decisiones
 
-330
+437
 00:43:46,399 --> 00:43:48,799
 era malisimo en tomarlas y aun no soy
 muy bueno
 
-331
+438
 00:43:49,049 --> 00:43:54,449
 pero son lo suficiente mente buenas para
 que las cosas sean mejores de lo que eran
 
-332
+439
 00:43:54,699 --> 00:44:02,199
 y con el tiempo me volvi un poco mejor de
 tal forma que tengo una vida que disfruto
 
-333
+440
 00:44:02,449 --> 00:44:08,849
 tomo añós, pero valio la pena, la otra opcion
 era no estar vivo.
 
-334
+441
 00:44:09,099 --> 00:44:11,699
 Me alegra estar vivo
 
-335
+442
 00:44:12,899 --> 00:44:15,799
 Necesitamos cuidarnos nosotros mismos,
 no importa lo que hagamos, inclusive si es algo
 
-336
+443
 00:44:16,049 --> 00:44:20,049
 amamos competamente, aun asi, necesitamos descanzar,
 dormir, comida
 
-337
+444
 00:44:20,299 --> 00:44:26,099
 me refiero a comida real, no snickers, los snickers son
 grandiosos
 
-338
+445
 00:44:26,349 --> 00:44:27,849
 pero necesitamos otro tipo de comida,
 con nutrientes
 
-339
+446
 00:44:29,099 --> 00:44:32,999
 Necesitamos cuidarnos a nosotros mismos,
 si somos amigos dentro de una comunidad
 
-340
+447
 00:44:33,149 --> 00:44:35,049
 nos cuidamos los unos a los otros.
 
-341
+448
 00:44:35,299 --> 00:44:39,999
 es como "amigo, ve a casa y duerme"
 
-342
+449
 00:44:40,899 --> 00:44:45,999
 he escuchado de otrs personas que el dormir
 es algo bueno
 
-343
+450
 00:44:47,249 --> 00:44:49,749
 -Gracias
 -De nada
 
-344
+451
 00:44:55,399 --> 00:44:59,499
 Cuales son tus pensamientos
 sobre la comunidad biohacker,
 
-345
+452
 00:44:59,749 --> 00:45:01,249
 es similar o no a los demas hackerspaces.
 
-346
+453
 00:45:01,499 --> 00:45:07,099
 Mmm no estoy seguro, una comunidad hacker
 es parte de un hackerspace.
 
-347
+454
 00:45:07,349 --> 00:45:10,849
 A que diferencia te refieres.
 
-348
+455
 00:45:11,099 --> 00:45:13,599
 -La comunidad biohacker.
 -Oh biohacker
 
-349
+456
 00:45:15,099 --> 00:45:20,599
 Esa
 comunidad esta creciendo muy rapido
 
-350
+457
 00:45:20,849 --> 00:45:25,349
 Hay una comunidad en el area de San Francisco
 que empezo todo esto junto
 
-351
+458
 00:45:33,220 --> 00:45:33,220
 junto con una en NY,
 biocurious in SF and JeanSpace on NY
 
-352
+459
 00:45:33,470 --> 00:45:38,970
 Pero ahora hay muchos alrededor del mundo
 y estan haciendo cosas increibles.
 
-353
+460
 00:45:38,820 --> 00:45:44,820
 Algunas veces son parte de otro hackerspace
 
-354
+461
 00:45:44,920 --> 00:45:47,420
 Pero en otras ocasiones estan separados.
 
-355
+462
 00:45:47,520 --> 00:45:50,170
 por que trabajan con materiales que son un poco
 peligrosos
 
-356
+463
 00:45:50,270 --> 00:45:53,920
 y que mucha gente no entiende.
 
-357
+464
 00:45:54,170 --> 00:45:57,950
 En ves de convencer a la demas gente
 que lo que hacen es seguro.
 
-358
+465
 00:45:58,800 --> 00:46:00,420
 Esperamos que asi sea.
 
-359
+466
 00:46:00,570 --> 00:46:04,170
 Se mueven a sus propios espacios y
 crean sus propios standares de seguridad.
 
-360
+467
 00:46:04,290 --> 00:46:06,920
 Y se ayudan entre ellos a crear
 estos standares de seguridad
 
-361
+468
 00:46:07,020 --> 00:46:10,720
 y constantemente le tienen que asegurar
 al gobierno
 
-362
+469
 00:46:10,820 --> 00:46:14,220
 que sus standares tienen sentido.
 
-363
+470
 00:46:14,470 --> 00:46:21,000
 Hay algunas diferencias contra
 lo que llamamos hackerspaces,
 
-364
+471
 00:46:21,130 --> 00:46:24,930
 Pero realmente son la misma cosa.
 
-365
+472
 00:46:25,180 --> 00:46:28,180
 Son espacios con comunidades de personas
 que exploran y creen
 
-366
+473
 00:46:28,230 --> 00:46:31,930
 que lo que hacen es asombroso y se apoyan
 para hacer eso.
 
-367
+474
 00:46:32,880 --> 00:46:36,380
 Lo que piensan que es asombroso
 es todo tipo de biología.
 
-368
+475
 00:46:37,000 --> 00:46:40,298
 Ya sea trabajar con DNA.
 
-369
+476
 00:46:40,380 --> 00:46:42,880
 Ya sea el crecer plantas.
 
-370
+477
 00:46:42,130 --> 00:46:45,630
 Ya sea el modificar partes de su cuerpo
 
-371
+478
 00:46:45,600 --> 00:46:49,380
 Que al parecer mucha gente lo esta
 haciendo.
 
-372
+479
 00:46:49,630 --> 00:46:55,130
 Lo que sea esta bien si es lo en lo que la
 gente se apoya.
 
-373
+480
 00:46:58,380 --> 00:47:04,400
 Hola, somos tres personas con tres hackerspaces en
 tres diferentes estados.
 
-374
+481
 00:47:04,650 --> 00:47:13,150
 y queremos preguntarte cuando decidiste que
 querias fundar Noisebridge
 
-375
+482
 00:47:13,300 --> 00:47:17,400
 y cuanto tiempo te tomo en verdad iniciar
 Noisebridge
 
-376
+483
 00:47:17,550 --> 00:47:19,750
 y tambien queremos preguntarte cuando vendras a
 visitar
 
-377
+484
 00:47:20,000 --> 00:47:21,500
 nuestros hackerspaces.
 
-378
+485
 00:47:21,650 --> 00:47:23,150
 Oh, amo visitar lugares.
 
-379
+486
 00:47:23,400 --> 00:47:25,900
 Esta es la primera ves que vengo a México
 
-380
+487
 00:47:25,150 --> 00:47:29,550
 desde que el movimiento de los hackerspaces
 iniciara, han sido muchos años.
 
-381
+488
 00:47:30,000 --> 00:47:34,000
 Y vere por un tour de talleres alrededor de México.
 
-382
+489
 00:47:34,250 --> 00:47:40,750
 Por cierto, esta playera es de mi tour por UK
 de hace varios años.
 
-383
+490
 00:47:41,000 --> 00:47:46,108
 Despues de que descubrieron todos estos posters de los Nazis.
 
-384
+491
 00:47:46,358 --> 00:47:49,558
 Hacer un tour por México seria divertido.
 
-385
+492
 00:47:49,808 --> 00:47:56,000
 La historia de Noisebridge rapidamente, fui a una enorme
 conferencia de hackers
 
-386
+493
 00:47:56,250 --> 00:48:00,900
 en esa ocasion eran 2500 personas,
 
-387
+494
 00:48:00,250 --> 00:48:07,750
 esta es de 12500 es
 un poco abrumador, mucha gente genial.
 
-388
+495
 00:48:08,000 --> 00:48:11,500
 Esas 2500 personas tenian todas esas cosas
 asombrosas como aqui,
 
-389
+496
 00:48:11,550 --> 00:48:15,550
 grandes charlas y una de ellas era acerca
 de como iniciar tu hackerspace
 
-390
+497
 00:48:15,800 --> 00:48:20,600
 Es ahi cuando me di cuenta que si iniciaba un
 hackerspace en mi ciudad
 
-391
+498
 00:48:17,550 --> 00:48:24,150
 la grandiosa magia de ese evento
 no tenia por que terminar.
 
-392
+499
 00:48:24,400 --> 00:48:28,900
 Un amigo que estaba ahi, tambien de San Francisco,
 ambos tuvimos la misma inspiracion.
 
-393
+500
 00:48:29,150 --> 00:48:35,700
 Cuando regresamos a casa empezamos a hablar
 he hicimos todo lo que le describi a la señorita.
 
-394
+501
 00:48:36,000 --> 00:48:40,400
 Hablamos con amigos, que les dijeron a otros amigos ,
 buscamos un nombre, un sitio web, un logo, stickers,
 
-395
+502
 00:48:40,650 --> 00:48:47,750
 los distribuimos, nos reuniamos cada martes, hablamos de lo
 que queriamos en el espacio,
 
-396
+503
 00:48:48,000 --> 00:48:50,000
 pero no habia muchos ejemplos para hablar de ellos,
 
-397
+504
 00:48:50,150 --> 00:48:52,650
 asi que tomo como un año para delinearlo
 
-398
+505
 00:48:52,900 --> 00:48:59,400
 Una cosa que no mencione antes, hablando de organizacion
 
-399
+506
 00:48:59,650 --> 00:49:07,150
 y estructura legal, que tipo de corporacion deberia ser:
 sin fines de lucro, con fines de lucro.
 
-400
+507
 00:49:07,400 --> 00:49:13,000
 Que tipo sin fines de lucro, debe ser una membresia,
 debemos tener un comite, que tipo de decisiones, como lo hacemos
 
-401
+508
 00:49:13,250 --> 00:49:20,000
 Esto no es por lo que nos reunimos, nos reunimos
 por que queriamos hackear el planeta
 
-402
+509
 00:49:20,250 --> 00:49:23,500
 Asi que la energia se fue, y nos dimos cuenta que
 necesitamos mantener la energia reunida,
 
-403
+510
 00:49:23,650 --> 00:49:26,250
 y lo hicimos realizando talleres.
 
-404
+511
 00:49:26,500 --> 00:49:29,900
 Realizar talleres es lo que mantiene las cosas con vida.
 
-405
+512
 00:49:30,150 --> 00:49:36,650
 Asi que tuvimos muchos talleres, y eventualmente
 tuvimos una idea de lo que queriamos
 
-406
+513
 00:49:37,000 --> 00:49:40,000
 documentamos todo, asi todos sabian en que
 estaban participando
 
-407
+514
 00:49:40,150 --> 00:49:44,600
 buscamos lugares, en un mes encontramos muchos lugares,
 decidimos por uno
 
-408
+515
 00:49:44,750 --> 00:49:47,000
 que es un lugar asombroso.
 
-409
+516
 00:49:47,150 --> 00:49:55,650
 No teniamos dinero, asi que hablamos y en un dia
 teniamos $12,000 USD en donaciones.
 
-410
+517
 00:49:55,900 --> 00:49:58,200
 Suficiente para pagar el primer mes, el ultimo mes y el deposito
 
-411
+518
 00:49:58,450 --> 00:50:02,050
 Y no hemos estado en deuda desde ese entonces, y eso
 fue hace 8 años.
 
-412
+519
 00:50:00,200 --> 00:50:01,700
 
