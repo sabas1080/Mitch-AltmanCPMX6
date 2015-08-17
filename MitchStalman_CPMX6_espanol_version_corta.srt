@@ -1337,7 +1337,7 @@ de que esperar de este evento,
 
 309
 00:14:46,636 --> 00:14:48,236
- pero ha sido asombroso,
+pero ha sido asombroso,
 
 310
 00:14:49,179 --> 00:14:51,379
@@ -1346,7 +1346,7 @@ ya saben, aquí nos hemos juntado,
 311
 00:14:52,580 --> 00:14:56,447
 aprendemos, compartimos,
-nos conocemos y también  jugamos…
+nos conocemos y también jugamos…
 
 312
 00:14:56,848 --> 00:14:57,848
@@ -1354,7 +1354,7 @@ nos conocemos y también  jugamos…
 
 313
 00:14:58,313 --> 00:15:00,180
-Como resultado, ¡mágia pasa!
+Como resultado, ¡tenemos magia!
 
 314
 00:15:01,244 --> 00:15:02,944
@@ -1363,7 +1363,7 @@ Como resultado, ¡mágia pasa!
 315
 00:15:04,592 --> 00:15:08,192
 Probablemente muchísimas cosas diferentes,
-muchas de las cuales ni siquiera esperadas,
+muchas de las cuales ni siquiera las esperaban,
 
 316
 00:15:09,050 --> 00:15:12,350
@@ -1372,13 +1372,13 @@ muchas de las cuales ni siquiera esperadas,
 
 317
 00:15:12,650 --> 00:15:16,217
-¿Que direcciones estan considerando ahora
-son totalmente nuvas  en sus vidas,
+¿Que direcciones estan considerando ahora?
+son totalmente nuvas en sus vidas
 
 318
 00:15:16,250 --> 00:15:20,217
 que los llevaran a quien sabe donde,
-solo por que vinieron aqui a esta comunidad,
+sólo por que vinieron aqui, a esta comunidad,
 
 319
 00:15:20,650 --> 00:15:23,883
@@ -1386,7 +1386,7 @@ quizá conocieron a alguien que conocerán por muchísimo tiempo.
 
 320
 00:15:25,107 --> 00:15:32,007
-Estos son solo algunos ejemplos de las cosas que pasan,
+Estos son sólo algunos ejemplos de las cosas que pasan,
 cuando la gente se junta en comunidad.
 
 321
@@ -1420,7 +1420,7 @@ otra manera maravillosa  de comunidad...
 
 328
 00:15:52,707 --> 00:15:56,207
- ¡Hackerspaces!
+¡Hackerspaces!
 
 329
 00:16:00,807 --> 00:16:03,507
@@ -1451,11 +1451,11 @@ pero aún hay muchísimos que no han ido a uno.
 335
 00:16:20,207 --> 00:16:24,040
 Pero para las personas que han ido a alguno…
-Saben que son asombrosos, ¿verdad?
+Saben que son asombrosos, ¿Verdad?
 
 336
 00:16:24,307 --> 00:16:26,374
-Puedes hacer muchísimas cosas asombrosas  ahí.
+Puedes hacer muchísimas cosas asombrosas ahí.
 
 337
 00:16:26,407 --> 00:16:30,407
@@ -1464,16 +1464,16 @@ en el planeta y están creciendo rapidamente...
 
 338
 00:16:30,407 --> 00:16:33,640
-y son bienvenidos en cada uno de ellos
+y son bienvenidos en cada uno de ellos.
 
 339
 00:16:34,560 --> 00:16:38,260
 Todos ellos son lugares abiertos
-donde son bienvenidos  por favor visiten uno
+donde son bienvenidos, por favor visiten uno
 
 340
 00:16:39,046 --> 00:16:40,179
-o visiten muchos.
+ó visiten muchos.
 
 341
 00:16:40,874 --> 00:16:42,574
@@ -1482,7 +1482,7 @@ Ustedes definitivamente son bienvenidos
 342
 00:16:42,702 --> 00:16:44,502
 Donde sea que vivas,
-donde quiera que vayas ,
+donde quiera que vayas,
 
 343
 00:16:44,528 --> 00:16:45,795
@@ -1506,7 +1506,7 @@ o también se les conoce como
 
 348
 00:16:54,853 --> 00:16:56,553
-mackerspaces, fab labs,
+makerspaces, fab labs,
 
 349
 00:16:56,577 --> 00:16:58,376
@@ -1544,16 +1544,16 @@ como aquí
 
 357
 00:17:13,046 --> 00:17:14,579
-pero van ahí a aprender
+pero van ahí a aprender,
 
 358
 00:17:14,669 --> 00:17:18,036
-y a enseñar y compartir lo
+enseñar y compartir lo
 que sea que ellos consideren cool.
 
 359
 00:17:18,092 --> 00:17:19,692
-Y lo hacen en una manera colaborativa,
+Y lo hacen de una manera colaborativa,
 
 360
 00:17:20,417 --> 00:17:21,716
@@ -1561,7 +1561,7 @@ en una comunidad colaborativa
 
 361
 00:17:22,858 --> 00:17:25,325
-donde todos son motivados  a explorar
+donde todos son motivados a explorar
 
 362
 00:17:25,786 --> 00:17:27,986
@@ -1581,12 +1581,12 @@ Y todos son únicos,
 
 366
 00:17:34,983 --> 00:17:38,250
-porque la gente la gente que
+porque la gente, la gente que
 los inició son todos diferentes,
 
 367
 00:17:38,802 --> 00:17:41,735
- los hacen para que les haga
+los hacen para que les haga
 bien a ellos y a su comunidad,
 
 368
@@ -1618,7 +1618,7 @@ tecnología y computadoras,
 
 374
 00:18:00,198 --> 00:18:03,098
-los que la gente  normalmente piensa,
+lo que la gente normalmente piensa,
 de fabricación de máquinas,
 
 375
@@ -1628,7 +1628,7 @@ espacios de arte y artesanias.
 
 376
 00:18:09,943 --> 00:18:11,143
-También hay música
+También hay de música
 
 377
 00:18:14,255 --> 00:18:15,255
@@ -1636,8 +1636,8 @@ y comida,
 
 378
 00:18:16,909 --> 00:18:20,376
-y biología y ciencia y cualquier cosa que
-la gente piense de ahí piense que es cool
+biología, ciencia y cualquier cosa que
+la gente piense de ahí crea que es cool
 
 379
 00:18:20,756 --> 00:18:24,856
@@ -1646,7 +1646,7 @@ crean que quieran aprender y hacer,
 
 380
 00:18:25,372 --> 00:18:28,239
-enseñando y compartiendo todas estas cosas
+enseñando y compartiendo todas estas cosas.
 
 381
 00:18:33,792 --> 00:18:34,859
@@ -1658,7 +1658,7 @@ y las cosas que la gente hace ahí
 
 383
 00:18:38,436 --> 00:18:40,988
-esas solo son excusas
+esas sólo son excusas
 
 384
 00:18:41,508 --> 00:18:44,336
@@ -1680,7 +1680,7 @@ amo la electrónica,
 
 388
 00:18:56,536 --> 00:18:57,536
-amo enseñar
+amo enseñar,
 
 389
 00:18:59,555 --> 00:19:02,322
@@ -1697,7 +1697,7 @@ así que hago todas estas cosas.
 
 392
 00:19:09,241 --> 00:19:11,408
-Y enseñó gente de todas las edades
+Y enseño a gente de todas las edades
 
 393
 00:19:11,588 --> 00:19:13,221
@@ -1713,7 +1713,7 @@ cualquiera puede aprender,
 
 396
 00:19:18,049 --> 00:19:21,249
-barato es divertido,
+barato es divertido y
 hace que la gente se junte.
 
 397
