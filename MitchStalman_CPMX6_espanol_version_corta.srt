@@ -1744,16 +1744,16 @@ que sea una excusa, es una gran excusa!
 
 403
 00:19:41,069 --> 00:19:43,402
-no solo no esta lastimando a nadie,
+no sólo no esta lastimando a nadie,
 
 404
 00:19:43,440 --> 00:19:46,673
 sino que está ayudando a
-tantos en muchisimas maneras cool.
+tantos en muchísimas maneras cool.
 
 405
 00:19:46,970 --> 00:19:48,437
-Es una habilidad util,
+Es una habilidad útil,
 
 406
 00:19:48,956 --> 00:19:50,289
@@ -1770,8 +1770,8 @@ que luego puedas mostrar a otros.
 
 409
 00:19:56,143 --> 00:19:59,943
-Y aún si uno no usa esta
-habilidad en especifico despues,
+Y aún si uno no usa esa
+habilidad en especifico después,
 
 410
 00:20:00,461 --> 00:20:01,461
@@ -1784,12 +1784,12 @@ por el resto de nuestras vidas.
 
 412
 00:20:07,575 --> 00:20:10,675
-Lo mismo es igual para todas
-las otras muchísmas habilidades
+Es lo mismo para todas
+las otras muchas habilidades,
 
 413
 00:20:10,884 --> 00:20:13,384
-y temas y actividades que
+temas y actividades que
 ocurren en los hackerspaces,
 
 414
@@ -1798,7 +1798,7 @@ así como aquí,
 
 415
 00:20:15,478 --> 00:20:19,078
-y todas son buenas excusas para que
+todas son buenas excusas para que
 las personas se reunan.
 
 416
@@ -1808,7 +1808,7 @@ Otra gran excusa para hacer esto es que,
 417
 00:20:28,175 --> 00:20:31,742
 la gente en los hackerspaces
-encuentra oportunidades
+encuentra oportunidades.
 
 418
 00:20:31,875 --> 00:20:34,175
@@ -1822,7 +1822,7 @@ y después hacen lo que aman hacer,
 420
 00:20:38,875 --> 00:20:43,575
 hay una alta probabilidad de
-que otras personas tambien,
+que otras personas también,
 
 421
 00:20:43,818 --> 00:20:48,485
@@ -1831,7 +1831,7 @@ la gente ama lo que haces,
 
 422
 00:20:48,618 --> 00:20:50,618
- te pagaran para hcerlo.
+te pagaran para hacerlo.
 
 423
 00:20:50,718 --> 00:20:52,818
@@ -1840,11 +1840,11 @@ Eso es lo que me pasó a mi.
 424
 00:20:53,118 --> 00:20:56,718
 Hice el primer control
-remoto TV-B-GONE por que..
+remoto TV-B-GONE por que...
 
 425
 00:20:57,100 --> 00:21:00,167
-¡yo quería uno!
+¡Yo quería uno!
 
 426
 00:21:01,088 --> 00:21:03,088
@@ -1852,11 +1852,11 @@ remoto TV-B-GONE por que..
 
 427
 00:21:03,182 --> 00:21:06,115
-¡YO- ODIO- LA- TELEVISIÓN!
+¡YO - ODIO - LA - TELEVISIÓN!
 
 428
 00:21:06,202 --> 00:21:07,802
-¡LA ODIO!,
+¡LA ODIO!
 
 429
 00:21:08,002 --> 00:21:12,502
@@ -1889,16 +1889,16 @@ para hacer muchas de las cosas
 
 435
 00:21:32,011 --> 00:21:33,511
-que solo había pensado en mi vida.
+que sólo había pensado en mi vida.
 
 436
 00:21:33,567 --> 00:21:37,934
 Pero cuando la televisión emezó a aparecer,
-por todos lados en lugares públicos,
+por todos lados, en lugares públicos,
 
 437
 00:21:37,981 --> 00:21:40,381
-no pude hacer nada  respecto a elos,
+no pude hacer nada respecto a ellos,
 
 438
 00:21:41,377 --> 00:21:43,277
@@ -1906,7 +1906,7 @@ pero como un geek,
 
 439
 00:21:43,277 --> 00:21:44,877
- sí sabía que podia apagarlas todas...
+sí sabía que podia apagarlas todas...
 
 440
 00:21:45,177 --> 00:21:47,177
@@ -1937,17 +1937,17 @@ para todas las televisiones
 
 446
 00:22:04,429 --> 00:22:05,930
-e hice el primer control  TV B GONE
+e hice el primer control "TV B GONE"
 
 447
 00:22:06,631 --> 00:22:08,464
 y me fui por toda la
-ciudad de San Francisco
+ciudad de San Francisco,
 
 448
 00:22:08,488 --> 00:22:12,388
-donde vivo apagando TVs
-y disfrutando cada momento.
+donde vivo, apagando TV´s
+y disfrutando de cada momento.
 
 449
 00:22:13,631 --> 00:22:17,131
@@ -1975,11 +1975,11 @@ remoto TV B GONE para todos ellos
 454
 00:22:27,531 --> 00:22:31,531
 pero resulto que muchos
-de sus amigos tambien querian uno,
+de sus amigos tambien querían uno,
 
 455
 00:22:31,631 --> 00:22:33,598
-y despues todos sus amigos
+y después todos sus amigos
 querian uno tambien,
 
 456
@@ -1989,7 +1989,7 @@ amigos de amigos también los querían
 
 457
 00:22:36,431 --> 00:22:37,664
-y ahí fue cuando me di cuenta
+y ahí fue cuando me di cuenta.
 
 458
 00:22:37,831 --> 00:22:39,831
@@ -1997,12 +1997,12 @@ y ahí fue cuando me di cuenta
 
 459
 00:22:40,818 --> 00:22:43,531
-así que tome un riesgo y
+Así que tome un riesgo y
 construí todos los que podía pagar,
 
 460
 00:22:43,631 --> 00:22:46,131
-que eran como 20,000,
+que eran como 20,000 
 
 461
 00:22:46,131 --> 00:22:51,331
@@ -2032,12 +2032,12 @@ he ganado dinero desde entonces.
 
 467
 00:23:11,331 --> 00:23:16,598
-En los  pasados 11 años he vendido
-más de  500,000 TV B GONE,
+En los pasados 11 años he vendido
+más de 500,000 TV B GONE,
 
 468
 00:23:18,876 --> 00:23:20,798
-eso es mas de 500,000 personas
+eso es más de 500,000 personas
 
 469
 00:23:21,767 --> 00:23:24,222
@@ -2046,11 +2046,11 @@ del mundo
 
 470
 00:23:25,650 --> 00:23:26,846
-y disfrutándolo.
+y disfrutándolo...
 
 471
 00:23:29,231 --> 00:23:30,731
-Gracias
+Gracias...
 
 472
 00:23:34,331 --> 00:23:38,831
@@ -2075,7 +2075,7 @@ y después hacer lo que realmente amo.
 
 477
 00:23:55,231 --> 00:24:01,731
-Gano lo suficiente haciendo lo que amo,
+Gáno lo suficiente haciendo lo que amo,
 para continuar haciendo lo que amo,
 
 478
@@ -2102,7 +2102,7 @@ pero vale la pena intentar.
 
 483
 00:24:21,131 --> 00:24:24,131
-Yo si.
+Yo sí.
 
 484
 00:24:24,231 --> 00:24:28,231
@@ -2150,7 +2150,7 @@ Y entonces empiezan a hacer un app.
 
 494
 00:24:57,031 --> 00:24:59,431
-Obtienen ayuda de otros ,
+Obtienen ayuda de otros,
 obtienen dinero de VCs,
 
 495
@@ -2196,7 +2196,7 @@ porque eso es lo que hacen los VCs,
 504
 00:25:25,597 --> 00:25:27,431
 ellos hacen lo que creen
-lo que saben hacer,
+que saben hacer,
 
 505
 00:25:27,455 --> 00:25:28,530
@@ -2227,7 +2227,7 @@ Y te quedas sin nada.
 511
 00:25:40,931 --> 00:25:44,531
 Pero eso esta muy bien,
-por que ya estabas harto
+porque ya estabas harto
 
 512
 00:25:44,631 --> 00:25:48,131
