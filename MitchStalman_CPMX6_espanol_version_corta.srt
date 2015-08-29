@@ -2237,7 +2237,7 @@ ni siquiera te importaba tanto
 513
 00:25:49,231 --> 00:25:51,831
 y los VCs no hacian nada con
-lo que quedaba de tu compañia,
+lo que quedaba de tu compañia
 
 514
 00:25:51,855 --> 00:25:53,955
@@ -2339,7 +2339,7 @@ puesto realmente a pensar que es.
 
 536
 00:27:11,193 --> 00:27:14,193
-¿Es una montón de dinero?
+¿Es un montón de dinero?
 
 537
 00:27:15,106 --> 00:27:16,113
@@ -2352,7 +2352,7 @@ hacer cosas cool con dinero
 
 539
 00:27:17,776 --> 00:27:18,780
-Pero no es por el dinero
+Pero no es por el dinero.
 
 540
 00:27:19,356 --> 00:27:22,080
@@ -2424,7 +2424,7 @@ excepto hacer esa pila de dinero.
 
 555
 00:27:59,354 --> 00:28:03,254
-¿Que tal, otro ejemplo?
+¿Que tal? ¿Otro ejemplo?
 
 556
 00:28:05,254 --> 00:28:08,954
@@ -2446,7 +2446,7 @@ De cierta forma, probablemente sí.
 
 560
 00:28:20,054 --> 00:28:22,054
-Pero, ¿qué tal si...
+Pero, ¿qué tal si...?
 
 561
 00:28:22,054 --> 00:28:24,987
@@ -2600,7 +2600,7 @@ Eso significa,
 594
 00:29:58,354 --> 00:30:02,221
 que tú, estas obteniendo lo
-suficiente haciendo lo que mas
+suficiente haciendo lo que amas
 
 595
 00:30:02,254 --> 00:30:04,854
@@ -2818,12 +2818,12 @@ que la gente se junte,
 
 643
 00:32:25,950 --> 00:32:30,050
-y explore y hagan lo que aman,
+explore y hagan lo que aman,
 solamente por la satisfacción de hacerlo.
 
 644
 00:32:30,050 --> 00:32:33,983
-Si algunos se ganan la vida haciendo esto,
+Sí algunos se ganan la vida haciendo esto,
 eso es un bonus.
 
 645
@@ -2871,7 +2871,7 @@ el espacio y lo mentienen vivo
 
 655
 00:32:59,656 --> 00:33:01,656
-todos son comunidades únicas.
+todas son comunidades únicas.
 
 656
 00:33:01,722 --> 00:33:02,722
@@ -2898,7 +2898,7 @@ hackerspace en cada universidad y escuela.
 
 661
 00:33:18,669 --> 00:33:22,436
-La cosas están creciendo rápidamente,
+Las cosas están creciendo rápidamente,
 estamos cambiando al mundo.
 
 662
@@ -2913,7 +2913,7 @@ totalmente gratuito
 664
 00:33:28,879 --> 00:33:32,146
 Donde cualquiera puede registrar
- su Hackerspace
+su Hackerspace
 
 665
 00:33:32,179 --> 00:33:34,079
@@ -2938,7 +2938,7 @@ que ocupe ayuda
 
 670
 00:33:44,333 --> 00:33:46,655
- iniciando administrando
+iniciando, administrando
 un hackerspace reciba ayuda.
 
 671
@@ -2952,7 +2952,7 @@ en verdad se ayudan todos mutuamente.
 673
 00:33:52,426 --> 00:33:57,026
 No improta como estén organizados,
-ni en quetema estén enfocados.
+ni en que tema estén enfocados.
 
 674
 00:33:58,531 --> 00:34:02,564
@@ -2984,7 +2984,7 @@ Chéquenlo, son más que bienvenidos ahí.
 
 680
 00:34:20,942 --> 00:34:23,842
-Y si no hay un hackerspace en tu ciuda.d..
+Y si no hay un hackerspace en tu ciudad...
 
 681
 00:34:24,010 --> 00:34:26,010
@@ -3030,7 +3030,7 @@ Hacer lo que amas es trabajo duro.
 690
 00:34:54,188 --> 00:34:58,788
 Una comunidad también puede ser
-trabajo duro.
+un trabajo duro.
 
 691
 00:34:58,886 --> 00:35:01,753
@@ -3044,7 +3044,7 @@ trabajando en comunidad.
 
 693
 00:35:17,398 --> 00:35:18,922
-Asi que, a donde lleva todo esto?...
+Asi que, ¿A donde lleva todo esto?...
 
 694
 00:35:20,465 --> 00:35:21,728
@@ -3056,7 +3056,7 @@ no soy bueno prediciendo el futuro.
 
 696
 00:35:25,322 --> 00:35:28,989
-Pero, lo que si se es que el 
+Pero, lo que sí sé es que el 
 futuro esta siendo creado,
 
 697
@@ -3098,7 +3098,7 @@ especie esta enfrentando en estos momentos
 
 705
 00:35:52,284 --> 00:35:57,217
-podemos si queremos trabajar en 
+podemos, si queremos trabajar en 
 esos problemas de alguna pequeña manera,
 
 706
@@ -3128,7 +3128,7 @@ y lo que eso signifique.
 
 712
 00:36:22,475 --> 00:36:25,208
-Y si, sientes que lo necesitas o quieres,
+Y si sientes que lo necesitas o quieres,
 
 713
 00:36:26,206 --> 00:36:29,873
@@ -3197,7 +3197,7 @@ parte de nuestras comunidades.
 
 728
 00:37:09,461 --> 00:37:12,961
-La decision es tu tomes 
+La decision es tú tomes 
 están creando tu futuro.
 
 729
@@ -3219,7 +3219,7 @@ y tuya solamente.
 
 733
 00:37:26,538 --> 00:37:28,538
-Asi que, por favor escoge bien
+Asi que, por favor escoge bien.
 
 734
 00:37:31,075 --> 00:37:32,908
@@ -3227,7 +3227,7 @@ Gracias por su tiempo
 
 735
 00:37:46,711 --> 00:37:51,178
-Asi que supongo que si alguien 
+Asií que supongo que si alguien 
 tiene algun comentario o pregunta,
 
 736
@@ -3305,7 +3305,7 @@ y despues se juntan cada martes.
 752
 00:38:49,642 --> 00:38:53,442
 Crean un nombre que 
-les gusten y que al grupo le guste,
+les guste y que al grupo le guste,
 
 753
 00:38:54,240 --> 00:38:55,240
@@ -3381,7 +3381,7 @@ Escribi un articulo para la revista MAKE,
 
 769
 00:39:39,671 --> 00:39:41,204
-hay muchos recursos .
+hay muchos recursos.
 
 770
 00:39:41,307 --> 00:39:44,107
@@ -3394,7 +3394,7 @@ este mitch@cornfieldelectronics.com
 
 772
 00:39:47,500 --> 00:39:52,367
-y ayudare y tambien lo haran 
+y ayudaré y también lo harán 
 otros los hackerspaces alrededor del mundo
 
 773
