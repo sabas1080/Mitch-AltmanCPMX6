@@ -3404,7 +3404,7 @@ otros los hackerspaces alrededor del mundo
 
 774
 00:39:56,742 --> 00:39:57,742
-Pasenlo
+Pásenlo
 
 775
 00:40:00,801 --> 00:40:01,801
@@ -3412,12 +3412,12 @@ Hola,
 
 776
 00:40:01,865 --> 00:40:05,732
-Alguna vez te metiste en problemas 
+¿Alguna vez te metiste en problemas 
 por apagar la tele con personas o compañias,
 
 777
 00:40:06,582 --> 00:40:10,740
-o te metiste en problemas con el gobierno por el TV B GONE.
+o te metiste en problemas con el gobierno por el TV B GONE?
 
 778
 00:40:11,598 --> 00:40:12,598
@@ -3466,7 +3466,7 @@ existieran al público.
 788
 00:40:38,582 --> 00:40:42,982
 Estas tele-pantallas estaban 
-por doquier y tu no podias apagarlas.
+por doquier y tu no podías apagarlas.
 
 789
 00:40:43,456 --> 00:40:45,956
@@ -3519,11 +3519,11 @@ asi que si presiono un pequeño boton…
 
 800
 00:41:39,452 --> 00:41:41,919
-no lo se… oh si funciono, aquí vamos.
+no lo se… oh si, funciono, aquí vamos.
 
 801
 00:41:45,130 --> 00:41:47,597
-Asi que creo que la respuesta es… si.
+Asi que creo que la respuesta es… sí.
 
 802
 00:41:49,403 --> 00:41:53,103
@@ -3549,7 +3549,7 @@ no tan elegante y es ilegal.
 807
 00:42:03,340 --> 00:42:06,955
 Si… TV B GONE es mejor, pero es solo un 
-control remoto como cualquier otro excepto,
+control remoto como cualquier otro, excepto,
 
 808
 00:42:07,443 --> 00:42:08,910
@@ -3619,8 +3619,8 @@ para decirle que es lo grandioso
 
 822
 00:43:05,349 --> 00:43:11,849
-de todo esto que estas haciendo, y por que
-estas demasiado feliz
+de todo esto que estas haciendo, y porqué
+estás demasiado feliz
 
 823
 00:43:12,099 --> 00:43:14,599
@@ -3629,17 +3629,17 @@ que haz hecho.
 
 824
 00:43:14,849 --> 00:43:16,449
-podrias hacer eso por mi, por favor.
+Podrias hacer eso por mi, por favor.
 
 825
 00:43:16,449 --> 00:43:20,949
-Bueno, mencione estuve muy deprimido
+Bueno, mencione que estuve muy deprimido
 de pequeño
 
 826
 00:43:21,099 --> 00:43:23,599
 realmente la primera mitad de mi vida
-no fue nada mas que depresion
+no fue nada mas que depresión
 
 827
 00:43:23,649 --> 00:43:30,149
@@ -3681,15 +3681,15 @@ que las cosas sean mejores de lo que eran
 835
 00:43:54,699 --> 00:44:02,199
 y con el tiempo me volvi un poco mejor de
-tal forma que tengo una vida que disfruto
+tal forma que tengo una vida que disfruto,
 
 836
 00:44:02,449 --> 00:44:04,149
-tomo añós,
+tomó años,
 
 837
 00:44:04,173 --> 00:44:05,373
-pero valio la pena,
+pero valió la pena,
 
 838
 00:44:05,657 --> 00:44:07,924
@@ -3734,7 +3734,7 @@ es como "amigo, ve a casa y duerme"
 
 847
 00:44:40,899 --> 00:44:45,999
-he escuchado de otrs personas que el dormir
+he escuchado de otras personas que el dormir
 es algo bueno
 
 848
@@ -3749,7 +3749,7 @@ sobre la comunidad biohacker,
 
 850
 00:44:59,749 --> 00:45:01,449
-es similar o no a los demas hackerspaces.
+¿Es similar o no a los demas hackerspaces?
 
 851
 00:45:01,499 --> 00:45:07,099
@@ -3758,7 +3758,7 @@ es parte de un hackerspace.
 
 852
 00:45:07,349 --> 00:45:10,849
-A que diferencia te refieres.
+¿A que diferencia te refieres?
 
 853
 00:45:11,099 --> 00:45:13,599
@@ -3768,7 +3768,7 @@ A que diferencia te refieres.
 854
 00:45:15,099 --> 00:45:20,599
 Esa
-comunidad esta creciendo muy rapido
+comunidad esta creciendo muy rápido
 
 855
 00:45:20,849 --> 00:45:23,849
@@ -3777,12 +3777,12 @@ area de San Francisco
 
 856
 00:45:24,015 --> 00:45:25,719
-que empezo todo esto junto
+que empezó todo esto junto
 
 857
 00:45:25,920 --> 00:45:32,620
 junto con una en NY,
-biocurious in SF and JeanSpace en NY
+biocurious en San Francisco y JeanSpace en Nueva York
 
 858
 00:45:33,470 --> 00:45:36,570
@@ -3808,7 +3808,7 @@ y que mucha gente no entiende.
 
 863
 00:45:54,170 --> 00:45:57,950
-En ves de convencer a la demas gente
+En ves de convencer a la demás gente
 que lo que hacen es seguro.
 
 864
@@ -3832,7 +3832,7 @@ al gobierno
 
 868
 00:46:10,820 --> 00:46:14,220
-que sus standares tienen sentido.
+que sus estandares tienen sentido.
 
 869
 00:46:14,470 --> 00:46:21,000
@@ -3898,22 +3898,22 @@ y queremos preguntarte
 
 883
 00:47:05,774 --> 00:47:12,674
-cuando decidiste que
+¿Cuando decidiste que
 querias fundar Noisebridge
 
 884
 00:47:13,300 --> 00:47:17,400
-y cuanto tiempo te tomo en verdad iniciar
-Noisebridge
+y cuanto tiempo te tomó en verdad iniciar
+Noisebridge?
 
 885
 00:47:17,550 --> 00:47:19,750
 y tambien queremos preguntarte
-cuando vendras a visitar
+¿Cuando vendrás a visitar
 
 886
 00:47:20,000 --> 00:47:21,500
-nuestros hackerspaces.
+nuestros hackerspaces?
 
 887
 00:47:21,650 --> 00:47:23,150
@@ -3940,12 +3940,12 @@ mi tour por UK de hace varios años.
 
 892
 00:47:41,000 --> 00:47:46,108
-Despues de que descubrieron
+Después de que descubrieron
 todos estos posters de los Nazis.
 
 893
 00:47:46,358 --> 00:47:49,558
-Hacer un tour por México seria divertido.
+Hacer un tour por México sería divertido.
 
 894
 00:47:49,808 --> 00:47:55,900
@@ -3954,7 +3954,7 @@ fui a una enorme conferencia de hackers
 
 895
 00:47:56,250 --> 00:48:00,000
-en esa ocasion eran 2500 personas,
+en esa ocasión eran 2500 personas,
 
 896
 00:48:00,250 --> 00:48:07,750
@@ -3963,8 +3963,8 @@ un poco abrumador, mucha gente genial.
 
 897
 00:48:08,000 --> 00:48:11,500
-Esas 2500 personas tenian todas esas cosas
-asombrosas como aqui,
+Esas 2500 personas tenían todas esas cosas
+asombrosas como aquí,
 
 898
 00:48:11,550 --> 00:48:14,550
@@ -3978,18 +3978,18 @@ si iniciaba un hackerspace en mi ciudad
 
 900
 00:48:20,581 --> 00:48:24,150
-la grandiosa magia de ese evento
-no tenia por que terminar.
+la grandiosa mágia de ese evento
+no tenía por que terminar.
 
 901
 00:48:24,400 --> 00:48:28,900
-Un amigo que estaba ahi, tambien de San Francisco,
-ambos tuvimos la misma inspiracion.
+Un amigo que estaba ahí, también de San Francisco,
+ambos tuvimos la misma inspiración.
 
 902
 00:48:29,150 --> 00:48:35,700
 Cuando regresamos a casa empezamos a hablar
-he hicimos todo lo que le describi a la señorita.
+he hicimos todo lo que le describí.
 
 903
 00:48:36,000 --> 00:48:40,400
@@ -3999,19 +3999,19 @@ buscamos un nombre, un sitio web, un logo, stickers,
 904
 00:48:40,650 --> 00:48:47,750
 los distribuimos, nos reuniamos cada martes, hablamos de lo
-que queriamos en el espacio,
+que queríamos en el espacio,
 
 905
 00:48:48,000 --> 00:48:50,000
-pero no habia muchos ejemplos para hablar de ellos,
+pero no había muchos ejemplos para hablar de ellos,
 
 906
 00:48:50,150 --> 00:48:52,650
-asi que tomo como un año para delinearlo
+así que tomó como un año para delinearlo
 
 907
 00:48:52,900 --> 00:48:59,400
-Una cosa que no mencione antes, hablando de organizacion
+Una cosa que no mencione antes, hablando de organización
 
 908
 00:48:59,650 --> 00:49:07,150
@@ -4026,11 +4026,11 @@ debemos tener un comite, que tipo de decisiones, como lo hacemos
 910
 00:49:13,250 --> 00:49:20,000
 Esto no es por lo que nos reunimos, nos reunimos
-por que queriamos hackear el planeta
+porque queriamos hackear el planeta
 
 911
 00:49:20,250 --> 00:49:23,500
-Asi que la energia se fue, y nos dimos cuenta que
+Así que la energia se fue, y nos dimos cuenta que
 necesitamos mantener la energia reunida,
 
 912
@@ -4062,7 +4062,7 @@ que es un lugar asombroso.
 
 918
 00:49:47,150 --> 00:49:55,650
-No teniamos dinero, asi que hablamos y en un dia
+No teniamos dinero, asi que hablamos y en un día
 teniamos $12,000 USD en donaciones.
 
 919
@@ -4080,7 +4080,7 @@ Por cierto Noisbridge,
 
 922
 00:50:23,726 --> 00:50:26,867
-decidimos que seria un espacio anarquista
+decidimos que sería un espacio anarquista
 
 923
 00:50:29,636 --> 00:50:33,803
@@ -4103,7 +4103,7 @@ Terminamos…
 
 927
 00:50:44,612 --> 00:50:45,612
-esta bien.
+está bien.
 
 928
 00:50:45,612 --> 00:50:47,145
