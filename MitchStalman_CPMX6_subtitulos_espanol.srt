@@ -3404,123 +3404,735 @@ fui a una enorme conferencia de hackers
 en esa ocasion eran 2500 personas,
 
 774
+00:39:56,742 --> 00:39:57,742
+Pásenlo
+
+775
+00:40:00,801 --> 00:40:01,801
+Hola,
+
+776
+00:40:01,865 --> 00:40:05,732
+¿Alguna vez te metiste en problemas 
+por apagar la tele con personas o compañias,
+
+777
+00:40:06,582 --> 00:40:10,740
+o te metiste en problemas con el gobierno por el TV B GONE?
+
+778
+00:40:11,598 --> 00:40:12,598
+No,
+
+779
+00:40:13,054 --> 00:40:14,054
+por dos razones.
+
+780
+00:40:14,182 --> 00:40:16,382
+No es ilegal apagar televisiones,
+
+781
+00:40:18,431 --> 00:40:19,831
+aunque no sean tuyas.
+
+782
+00:40:20,178 --> 00:40:23,778
+Hay un libro escrito en el 
+idioma ingles llamado 1984.
+
+783
+00:40:25,241 --> 00:40:27,108
+¿Estás familiarizada con el?
+
+784
+00:40:27,243 --> 00:40:29,376
+Es un futuro distópico 
+donde todo está controlado,
+
+785
+00:40:29,675 --> 00:40:31,575
+y tienen unas cosas 
+llamadas tele-pantallas.
+
+786
+00:40:32,436 --> 00:40:33,836
+Este libro se escribio en 1948,
+
+787
+00:40:33,860 --> 00:40:37,660
+antes de que las televisiones 
+existieran al público.
+
+788
+00:40:38,582 --> 00:40:42,982
+Estas tele-pantallas estaban 
+por doquier y tu no podías apagarlas.
+
+789
+00:40:43,456 --> 00:40:45,956
+Afortunadamente nuestro 
+mundo no se ha puesto TAN mal,
+
+790
+00:40:46,506 --> 00:40:49,773
+así que si puedes apagarlas y 
+lo recomiendo, es divertido.
+
+791
+00:40:50,079 --> 00:40:53,912
+También, TV B GONE es incognito,
+
+792
+00:40:54,453 --> 00:40:57,586
+así que nadie sabe que soy 
+yo cuando se apagan.
+
+793
+00:41:12,678 --> 00:41:15,278
+Hola, ¿Puedes apagar esas televisiones?
+
+794
+00:41:17,023 --> 00:41:18,956
+TOSHIBA, vamos a averiguarlo.
+
+795
+00:41:19,067 --> 00:41:21,800
+Sin embargo usaré el PRO, por que el PRO…
+
+796
+00:41:24,258 --> 00:41:26,058
+¿Traje mi PRO? Si lo traje…
+
+797
+00:41:27,304 --> 00:41:29,604
+Muchas personas creen que el 
+PRO se ve como un telefono
+
+798
+00:41:31,645 --> 00:41:34,245
+pero no, es un TV B GONE que 
+funciona hasta los 100 metros.,
+
+799
+00:41:34,605 --> 00:41:37,072
+asi que si presiono un pequeño boton…
+
+800
+00:41:39,452 --> 00:41:41,919
+no lo se… oh si, funciono, aquí vamos.
+
+801
+00:41:45,130 --> 00:41:47,597
+Asi que creo que la respuesta es… sí.
+
+802
+00:41:49,403 --> 00:41:53,103
+Cuanto tiempo tiene que pasar 
+para que puedas volver a prender la tv
+
+803
+00:41:53,221 --> 00:41:54,221
+No lastima la television,
+
+804
+00:41:56,394 --> 00:41:57,544
+si quieres lastimarlas…
+
+805
+00:41:57,645 --> 00:41:59,845
+avientales un ladrillo,
+
+806
+00:41:59,917 --> 00:42:01,784
+no tan elegante y es ilegal.
+
+807
+00:42:03,340 --> 00:42:06,955
+Si… TV B GONE es mejor, pero es solo un 
+control remoto como cualquier otro, excepto,
+
+808
+00:42:07,443 --> 00:42:08,910
+que me deshice de todos esos botones
+
+809
+00:42:09,021 --> 00:42:10,988
+estupidos que no necesitas 
+cuando tienes una TV,
+
+810
+00:42:11,126 --> 00:42:14,226
+como canal hacia arriba, canal hacia 
+abajo, subir volumen,todas esas cosas.
+
+811
+00:42:14,259 --> 00:42:16,992
+El únco botón que necesitas cuando 
+tienes una TV es el de apagar.
+
+812
+00:42:17,020 --> 00:42:19,720
+Así que por eso solo tengo un boton 
+aqui, que es el de apagado.
+
+813
+00:42:19,899 --> 00:42:20,899
+Gracias
+
+814
+00:42:20,935 --> 00:42:21,935
+De nada
+
+815
+00:42:36,699 --> 00:42:37,999
+-Esta funcionando?
+- Funciona.
+
+816
+00:42:38,899 --> 00:42:43,999
+Hola, mi nombre es Octavio.
+Esta conmigo mi amigo David.
+
+817
+00:42:44,249 --> 00:42:48,749
+El es muy bueno programando y
+haciendo todas estas cosas.
+
+818
+00:42:48,999 --> 00:42:51,199
+Pero, creo que el necesita
+relajarse un poco.
+
+819
+00:42:52,049 --> 00:42:57,549
+Asi que encuentro divertido,
+estas cosas de los hackerspaces.
+
+820
+00:42:58,399 --> 00:43:01,999
+Y realmente creo que el
+necesita un consejo de tu parte
+
+821
+00:43:02,023 --> 00:43:04,923
+para decirle que es lo grandioso
+
+822
+00:43:05,349 --> 00:43:11,849
+de todo esto que estas haciendo, y porqué
+estás demasiado feliz
+
+823
+00:43:12,099 --> 00:43:14,599
+despues de todo el trabajo
+que haz hecho.
+
+824
+00:43:14,849 --> 00:43:16,449
+Podrias hacer eso por mi, por favor.
+
+825
+00:43:16,449 --> 00:43:20,949
+Bueno, mencione que estuve muy deprimido
+de pequeño
+
+826
+00:43:21,099 --> 00:43:23,599
+realmente la primera mitad de mi vida
+no fue nada mas que depresión
+
+827
+00:43:23,649 --> 00:43:30,149
+y es una larga historia, pero las
+decisiones que tome
+
+828
+00:43:30,399 --> 00:43:32,899
+me mantuvieron deprimido
+
+829
+00:43:33,149 --> 00:43:37,149
+Y una ves que me di cuenta que
+las decisiones que tomaba
+
+830
+00:43:37,173 --> 00:43:39,098
+tenian un gran efecto en mi vida.
+
+831
+00:43:39,099 --> 00:43:42,199
+Empece a poner atencion a mis decisiones.
+
+832
+00:43:42,449 --> 00:43:46,149
+y aprender de las consecuencias,
+por que no era bueno en tomar decisiones
+
+833
+00:43:46,399 --> 00:43:48,799
+era malisimo en tomarlas y aun no soy
+muy bueno
+
+834
+00:43:49,049 --> 00:43:54,449
+pero son lo suficiente mente buenas para
+que las cosas sean mejores de lo que eran
+
+835
+00:43:54,699 --> 00:44:02,199
+y con el tiempo me volvi un poco mejor de
+tal forma que tengo una vida que disfruto,
+
+836
+00:44:02,449 --> 00:44:04,149
+tomó años,
+
+837
+00:44:04,173 --> 00:44:05,373
+pero valió la pena,
+
+838
+00:44:05,657 --> 00:44:07,924
+ la otra opcion era no estar vivo.
+
+839
+00:44:09,099 --> 00:44:11,699
+Me alegra estar vivo
+
+840
+00:44:12,899 --> 00:44:15,799
+Necesitamos cuidarnos nosotros mismos,
+no importa lo que hagamos, inclusive si es algo
+
+841
+00:44:16,049 --> 00:44:20,049
+amamos competamente, aun asi, necesitamos descanzar,
+dormir, comida
+
+842
+00:44:20,299 --> 00:44:26,099
+me refiero a comida real, no snickers, los snickers son
+grandiosos
+
+843
+00:44:26,349 --> 00:44:28,449
+pero necesitamos otro tipo de comida,
+con nutrientes
+
+844
+00:44:29,099 --> 00:44:32,999
+Necesitamos cuidarnos a nosotros mismos,
+si somos amigos dentro de una comunidad
+
+845
+00:44:33,149 --> 00:44:35,049
+nos cuidamos los unos a los otros.
+
+846
+00:44:35,299 --> 00:44:39,999
+es como "amigo, ve a casa y duerme"
+
+847
+00:44:40,899 --> 00:44:45,999
+he escuchado de otras personas que el dormir
+es algo bueno
+
+848
+00:44:47,249 --> 00:44:49,749
+-Gracias
+-De nada
+
+849
+00:44:55,399 --> 00:44:59,499
+Cuales son tus pensamientos
+sobre la comunidad biohacker,
+
+850
+00:44:59,749 --> 00:45:01,449
+¿Es similar o no a los demas hackerspaces?
+
+851
+00:45:01,499 --> 00:45:07,099
+Mmm no estoy seguro, una comunidad hacker
+es parte de un hackerspace.
+
+852
+00:45:07,349 --> 00:45:10,849
+¿A que diferencia te refieres?
+
+853
+00:45:11,099 --> 00:45:13,599
+-La comunidad biohacker.
+-Oh biohacker
+
+854
+00:45:15,099 --> 00:45:20,599
+Esa
+comunidad esta creciendo muy rápido
+
+855
+00:45:20,849 --> 00:45:23,849
+Hay una comunidad en el
+area de San Francisco
+
+856
+00:45:24,015 --> 00:45:25,719
+que empezó todo esto junto
+
+857
+00:45:25,920 --> 00:45:32,620
+junto con una en NY,
+biocurious en San Francisco y JeanSpace en Nueva York
+
+858
+00:45:33,470 --> 00:45:36,570
+Pero ahora hay muchos alrededor del mundo
+y estan haciendo cosas increibles.
+
+859
+00:45:38,820 --> 00:45:44,820
+Algunas veces son parte de otro hackerspace
+
+860
+00:45:44,920 --> 00:45:47,420
+Pero en otras ocasiones estan separados.
+
+861
+00:45:47,520 --> 00:45:50,170
+por que trabajan con materiales
+que son un poco peligrosos
+
+862
+00:45:50,270 --> 00:45:53,920
+y que mucha gente no entiende.
+
+863
+00:45:54,170 --> 00:45:57,950
+En ves de convencer a la demás gente
+que lo que hacen es seguro.
+
+864
+00:45:58,800 --> 00:46:00,420
+Esperamos que asi sea.
+
+865
+00:46:00,570 --> 00:46:04,170
+Se mueven a sus propios espacios y
+crean sus propios standares de seguridad.
+
+866
+00:46:04,290 --> 00:46:06,920
+Y se ayudan entre ellos a crear
+estos standares de seguridad
+
+867
+00:46:07,020 --> 00:46:10,720
+y constantemente le tienen que asegurar
+al gobierno
+
+868
+00:46:10,820 --> 00:46:14,220
+que sus estandares tienen sentido.
+
+869
+00:46:14,470 --> 00:46:21,000
+Hay algunas diferencias contra
+lo que llamamos hackerspaces,
+
+870
+00:46:21,130 --> 00:46:24,930
+Pero realmente son la misma cosa.
+
+871
+00:46:25,180 --> 00:46:28,180
+Son espacios con comunidades de personas
+que exploran y creen
+
+872
+00:46:28,230 --> 00:46:31,930
+que lo que hacen es asombroso y se apoyan
+para hacer eso.
+
+873
+00:46:32,880 --> 00:46:36,380
+Lo que piensan que es asombroso
+es todo tipo de biología.
+
+874
+00:46:37,000 --> 00:46:40,298
+Ya sea trabajar con DNA.
+
+875
+00:46:40,380 --> 00:46:41,980
+Ya sea el crecer plantas.
+
+876
+00:46:42,130 --> 00:46:45,430
+Ya sea el modificar partes de su cuerpo
+
+877
+00:46:45,600 --> 00:46:49,380
+Que al parecer mucha gente lo esta
+haciendo.
+
+878
+00:46:49,630 --> 00:46:55,130
+Lo que sea esta bien si es lo en lo que la
+gente se apoya.
+
+879
+00:46:58,380 --> 00:46:59,400
+Hola,
+
+880
+00:46:59,424 --> 00:47:01,424
+somos tres personas con tres hackerspaces
+
+881
+00:47:01,448 --> 00:47:03,448
+en tres diferentes estados.
+
+882
+00:47:04,650 --> 00:47:05,750
+y queremos preguntarte
+
+883
+00:47:05,774 --> 00:47:12,674
+¿Cuando decidiste que
+querias fundar Noisebridge
+
+884
+00:47:13,300 --> 00:47:17,400
+y cuanto tiempo te tomó en verdad iniciar
+Noisebridge?
+
+885
+00:47:17,550 --> 00:47:19,750
+y tambien queremos preguntarte
+¿Cuando vendrás a visitar
+
+886
+00:47:20,000 --> 00:47:21,500
+nuestros hackerspaces?
+
+887
+00:47:21,650 --> 00:47:23,150
+Oh, amo visitar lugares.
+
+888
+00:47:23,400 --> 00:47:25,100
+Esta es la primera vez que vengo a México
+
+889
+00:47:25,150 --> 00:47:29,550
+desde que el movimiento de los hackerspaces
+iniciara, han sido muchos años.
+
+890
+00:47:30,000 --> 00:47:34,000
+Y vere por un tour de talleres
+alrededor de México.
+
+891
+00:47:34,250 --> 00:47:40,750
+Por cierto, esta playera es de
+mi tour por UK de hace varios años.
+
+892
+00:47:41,000 --> 00:47:46,108
+Después de que descubrieron
+todos estos posters de los Nazis.
+
+893
+00:47:46,358 --> 00:47:49,558
+Hacer un tour por México sería divertido.
+
+894
+00:47:49,808 --> 00:47:55,900
+La historia de Noisebridge rapidamente,
+fui a una enorme conferencia de hackers
+
+895
+00:47:56,250 --> 00:48:00,000
+en esa ocasión eran 2500 personas,
+
+896
 00:48:00,250 --> 00:48:07,750
 esta es de 12500 es
 un poco abrumador, mucha gente genial.
 
-775
+897
 00:48:08,000 --> 00:48:11,500
-Esas 2500 personas tenian todas esas cosas
-asombrosas como aqui,
+Esas 2500 personas tenían todas esas cosas
+asombrosas como aquí,
 
-776
+898
 00:48:11,550 --> 00:48:14,550
 grandes charlas y una de ellas era acerca
 de como iniciar tu hackerspace
 
-777
+899
 00:48:15,369 --> 00:48:19,400
-Es ahi cuando me di cuenta que 
+Es ahi cuando me di cuenta que
 si iniciaba un hackerspace en mi ciudad
 
-778
+900
 00:48:20,581 --> 00:48:24,150
-la grandiosa magia de ese evento
-no tenia por que terminar.
+la grandiosa mágia de ese evento
+no tenía por que terminar.
 
-779
+901
 00:48:24,400 --> 00:48:28,900
-Un amigo que estaba ahi, tambien de San Francisco,
-ambos tuvimos la misma inspiracion.
+Un amigo que estaba ahí, también de San Francisco,
+ambos tuvimos la misma inspiración.
 
-780
+902
 00:48:29,150 --> 00:48:35,700
 Cuando regresamos a casa empezamos a hablar
-he hicimos todo lo que le describi a la señorita.
+he hicimos todo lo que le describí.
 
-781
+903
 00:48:36,000 --> 00:48:40,400
 Hablamos con amigos, que les dijeron a otros amigos ,
 buscamos un nombre, un sitio web, un logo, stickers,
 
-782
+904
 00:48:40,650 --> 00:48:47,750
 los distribuimos, nos reuniamos cada martes, hablamos de lo
-que queriamos en el espacio,
+que queríamos en el espacio,
 
-783
+905
 00:48:48,000 --> 00:48:50,000
-pero no habia muchos ejemplos para hablar de ellos,
+pero no había muchos ejemplos para hablar de ellos,
 
-784
+906
 00:48:50,150 --> 00:48:52,650
-asi que tomo como un año para delinearlo
+así que tomó como un año para delinearlo
 
-785
+907
 00:48:52,900 --> 00:48:59,400
-Una cosa que no mencione antes, hablando de organizacion
+Una cosa que no mencione antes, hablando de organización
 
-786
+908
 00:48:59,650 --> 00:49:07,150
 y estructura legal, que tipo de corporacion deberia ser:
 sin fines de lucro, con fines de lucro.
 
-787
+909
 00:49:07,400 --> 00:49:13,000
 Que tipo sin fines de lucro, debe ser una membresia,
 debemos tener un comite, que tipo de decisiones, como lo hacemos
 
-788
+910
 00:49:13,250 --> 00:49:20,000
 Esto no es por lo que nos reunimos, nos reunimos
-por que queriamos hackear el planeta
+porque queriamos hackear el planeta
 
-789
+911
 00:49:20,250 --> 00:49:23,500
-Asi que la energia se fue, y nos dimos cuenta que
+Así que la energia se fue, y nos dimos cuenta que
 necesitamos mantener la energia reunida,
 
-790
+912
 00:49:23,650 --> 00:49:26,250
 y lo hicimos realizando talleres.
 
-791
+913
 00:49:26,500 --> 00:49:29,900
 Realizar talleres es lo que mantiene las cosas con vida.
 
-792
+914
 00:49:30,150 --> 00:49:36,650
 Asi que tuvimos muchos talleres, y eventualmente
 tuvimos una idea de lo que queriamos
 
-793
+915
 00:49:37,000 --> 00:49:40,000
 documentamos todo, asi todos sabian en que
 estaban participando
 
-794
+916
 00:49:40,150 --> 00:49:44,600
 buscamos lugares, en un mes encontramos muchos lugares,
 decidimos por uno
 
-795
+917
 00:49:44,750 --> 00:49:47,000
 que es un lugar asombroso.
 
-796
+918
 00:49:47,150 --> 00:49:55,650
-No teniamos dinero, asi que hablamos y en un dia
+No teniamos dinero, asi que hablamos y en un día
 teniamos $12,000 USD en donaciones.
 
-797
+919
 00:49:55,900 --> 00:49:58,200
 Suficiente para pagar el primer mes, el ultimo mes y el deposito
 
-798
+920
 00:49:58,450 --> 00:50:02,050
 Y no hemos estado en deuda desde ese entonces, y eso
 fue hace 8 años.
 
-799
-00:50:00,200 --> 00:50:01,700
+921
+00:50:22,484 --> 00:50:23,670
+Por cierto Noisbridge,
+
+922
+00:50:23,726 --> 00:50:26,867
+decidimos que sería un espacio anarquista
+
+923
+00:50:29,636 --> 00:50:33,803
+y por anarquista me refiero a gente auto 
+organizandose para hacer que todas las cosas geniales ocurran.
+
+924
+00:50:34,149 --> 00:50:37,149
+Por que si hubiesemos 
+querido uno con lideres
+
+925
+00:50:37,358 --> 00:50:41,825
+yo hubiera sido uno de esos 
+lideres, y eso sería muchísimo trabajo.
+
+926
+00:50:43,524 --> 00:50:44,524
+Terminamos…
+
+927
+00:50:44,612 --> 00:50:45,612
+está bien.
+
+928
+00:50:45,612 --> 00:50:47,145
+Se nos acabo el tiempo,
+
+929
+00:50:47,992 --> 00:50:49,792
+muchas gracias a todos por venir,
+
+930
+00:50:49,850 --> 00:50:51,750
+si tienen alguna pregunta 
+solamente busquenme,
+
+931
+00:50:51,916 --> 00:50:53,316
+estaré por aquí los próximos dias
+
+932
+00:50:53,364 --> 00:50:55,631
+y ustedes tienen mi 
+direccion de correo electrónico,
+
+933
+00:50:55,794 --> 00:50:59,769
+si lo anotaron de la presentación …
+
+934
+00:51:02,700 --> 00:51:04,500
+así que … gracias a todos!
 
