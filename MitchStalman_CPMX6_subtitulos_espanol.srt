@@ -3218,190 +3218,189 @@ la decisión es tuya,
 y tuya solamente.
 
 733
-00:45:20,849 --> 00:45:23,849
-Hay una comunidad en el 
-area de San Francisco
+00:37:26,538 --> 00:37:28,538
+Asi que, por favor escoge bien.
 
 734
-00:45:24,015 --> 00:45:25,719
-que empezo todo esto junto
+00:37:31,075 --> 00:37:32,908
+Gracias por su tiempo
 
 735
-00:45:25,920 --> 00:45:32,620
-junto con una en NY,
-biocurious in SF and JeanSpace en NY
+00:37:46,711 --> 00:37:51,178
+Asií que supongo que si alguien 
+tiene algun comentario o pregunta,
 
 736
-00:45:33,470 --> 00:45:36,570
-Pero ahora hay muchos alrededor del mundo
-y estan haciendo cosas increibles.
+00:37:52,810 --> 00:37:54,643
+por favor sientante en 
+libertad de hacerlas.
 
 737
-00:45:38,820 --> 00:45:44,820
-Algunas veces son parte de otro hackerspace
+00:37:54,795 --> 00:37:56,326
+Este microfono se avienta y funciona…
 
 738
-00:45:44,920 --> 00:45:47,420
-Pero en otras ocasiones estan separados.
+00:37:56,557 --> 00:37:59,157
+Este es un microfono, alguien lo quiere
 
 739
-00:45:47,520 --> 00:45:50,170
-por que trabajan con materiales 
-que son un poco peligrosos
+00:38:02,871 --> 00:38:04,004
+Soy malo en deportes,
 
 740
-00:45:50,270 --> 00:45:53,920
-y que mucha gente no entiende.
+00:38:04,122 --> 00:38:09,389
+asi que si golpeo alguien en la cabeza, 
+me disculpo por adelantado
 
 741
-00:45:54,170 --> 00:45:57,950
-En ves de convencer a la demas gente
-que lo que hacen es seguro.
+00:38:10,616 --> 00:38:11,616
+Toma, pásalo
 
 742
-00:45:58,800 --> 00:46:00,420
-Esperamos que asi sea.
+00:38:16,887 --> 00:38:17,887
+-Hola
+-Hola
 
 743
-00:46:00,570 --> 00:46:04,170
-Se mueven a sus propios espacios y
-crean sus propios standares de seguridad.
+00:38:18,673 --> 00:38:24,273
+Tengo una pregunta 
+¿Como puedo crear una comunidad de hacking?
 
 744
-00:46:04,290 --> 00:46:06,920
-Y se ayudan entre ellos a crear
-estos standares de seguridad
+00:38:25,270 --> 00:38:26,737
+Como puedes crear una?
 
 745
-00:46:07,020 --> 00:46:10,720
-y constantemente le tienen que asegurar
-al gobierno
+00:38:27,210 --> 00:38:28,877
+De hecho es muy sencillo.
 
 746
-00:46:10,820 --> 00:46:14,220
-que sus standares tienen sentido.
+00:38:29,512 --> 00:38:31,912
+Es mucho trabajo, pero vale la pena.
 
 747
-00:46:14,470 --> 00:46:21,000
-Hay algunas diferencias contra
-lo que llamamos hackerspaces,
+00:38:32,024 --> 00:38:33,891
+Se necesita mucho tiempo 
+y vale mucho la pena.
 
 748
-00:46:21,130 --> 00:46:24,930
-Pero realmente son la misma cosa.
+00:38:34,135 --> 00:38:37,135
+Se necesita mucha energia, 
+pero vale la pena.
 
 749
-00:46:25,180 --> 00:46:28,180
-Son espacios con comunidades de personas
-que exploran y creen
+00:38:38,918 --> 00:38:41,985
+Básicamente, le dices 
+a todos los que conoces,
 
 750
-00:46:28,230 --> 00:46:31,930
-que lo que hacen es asombroso y se apoyan
-para hacer eso.
+00:38:42,942 --> 00:38:45,675
+y no te callas al respecto de 
+que vas a empezar un hackerspace
 
 751
-00:46:32,880 --> 00:46:36,380
-Lo que piensan que es asombroso
-es todo tipo de biología.
+00:38:46,690 --> 00:38:48,890
+y despues se juntan cada martes.
 
 752
-00:46:37,000 --> 00:46:40,298
-Ya sea trabajar con DNA.
+00:38:49,642 --> 00:38:53,442
+Crean un nombre que 
+les guste y que al grupo le guste,
 
 753
-00:46:40,380 --> 00:46:41,980
-Ya sea el crecer plantas.
+00:38:54,240 --> 00:38:55,240
+construyen un sitio web.
 
 754
-00:46:42,130 --> 00:46:45,430
-Ya sea el modificar partes de su cuerpo
+00:38:55,703 --> 00:38:58,603
+Consiguen a alguien que la haga, 
+casi siempre hay alguien que la haga,
 
 755
-00:46:45,600 --> 00:46:49,380
-Que al parecer mucha gente lo esta
-haciendo.
+00:38:58,627 --> 00:39:00,537
+haces que alguien más haga un logo,
 
 756
-00:46:49,630 --> 00:46:55,130
-Lo que sea esta bien si es lo en lo que la
-gente se apoya.
+00:39:00,538 --> 00:39:02,905
+pones ese logo en tu sitio web,
 
 757
-00:46:58,380 --> 00:46:59,400
-Hola,
+00:39:02,995 --> 00:39:06,028
+y tomas la direccion web 
+y la pones en un sticker.
 
 758
-00:46:59,424 --> 00:47:01,424
-somos tres personas con tres hackerspaces
+00:39:06,281 --> 00:39:08,014
+Les das stickers a todos los que conozcas
 
 759
-00:47:01,448 --> 00:47:03,448
-en tres diferentes estados.
+00:39:08,079 --> 00:39:10,246
+que puedan estar 
+interesados y hasta los que no,
 
 760
-00:47:04,650 --> 00:47:05,750
-y queremos preguntarte
+00:39:10,347 --> 00:39:12,271
+ya que sus amigos 
+pudieran estar interesados.
 
 761
-00:47:05,774 --> 00:47:12,674
-cuando decidiste que
-querias fundar Noisebridge
+00:39:12,871 --> 00:39:15,271
+Y nuevamente, sigues hablando 
+al respecto y no te callas.
 
 762
-00:47:13,300 --> 00:47:17,400
-y cuanto tiempo te tomo en verdad iniciar
-Noisebridge
+00:39:15,661 --> 00:39:17,994
+Se juntan cada martes,
 
 763
-00:47:17,550 --> 00:47:19,750
-y tambien queremos preguntarte 
-cuando vendras a visitar
+00:39:18,280 --> 00:39:20,880
+y eventualmente habra suficiente energia
 
 764
-00:47:20,000 --> 00:47:21,500
-nuestros hackerspaces.
+00:39:20,974 --> 00:39:24,107
+para saber lo que quieren 
+y rentan un espacio.
 
 765
-00:47:21,650 --> 00:47:23,150
-Oh, amo visitar lugares.
+00:39:26,312 --> 00:39:27,912
+Eso es basicamente todo,
 
 766
-00:47:23,400 --> 00:47:25,100
-Esta es la primera vez que vengo a México
+00:39:28,173 --> 00:39:31,973
+y si necesitas recursos 
+hackerspaces.org, esta disponible
 
 767
-00:47:25,150 --> 00:47:29,550
-desde que el movimiento de los hackerspaces
-iniciara, han sido muchos años.
+00:39:32,873 --> 00:39:37,006
+y también puedes buscar como 
+empezar o como crear un hackerspace.
 
 768
-00:47:30,000 --> 00:47:34,000
-Y vere por un tour de talleres 
-alrededor de México.
+00:39:37,219 --> 00:39:39,552
+Escribi un articulo para la revista MAKE,
 
 769
-00:47:34,250 --> 00:47:40,750
-Por cierto, esta playera es de 
-mi tour por UK de hace varios años.
+00:39:39,671 --> 00:39:41,204
+hay muchos recursos.
 
 770
-00:47:41,000 --> 00:47:46,108
-Despues de que descubrieron 
-todos estos posters de los Nazis.
+00:39:41,307 --> 00:39:44,107
+Mandenme un correo, 
+donde sea que mi informacion de contacto
 
 771
-00:47:46,358 --> 00:47:49,558
-Hacer un tour por México seria divertido.
+00:39:45,371 --> 00:39:47,315
+este mitch@cornfieldelectronics.com
 
 772
-00:47:49,808 --> 00:47:55,900
-La historia de Noisebridge rapidamente, 
-fui a una enorme conferencia de hackers
+00:39:47,500 --> 00:39:52,367
+y ayudaré y también lo harán 
+otros los hackerspaces alrededor del mundo
 
 773
-00:47:56,250 --> 00:48:00,000
-en esa ocasion eran 2500 personas,
+00:39:52,451 --> 00:39:54,184
+-Muchas gracias
+-De nada.
 
 774
 00:39:56,742 --> 00:39:57,742
